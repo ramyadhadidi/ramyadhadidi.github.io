@@ -36,7 +36,7 @@ __HDL:__ Verilog, VHDL, ModelSim, MATLAB HDL Toolboxes
 __FPGA:__ Altera Quartus, Xilinx ISE, Xilinx Vivado  
 __Computing:__ MATLAB & Simulink  
 __Parallel Processing:__ Nvidia CUDA  
-__ARM:__ Keil µVision on ARM-7, ARM Cortex-M3  	
+__ARM:__ Keil µVision on ARM-7, ARM Cortex-M3  
 __Embedded Systems:__ NiosII IDE + Altera Eclipse/SOPC Builder  
 __Assembly:__ x86, PTX, ARM, MIPS  
 __Network Tools:__ OPNET, NS2, NS3  
