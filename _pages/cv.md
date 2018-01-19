@@ -31,7 +31,7 @@ Major in Digital Systems, Major GPA: 4.00/4.00
 ### Skills
 __Programming:__ C, C++, Python, Bash, LLVM IR  
 __Architecture Simulators:__ MacSim, SST, GEM5, MARSSx86, Sniper, GPGPU-Sim  
-__Machine Learning:__ Caffe, PyTorch, TensorFlow, Keras  
+__Machine Learning:__ Keras, Caffe, PyTorch, TensorFlow  
 __HDL:__ Verilog, VHDL, ModelSim, MATLAB HDL Toolboxes  
 __FPGA:__ Altera Quartus, Xilinx ISE, Xilinx Vivado  
 __Computing:__ MATLAB & Simulink  
