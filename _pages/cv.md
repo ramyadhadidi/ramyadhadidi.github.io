@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My full resume can be found here: [[pdf]](https://www.dropbox.com/s/2wudjhwl2xu0m6i/CV_Ramyad_Hadidi.pdf?dl=0)
+My full resume can be found here: [[pdf]](https://drive.google.com/open?id=1g9jr_mZh3BRFGl2ICs0udy4czGcByDTL)
 
 ### Interests
 Computer Architecture, Machine Learning, Processing in Memory,  
