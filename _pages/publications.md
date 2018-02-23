@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 * 2018
+  * "Real-Time Image Recognition Using Collaborative IoT Devices"  
+  __Ramyad Hadidi__, Jiashen Cao, Matthew Woodward, Michael Ryoo, and Hyesoon Kim  
+  Accepted to _ACM ReQuEST workshop_, co-located with ASPLOS 2018, Williamsburg, VA, USA
+
   * [__[arXiv]__](https://arxiv.org/abs/1802.02138)
   "Musical Chair: Efficient Real-Time Recognition Using Collaborative IoT Devices"  
   __Ramyad Hadidi__, Jiashen Cao, Matthew Woodward, Michael Ryoo, and Hyesoon Kim  
