@@ -20,7 +20,7 @@ __Ramyad Hadidi__, Bahar Asgari, Jeffrey Young, Burhan Ahmad Mudassar, Kartikay 
 arXiv preprint arXiv:1707.05399 (2017), Accepted to _ISPASS'18_, Belfast, Northern Ireland, UK  
 Acceptance Rate: 21/67=_31%_
 
-  * __[Paper]__](https://ramyadhadidi.github.io/files/nai-coolpim.pdf)
+  * [__[Paper]__](https://ramyadhadidi.github.io/files/nai-coolpim.pdf)
   “CoolPIM: Thermal-Aware Source Throttling for Efficient PIM Instruction Offloading.”  
 Lifeng Nai, __Ramyad Hadidi__, He Xiao, Hyojong Kim, Jaewoong Sim, and Hyesoon Kim.   
 Accepted to _IPDPS’18_, Vancouver, Canada(2018)  
