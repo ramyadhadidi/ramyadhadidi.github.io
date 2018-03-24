@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 * 2018
-  * [__[Paper]__] (https://ramyadhadidi.github.io/publications)
+  * [__[Paper]__](https://ramyadhadidi.github.io/publications)
   [__[Slides]__](https://ramyadhadidi.github.io/files/hadidi-request-slides.pdf)
   "Real-Time Image Recognition Using Collaborative IoT Devices"  
   __Ramyad Hadidi__, Jiashen Cao, Matthew Woodward, Michael Ryoo, and Hyesoon Kim  
