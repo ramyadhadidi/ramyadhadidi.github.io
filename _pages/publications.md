@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 * 2018
-  * "Real-Time Image Recognition Using Collaborative IoT Devices"  
+  * [__[Paper]__] ()
+  [__[Slides]__](https://ramyadhadidi.github.io/files/hadidi-request-slides.pdf)
+  "Real-Time Image Recognition Using Collaborative IoT Devices"  
   __Ramyad Hadidi__, Jiashen Cao, Matthew Woodward, Michael Ryoo, and Hyesoon Kim  
   Accepted to _ACM ReQuEST workshop_, co-located with ASPLOS 2018, Williamsburg, VA, USA
 
