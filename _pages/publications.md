@@ -9,7 +9,7 @@ author_profile: true
   [__[Slides]__](https://ramyadhadidi.github.io/files/hadidi-request-slides.pdf)
   "Real-Time Image Recognition Using Collaborative IoT Devices"  
   __Ramyad Hadidi__, Jiashen Cao, Matthew Woodward, Michael Ryoo, and Hyesoon Kim  
-  Accepted to _ACM ReQuEST workshop_, co-located with ASPLOS 2018, Williamsburg, VA, USA
+  _ACM ReQuEST workshop_, co-located with ASPLOS 2018, Williamsburg, VA, USA
 
   * [__[arXiv]__](https://arxiv.org/abs/1802.02138)
   "Musical Chair: Efficient Real-Time Recognition Using Collaborative IoT Devices"  
@@ -36,7 +36,7 @@ Hyojong Kim, __Ramyad Hadidi__, Lifeng Nai, Hyesoon Kim, Nuwan Jayasena, Yasuko 
 arXiv preprint arXiv:1710.09517 (2017)  
 
   * [__[Paper]__](https://ramyadhadidi.github.io/files/a48-hadidi.pdf)
-  "CAIRO: A Compiler- Assisted Technique for Enabling Instruction-Level Offloading of Processing-In-Memory"   
+  "CAIRO: A Compiler-Assisted Technique for Enabling Instruction-Level Offloading of Processing-In-Memory"   
 __Ramyad Hadidi__, Lifeng Nai, Hyojong Kim, and Hyesoon Kim  
 ACM Transactions on Architecture and Code Optimization (_TACO_). Volume 14, Issue 4, Article 48 (December 2017), 25 pages (2017)  
 Acceptance Rate: _<30%_
