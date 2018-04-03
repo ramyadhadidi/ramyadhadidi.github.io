@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 * 2018
-  * [__[Paper]__](https://ramyadhadidi.github.io/publications)
+  * [__[Paper]__](https://ramyadhadidi.github.io/publication)
   [__[Slides]__](https://ramyadhadidi.github.io/files/hadidi-request-slides.pdf)
   "Real-Time Image Recognition Using Collaborative IoT Devices"  
   __Ramyad Hadidi__, Jiashen Cao, Matthew Woodward, Michael Ryoo, and Hyesoon Kim  
@@ -17,6 +17,7 @@ author_profile: true
   arXiv preprint arXiv:1802.02138 (2018)
 
   * [__[arXiv]__](https://arxiv.org/abs/1707.05399)
+  [__[Slides]__](https://ramyadhadidi.github.io/files/hadidi-ispass-slides.pdf)
   "Performance Implications of NoCs on 3D-Stacked Memories: Insights from the Hybrid Memory Cube"   
 __Ramyad Hadidi__, Bahar Asgari, Jeffrey Young, Burhan Ahmad Mudassar, Kartikay Garg, Tushar Krishna, and Hyesoon Kim  
 arXiv preprint arXiv:1707.05399 (2017), Accepted to _ISPASS'18_, Belfast, Northern Ireland, UK  
