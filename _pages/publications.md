@@ -11,12 +11,12 @@ author_profile: true
   __Ramyad Hadidi__, Jiashen Cao, Matthew Woodward, Michael Ryoo, Hyesoon Kim  
   1st Reproducible Tournament on Pareto-efficient Image Classification (_ACM ReQuEST workshop_), co-located with ACM International Conference on Architectural Support for Programming Languages and Operating Systems (_ASPLOS_), Williamsburg, VA, USA (2018)
 
-  * [__[arXiv]__](https://arxiv.org/abs/1802.02138)
+  * [__[Paper]__](https://arxiv.org/abs/1802.02138)
   "Musical Chair: Efficient Real-Time Recognition Using Collaborative IoT Devices"  
   __Ramyad Hadidi__, Jiashen Cao, Matthew Woodward, Michael Ryoo, Hyesoon Kim  
   arXiv preprint arXiv:1802.02138 (2018)
 
-  * [__[arXiv]__](https://arxiv.org/abs/1707.05399)
+  * [__[Paper]__](https://arxiv.org/abs/1707.05399)
   [__[Slides]__](https://ramyadhadidi.github.io/files/hadidi-ispass-slides.pdf)
   "Performance Implications of NoCs on 3D-Stacked Memories: Insights from the Hybrid Memory Cube"   
 __Ramyad Hadidi__, Bahar Asgari, Jeffrey Young, Burhan Ahmad Mudassar, Kartikay Garg, Tushar Krishna, Hyesoon Kim  
@@ -31,7 +31,7 @@ Acceptance Rate: (First round acceptance) 38/461=_<8%_
 
 
 * 2017
-  * [__[arXiv]__](https://arxiv.org/pdf/1710.09517)
+  * [__[Paper]__](https://arxiv.org/pdf/1710.09517)
   "CODA: Enabling Co-location of Computation and Data for Near-Data Processing"  
 Hyojong Kim, __Ramyad Hadidi__, Lifeng Nai, Hyesoon Kim, Nuwan Jayasena, Yasuko Eckert, Onur Kayiran, Gabriel H. Loh  
 arXiv preprint arXiv:1710.09517 (2017)  
