@@ -17,7 +17,7 @@ author_profile: true
   arXiv preprint arXiv:1802.02138 (2018)
 
   * __Performance Implications of NoCs on 3D-Stacked Memories: Insights from the Hybrid Memory Cube__
-  [__[Paper]__](https://arxiv.org/abs/1707.05399)
+  [__[Paper]__](https://ramyadhadidi.github.io/files/hadidi-ispass.pdf))
   [__[Slides]__](https://ramyadhadidi.github.io/files/hadidi-ispass-slides.pdf)  
 _Ramyad Hadidi_, Bahar Asgari, Jeffrey Young, Burhan Ahmad Mudassar, Kartikay Garg, Tushar Krishna, Hyesoon Kim  
 IEEE International Symposium on Performance Analysis of Systems and Software (_ISPASS_), Belfast, Northern Ireland, UK  
