@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2018
-  * __Distributed Perception by Collaborative Robots__
+  * __Distributed Perception by Collaborative Robots__  
   _Ramyad Hadidi_, Jiashen Cao, Matthew Woodward, Michael Ryoo, Hyesoon Kim  
   IEEE Robotics and Automation Letters (Accepted to _RA-L_) (2018)  
   Acceptance Rate:_<30%_
