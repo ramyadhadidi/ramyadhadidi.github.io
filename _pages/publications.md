@@ -34,8 +34,8 @@ IEEE International Symposium on Performance Analysis of Systems and Software (_I
 Acceptance Rate: 21/67=_31%_
 
   * __CoolPIM: Thermal-Aware Source Throttling for Efficient PIM Instruction Offloading__
-  [__[Paper]__](https://ramyadhadidi.github.io/files/nai-coolpim.pdf)  
-  [__[Slides]__](https://ramyadhadidi.github.io/files/nai-coolpim-slides.pdf)
+  [__[Paper]__](https://ramyadhadidi.github.io/files/nai-coolpim.pdf)
+  [__[Slides]__](https://ramyadhadidi.github.io/files/nai-coolpim-slides.pdf)  
 Lifeng Nai, _Ramyad Hadidi_, He Xiao, Hyojong Kim, Jaewoong Sim, Hyesoon Kim.   
 IEEE International Parallel & Distributed Processing Symposium (_IPDPS’18_), Vancouver, Canada (2018)  
 Acceptance Rate: (First round acceptance) 38/461=_<8%_
