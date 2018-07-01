@@ -16,7 +16,7 @@ author_profile: true
 
   * __Real-Time Image Recognition Using Collaborative IoT Devices__
   [__[Proceeding]__](https://dl.acm.org/citation.cfm?doid=3229762)
-  [__[Paper (OA)]__](https://dl.acm.org/citation.cfm?id=3229765)
+  [__[Paper]__](https://dl.acm.org/citation.cfm?id=3229765)
   [__[Slides]__](https://ramyadhadidi.github.io/files/hadidi-request-slides.pdf)  
   _Ramyad Hadidi_, Jiashen Cao, Matthew Woodward, Michael Ryoo, Hyesoon Kim  
   1st Reproducible Tournament on Pareto-efficient Image Classification (_ACM ReQuEST workshop_), co-located with ACM International Conference on Architectural Support for Programming Languages and Operating Systems (_ASPLOS_), Williamsburg, VA, USA (2018)
@@ -35,6 +35,7 @@ Acceptance Rate: 21/67=_31%_
 
   * __CoolPIM: Thermal-Aware Source Throttling for Efficient PIM Instruction Offloading__
   [__[Paper]__](https://ramyadhadidi.github.io/files/nai-coolpim.pdf)  
+  [__[Slides]__](https://ramyadhadidi.github.io/files/nai-coolpim-slides.pdf)
 Lifeng Nai, _Ramyad Hadidi_, He Xiao, Hyojong Kim, Jaewoong Sim, Hyesoon Kim.   
 IEEE International Parallel & Distributed Processing Symposium (_IPDPS’18_), Vancouver, Canada (2018)  
 Acceptance Rate: (First round acceptance) 38/461=_<8%_
