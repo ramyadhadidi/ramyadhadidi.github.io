@@ -5,13 +5,18 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2018
-  * __Distributed Perception by Collaborative Robots__  
+  * __Distributed Perception by Collaborative Robots__ _(IROS verion)_  
+  _Ramyad Hadidi_, Jiashen Cao, Matthew Woodward, Michael Ryoo, Hyesoon Kim  
+  Invited for IEEE/RSJ International Conference on Intelligent Robots and Systems (_IROS'18_), Madrid, Spain (2018)
+
+  * __Distributed Perception by Collaborative Robots__ _(RA-L version)_  
   _Ramyad Hadidi_, Jiashen Cao, Matthew Woodward, Michael Ryoo, Hyesoon Kim  
   IEEE Robotics and Automation Letters (Accepted to _RA-L_) (2018)  
   Acceptance Rate:_<30%_
 
   * __Real-Time Image Recognition Using Collaborative IoT Devices__
-  [__[Paper]__](https://ramyadhadidi.github.io/publication)
+  [__[Proceeding]__](https://dl.acm.org/citation.cfm?doid=3229762)
+  [__[Paper (OA)]__](https://dl.acm.org/citation.cfm?id=3229765)
   [__[Slides]__](https://ramyadhadidi.github.io/files/hadidi-request-slides.pdf)  
   _Ramyad Hadidi_, Jiashen Cao, Matthew Woodward, Michael Ryoo, Hyesoon Kim  
   1st Reproducible Tournament on Pareto-efficient Image Classification (_ACM ReQuEST workshop_), co-located with ACM International Conference on Architectural Support for Programming Languages and Operating Systems (_ASPLOS_), Williamsburg, VA, USA (2018)
