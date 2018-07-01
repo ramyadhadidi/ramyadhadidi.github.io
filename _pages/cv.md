@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My full resume can be found here: [[pdf]](https://drive.google.com/open?id=1g9jr_mZh3BRFGl2ICs0udy4czGcByDTL)
+My full resume can be found here: [__[pdf]__](https://drive.google.com/open?id=1g9jr_mZh3BRFGl2ICs0udy4czGcByDTL)
 
 ### Interests
 Computer Architecture, Machine Learning, Processing in Memory,  
@@ -22,11 +22,21 @@ Hardware Digital Design, Empirical Measurements, Compiler Optimization
 __Ph.D., Computer Science__, Aug. 14 – Present  
 Adviser: Hyesoon Kim, Hparch Research GPA: 4.00/4.00
 * __Georgia Institute of Technology__, Atlanta, Georgia  
-__M.Sc., Computer Science__, Aug. 14 – Present (Expected: May. 18)  
+__M.Sc., Computer Science__, Aug. 14 – May. 18  
 Computing System Specialization, GPA: 4.00/4.00
 * __Sharif University of Technology__, Tehran, Iran  
 __B.Sc., Electrical Engineering__, Sept. 9 – Aug. 14  
 Major in Digital Systems, Major GPA: 4.00/4.00
+
+### Experience
+* __Research Assistant__, Adviser: [Hyesoon Kim](https://www.cc.gatech.edu/~hyesoon/)  
+Georgia Tech, Atlanta, Georgia,  Feb. 15 – Present
+
+* __Google Tech Intern__, Google Research, [Video Understanding Team](https://research.google.com/youtube8m/people.html)  
+Mountain View, California | May. 18 – Aug. 18
+
+* Check more on my CV
+
 
 ### Skills
 __Programming:__ C, C++, Python, Bash, LLVM IR  
