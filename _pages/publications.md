@@ -17,7 +17,7 @@ author_profile: true
   Acceptance Rate:_<30%_
 
   * __CODA: Enabling Co-location of Computation and Data for Near-Data Processing__
-  [__[Paper]__](https://dl.acm.org/citation.cfm?id=3232521)
+  [__[Paper]__](https://dl.acm.org/citation.cfm?id=3232521)  
 Hyojong Kim, _Ramyad Hadidi_, Lifeng Nai, Hyesoon Kim, Nuwan Jayasena, Yasuko Eckert, Onur Kayiran, Gabriel H. Loh  
 ACM Transactions on Architecture and Code Optimization (_TACO_). Volume 15, Issue 3, Article 32 (September 2018), 23 pages (2018)  Acceptance Rate: _<30%_
 
