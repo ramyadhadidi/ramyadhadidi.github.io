@@ -16,6 +16,11 @@ author_profile: true
   IEEE Robotics and Automation Letters (Accepted to _RA-L_) (2018)  
   Acceptance Rate:_<30%_
 
+  * __CODA: Enabling Co-location of Computation and Data for Near-Data Processing__
+  [__[Paper]__](https://dl.acm.org/citation.cfm?id=3232521)
+Hyojong Kim, _Ramyad Hadidi_, Lifeng Nai, Hyesoon Kim, Nuwan Jayasena, Yasuko Eckert, Onur Kayiran, Gabriel H. Loh  
+ACM Transactions on Architecture and Code Optimization (_TACO_). Volume 15, Issue 3, Article 32 (September 2018), 23 pages (2018)  Acceptance Rate: _<30%_
+
   * __Real-Time Image Recognition Using Collaborative IoT Devices__
   [__[Paper]__](https://ramyadhadidi.github.io/files/hadidi-request-asplos18.pdf)
   [__[Slides]__](https://ramyadhadidi.github.io/files/hadidi-request-slides.pdf)  
@@ -43,11 +48,6 @@ Acceptance Rate: (First round acceptance) 38/461=_<8%_
 
 
 ## 2017
-  * __CODA: Enabling Co-location of Computation and Data for Near-Data Processing__
-  [__[Paper]__](https://arxiv.org/pdf/1710.09517)  
-Hyojong Kim, _Ramyad Hadidi_, Lifeng Nai, Hyesoon Kim, Nuwan Jayasena, Yasuko Eckert, Onur Kayiran, Gabriel H. Loh  
-arXiv preprint arXiv:1710.09517 (2017)  
-
   *  __CAIRO: A Compiler-Assisted Technique for Enabling Instruction-Level Offloading of Processing-In-Memory__
   [__[Paper]__](https://ramyadhadidi.github.io/files/a48-hadidi.pdf)  
 _Ramyad Hadidi_, Lifeng Nai, Hyojong Kim, Hyesoon Kim  
