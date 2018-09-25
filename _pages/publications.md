@@ -13,7 +13,7 @@ author_profile: true
   * __Distributed Perception by Collaborative Robots__ _(RA-L version)_
   [__[Paper]__](https://ramyadhadidi.github.io/files/hadidi-ral-18.pdf)  
   _Ramyad Hadidi_, Jiashen Cao, Matthew Woodward, Michael Ryoo, Hyesoon Kim  
-  IEEE Robotics and Automation Letters (Accepted to _RA-L_) (2018)  
+   IEEE Robotics and Automation Letters, Volume 3, Number 4, Pages 3709-3716, (October 2018)  
   Acceptance Rate:_<30%_
 
   * __CODA: Enabling Co-location of Computation and Data for Near-Data Processing__
