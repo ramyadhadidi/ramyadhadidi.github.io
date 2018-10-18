@@ -6,7 +6,6 @@ author_profile: true
 ---
 ## 2018
   * __Distributed Perception by Collaborative Robots__ _(IROS verion)_
-  [![paper][pdf]](https://ramyadhadidi.github.io/files/hadidi-iros-18.pdf)
   [__[Paper]__](https://ramyadhadidi.github.io/files/hadidi-iros-18.pdf)
   [__[Spotlight]__](https://ramyadhadidi.github.io/files/hadidi-iros-18-spotlight.pdf)
   [__[Slides]__](https://ramyadhadidi.github.io/files/hadidi-iros-18-talk.pdf)  
