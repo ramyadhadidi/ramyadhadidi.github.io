@@ -6,6 +6,7 @@ author_profile: true
 ---
 ## 2018
   * __Distributed Perception by Collaborative Robots__ _(IROS verion)_
+  [![paper][pdf]](https://ramyadhadidi.github.io/files/hadidi-iros-18.pdf)
   [__[Paper]__](https://ramyadhadidi.github.io/files/hadidi-iros-18.pdf)
   [__[Spotlight]__](https://ramyadhadidi.github.io/files/hadidi-iros-18-spotlight.pdf)
   [__[Slides]__](https://ramyadhadidi.github.io/files/hadidi-iros-18-talk.pdf)  
@@ -67,6 +68,9 @@ Acceptance Rate: 23/83=_27%_
 Lifeng Nai, _Ramyad Hadidi_, Jaewoong Sim, Hyojong Kim, Pranith Kumar, Hyesoon Kim  
 International Symposium on High Performance Computer Architecture (_HPCA_), Austin, Texas (2017)  
 Acceptance Rate: 50/224=_22%_
+
+
+[pdf]: https://ramyadhadidi.github.io/images/pdf.png
 
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
