@@ -5,15 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2018
-  * __Distributed Perception by Collaborative Robots__ _(IROS verion)_
-  [__[Paper]__](https://ramyadhadidi.github.io/files/hadidi-iros-18.pdf)
+  * __Distributed Perception by Collaborative Robots__
+  [__[Paper-(RA-L)]__](https://ramyadhadidi.github.io/files/hadidi-ral-18.pdf)
+  [__[Paper-(IROS)]__](https://ramyadhadidi.github.io/files/hadidi-iros-18.pdf)
   [__[Spotlight]__](https://ramyadhadidi.github.io/files/hadidi-iros-18-spotlight.pdf)
   [__[Slides]__](https://ramyadhadidi.github.io/files/hadidi-iros-18-talk.pdf)  
   _Ramyad Hadidi_, Jiashen Cao, Matthew Woodward, Michael Ryoo, Hyesoon Kim  
+  EEE Robotics and Automation Letters, Volume 3, Number 4, Pages 3709-3716, (October 2018), Acceptance Rate:_<30%_  
   Invited for IEEE/RSJ International Conference on Intelligent Robots and Systems (_IROS'18_), Madrid, Spain (2018)
 
   * __Distributed Perception by Collaborative Robots__ _(RA-L version)_
-  [__[Paper]__](https://ramyadhadidi.github.io/files/hadidi-ral-18.pdf)  
+
   _Ramyad Hadidi_, Jiashen Cao, Matthew Woodward, Michael Ryoo, Hyesoon Kim  
    IEEE Robotics and Automation Letters, Volume 3, Number 4, Pages 3709-3716, (October 2018)  
   Acceptance Rate:_<30%_
