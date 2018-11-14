@@ -11,19 +11,13 @@ author_profile: true
   [__[Spotlight]__](https://ramyadhadidi.github.io/files/hadidi-iros-18-spotlight.pdf)
   [__[Slides]__](https://ramyadhadidi.github.io/files/hadidi-iros-18-talk.pdf)  
   _Ramyad Hadidi_, Jiashen Cao, Matthew Woodward, Michael Ryoo, Hyesoon Kim  
-  EEE Robotics and Automation Letters, Volume 3, Number 4, Pages 3709-3716, (October 2018), Acceptance Rate:_<30%_  
+  IEEE Robotics and Automation Letters (_RA-L_), Volume 3, Number 4, Pages 3709-3716, (October 2018), Acceptance Rate:_<30%_  
   Invited for IEEE/RSJ International Conference on Intelligent Robots and Systems (_IROS'18_), Madrid, Spain (2018)
-
-  * __Distributed Perception by Collaborative Robots__ _(RA-L version)_
-
-  _Ramyad Hadidi_, Jiashen Cao, Matthew Woodward, Michael Ryoo, Hyesoon Kim  
-   IEEE Robotics and Automation Letters, Volume 3, Number 4, Pages 3709-3716, (October 2018)  
-  Acceptance Rate:_<30%_
 
   * __CODA: Enabling Co-location of Computation and Data for Near-Data Processing__
   [__[Paper]__](https://dl.acm.org/citation.cfm?id=3232521)  
-Hyojong Kim, _Ramyad Hadidi_, Lifeng Nai, Hyesoon Kim, Nuwan Jayasena, Yasuko Eckert, Onur Kayiran, Gabriel H. Loh  
-ACM Transactions on Architecture and Code Optimization (_TACO_). Volume 15, Issue 3, Article 32 (September 2018), 23 pages (2018)  Acceptance Rate: _<30%_
+  Hyojong Kim, _Ramyad Hadidi_, Lifeng Nai, Hyesoon Kim, Nuwan Jayasena, Yasuko Eckert, Onur Kayiran, Gabriel H. Loh  
+  ACM Transactions on Architecture and Code Optimization (_TACO_). Volume 15, Issue 3, Article 32 (September 2018), 23 pages (2018)  Acceptance Rate: _<30%_
 
   * __Real-Time Image Recognition Using Collaborative IoT Devices__
   [__[Paper]__](https://ramyadhadidi.github.io/files/hadidi-request-asplos18.pdf)
@@ -39,9 +33,9 @@ ACM Transactions on Architecture and Code Optimization (_TACO_). Volume 15, Issu
   * __Performance Implications of NoCs on 3D-Stacked Memories: Insights from the Hybrid Memory Cube__
   [__[Paper]__](https://ramyadhadidi.github.io/files/hadidi-ispass.pdf)
   [__[Slides]__](https://ramyadhadidi.github.io/files/hadidi-ispass-slides.pdf)  
-_Ramyad Hadidi_, Bahar Asgari, Jeffrey Young, Burhan Ahmad Mudassar, Kartikay Garg, Tushar Krishna, Hyesoon Kim  
-IEEE International Symposium on Performance Analysis of Systems and Software (_ISPASS_), Belfast, Northern Ireland, UK  
-Acceptance Rate: 21/67=_31%_
+  _Ramyad Hadidi_, Bahar Asgari, Jeffrey Young, Burhan Ahmad Mudassar, Kartikay Garg, Tushar Krishna, Hyesoon Kim  
+  IEEE International Symposium on Performance Analysis of Systems and Software (_ISPASS_), Belfast, Northern Ireland, UK  
+  Acceptance Rate: 21/67=_31%_
 
   * __CoolPIM: Thermal-Aware Source Throttling for Efficient PIM Instruction Offloading__
   [__[Paper]__](https://ramyadhadidi.github.io/files/nai-coolpim.pdf)
@@ -59,7 +53,8 @@ ACM Transactions on Architecture and Code Optimization (_TACO_). Volume 14, Issu
 Acceptance Rate: _<30%_
 
   * __Demystifying the Characteristics of 3D-Stacked Memories: A Case Study for Hybrid Memory Cube__
-  [__[Paper]__](https://ramyadhadidi.github.io/files/hadidi-iiswc.pdf) [__[Slides]__](https://ramyadhadidi.github.io/files/hadidi-iiswc-slides.pdf)    
+  [__[Paper]__](https://ramyadhadidi.github.io/files/hadidi-iiswc.pdf) [__[Slides]__](https://ramyadhadidi.github.io/files/hadidi-iiswc-slides.pdf)
+  [__[CRNCH Poster]__](https://ramyadhadidi.github.io/files/hadidi-iiswc-poster.pdf)  
 _Ramyad Hadidi_, Bahar Asgari, Burhan Ahmad Mudassar, Saibal Mukhopadhyay, Sudhakar Yalamanchili, Hyesoon Kim  
 IEEE International Symposium on Workload Characterization (_IISWC_), Seattle, Washington (2017)  
 Acceptance Rate: 23/83=_27%_
