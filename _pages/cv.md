@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My full resume can be found here: [__[pdf]__](https://drive.google.com/open?id=1g9jr_mZh3BRFGl2ICs0udy4czGcByDTL)
+My full resume can be found here: [__[pdf]__](https://goo.gl/Z4KoeX)
 
 ### Interests
 Computer Architecture, Machine Learning, Processing in Memory,  

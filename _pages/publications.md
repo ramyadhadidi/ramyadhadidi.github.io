@@ -61,9 +61,9 @@ Acceptance Rate: 23/83=_27%_
 
   * __GraphPIM: Enabling Instruction-Level PIM Offloading in Graph Computing Frameworks__
   [__[Paper]__](https://ramyadhadidi.github.io/files/nai-graphpim.pdf) [__[Slides]__](https://ramyadhadidi.github.io/files/nai-graphpim-slides.pdf) [__[Lightning]__](https://ramyadhadidi.github.io/files/nai-graphpim-slides-light.pdf)  
-Lifeng Nai, _Ramyad Hadidi_, Jaewoong Sim, Hyojong Kim, Pranith Kumar, Hyesoon Kim  
-International Symposium on High Performance Computer Architecture (_HPCA_), Austin, Texas (2017)  
-Acceptance Rate: 50/224=_22%_
+  Lifeng Nai, _Ramyad Hadidi_, Jaewoong Sim, Hyojong Kim, Pranith Kumar, Hyesoon Kim  
+  International Symposium on High Performance Computer Architecture (_HPCA_), Austin, Texas (2017)  
+  Acceptance Rate: 50/224=_22%_
 
 
 [pdf]: https://ramyadhadidi.github.io/images/pdf.png
