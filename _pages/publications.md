@@ -4,6 +4,13 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## 2019
+  * __Collaborative Execution of Deep Neural Networks on Internet of Things Devices__
+    [__[Paper]__](https://arxiv.org/abs/1901.02537)    
+    _Ramyad Hadidi_, Jiashen Cao, Matthew Woodward, Michael Ryoo, Hyesoon Kim  
+    arXiv preprint arXiv:1901.02537 (2019)
+
+
 ## 2018
   * __Distributed Perception by Collaborative Robots__
   [__[Paper-(RA-L)]__](https://ramyadhadidi.github.io/files/hadidi-ral-18.pdf)
