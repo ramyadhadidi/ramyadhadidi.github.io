@@ -7,8 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+* Update:  
 __CS 4290/CS 6290/ECE 4100/ECE 6100__: I will be teaching high-performance computer architecture this summer. Feel free to send me an email if you have any questions.
+
 
 I am a PhD student in Computer Science at Georgia Institute of Technology since 2014. I have the pleasure of working with Hyesoon Kim and my lab-mates in Hparch group. Our group research is focused on Computer Architecture. Specifically, I am working on 3D-stacked memories, processing in memory (PIM), and machine learning.
 
