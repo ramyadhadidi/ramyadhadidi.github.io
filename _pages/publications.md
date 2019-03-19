@@ -7,7 +7,7 @@ author_profile: true
 ## 2019
   * __Collaborative Execution of Deep Neural Networks on Internet of Things Devices__
     [__[Paper]__](https://arxiv.org/abs/1901.02537)    
-    _Ramyad Hadidi_, Jiashen Cao, Matthew Woodward, Michael Ryoo, Hyesoon Kim  
+    _Ramyad Hadidi_, Jiashen Cao, Michael Ryoo, Hyesoon Kim  
     arXiv preprint arXiv:1901.02537 (2019)
 
 
