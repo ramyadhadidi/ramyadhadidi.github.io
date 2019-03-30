@@ -12,9 +12,9 @@ redirect_from:
 My full resume can be found here: [__[pdf]__](https://goo.gl/Z4KoeX)
 
 ### Interests
-Computer Architecture, Machine Learning, Processing in Memory,  
-Graph Processing, 3D-Stacking Technology, Performance Modeling,  
-Hardware Digital Design, Empirical Measurements, Compiler Optimization  
+Computer Architecture, Machine Learning,  Deep Learning
+Graph Processing, 3D-Stacking Technology, Processing in Memory,   
+Performance Modeling, Hardware Digital Design, Empirical Measurements,
 
 
 ### Education
