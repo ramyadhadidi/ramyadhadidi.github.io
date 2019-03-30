@@ -5,6 +5,23 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2019
+
+  * __Robustly Executing DNNs in IoT Systems Using Coded Distributed Computing__  
+    _Ramyad Hadidi_, Jiashen Cao, Michael Ryoo, Hyesoon Kim    
+    ACM/IEE Design Automation Conference (DAC) - Late Breaking Results}, Las Vegas, NV (2019)
+
+  * __LODESTAR: Creating Locally-Dense CNNs for Efficient Inference on Systolic Arrays__  
+    Bahar Asgari, _Ramyad Hadidi_, Hyesoon Kim, and  Sudhakar Yalamanchili        
+    ACM/IEE Design Automation Conference (DAC) - Late Breaking Results}, Las Vegas, NV (2019)
+
+  * __An Edge-Centric Scalable Intelligent Framework To Collaboratively Execute DNN__  
+    Jiashen Cao, Fei Wu, _Ramyad Hadidi_, Lixing Liu,Tushar Krishna, Micheal S. Ryoo, Hyesoon Kim    
+    Demo for SysML Conference, Stanford, CA (2019)
+
+  * __Thermal-Aware Processing-in-memory Instruction Offloading__  
+    Lifeng Nai, _Ramyad Hadidi_, He Xiao, Hyojong Kim, Jaewoong Sim, and Hyesoon Kim  
+    Elsevier Journal of Parallel and Distributed Computing (JPDC)} (2019)
+
   * __Collaborative Execution of Deep Neural Networks on Internet of Things Devices__
     [__[Paper]__](https://arxiv.org/abs/1901.02537)    
     _Ramyad Hadidi_, Jiashen Cao, Michael Ryoo, Hyesoon Kim  
