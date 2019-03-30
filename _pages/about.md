@@ -7,8 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-* Update:  
-__CS 4290/CS 6290/ECE 4100/ECE 6100__: I will be teaching high-performance computer architecture summer 19. Feel free to send me an email if you have any questions.
+* Updates:  
+__CS 4290/CS 6290/ECE 4100/ECE 6100__: I will be teaching high-performance computer architecture summer 19. Feel free to send me an email if you have any questions.  
+
+__SysML Demo__: Check our demo [here](http://comparch.gatech.edu/hparch/sysml).
+
 
 
 I am a Ph.D. student in computer science at Georgia Institute of Technology since 2014. I have the pleasure of working with Hyesoon Kim and my lab-mates in Hparch group. Our group's research is focused on computer architecture. Specifically, I have worked on 3D-stacked memories, processing in memory (PIM), and machine learning. Currently, I am working on enabling edge and IoT devices (i.e., resource-constrained devices) to execute deep neural networks (DNNs) collaboratively, efficiently, securely, and reliably.

@@ -14,7 +14,9 @@ author_profile: true
     Bahar Asgari, _Ramyad Hadidi_, Hyesoon Kim, and  Sudhakar Yalamanchili        
     ACM/IEE Design Automation Conference (DAC) - Late Breaking Results, Las Vegas, NV (2019)
 
-  * __An Edge-Centric Scalable Intelligent Framework To Collaboratively Execute DNN__  
+  * __An Edge-Centric Scalable Intelligent Framework To Collaboratively Execute DNN__
+    [__[Demo]__](http://comparch.gatech.edu/hparch/sysml)
+    [__[Paper]__](http://www.sysml.cc/doc/2019/demo_32.pdf)  
     Jiashen Cao, Fei Wu, _Ramyad Hadidi_, Lixing Liu, Tushar Krishna, Micheal S. Ryoo, Hyesoon Kim    
     Demo for SysML Conference, Stanford, CA (2019)
 
