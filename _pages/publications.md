@@ -18,7 +18,7 @@ author_profile: true
     [__[Demo]__](http://comparch.gatech.edu/hparch/sysml)
     [__[Paper]__](http://www.sysml.cc/doc/2019/demo_32.pdf)  
     Jiashen Cao, Fei Wu, _Ramyad Hadidi_, Lixing Liu, Tushar Krishna, Micheal S. Ryoo, Hyesoon Kim    
-    Demo for SysML Conference, Stanford, CA (2019)
+    Demo for SysML Conference, Palo Alto, CA (2019)
 
   * __Thermal-Aware Processing-in-memory Instruction Offloading__  
     Lifeng Nai, _Ramyad Hadidi_, He Xiao, Hyojong Kim, Jaewoong Sim, and Hyesoon Kim  
