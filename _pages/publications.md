@@ -7,7 +7,7 @@ author_profile: true
 ## 2019
 
   * __Robustly Executing DNNs in IoT Systems Using Coded Distributed Computing__  
-    _Ramyad Hadidi_, Jiashen Cao, Michael Ryoo, Hyesoon Kim    
+    _Ramyad Hadidi_, Jiashen Cao, Michael S. Ryoo, Hyesoon Kim    
     ACM/IEE Design Automation Conference (DAC) - Late Breaking Results, Las Vegas, NV (2019)
 
   * __LODESTAR: Creating Locally-Dense CNNs for Efficient Inference on Systolic Arrays__  
@@ -22,11 +22,11 @@ author_profile: true
 
   * __Thermal-Aware Processing-in-memory Instruction Offloading__  
     Lifeng Nai, _Ramyad Hadidi_, He Xiao, Hyojong Kim, Jaewoong Sim, and Hyesoon Kim  
-    Elsevier Journal of Parallel and Distributed Computing (JPDC) (2019)
+    Journal of Parallel and Distributed Computing (JPDC), Elsevier (2019)
 
   * __Collaborative Execution of Deep Neural Networks on Internet of Things Devices__
     [__[Paper]__](https://arxiv.org/abs/1901.02537)    
-    _Ramyad Hadidi_, Jiashen Cao, Michael Ryoo, Hyesoon Kim  
+    _Ramyad Hadidi_, Jiashen Cao, Michael S. Ryoo, Hyesoon Kim  
     arXiv preprint arXiv:1901.02537 (2019)
 
 
@@ -36,7 +36,7 @@ author_profile: true
   [__[Paper-(IROS)]__](https://ramyadhadidi.github.io/files/hadidi-iros-18.pdf)
   [__[Spotlight]__](https://ramyadhadidi.github.io/files/hadidi-iros-18-spotlight.pdf)
   [__[Slides]__](https://ramyadhadidi.github.io/files/hadidi-iros-18-talk.pdf)  
-  _Ramyad Hadidi_, Jiashen Cao, Matthew Woodward, Michael Ryoo, Hyesoon Kim  
+  _Ramyad Hadidi_, Jiashen Cao, Matthew Woodward, Michael S. Ryoo, Hyesoon Kim  
   IEEE Robotics and Automation Letters (_RA-L_), Volume 3, Number 4, Pages 3709-3716, (October 2018), Acceptance Rate:_<30%_  
   Invited for IEEE/RSJ International Conference on Intelligent Robots and Systems (_IROS'18_), Madrid, Spain (2018)
 
@@ -48,12 +48,12 @@ author_profile: true
   * __Real-Time Image Recognition Using Collaborative IoT Devices__
   [__[Paper]__](https://ramyadhadidi.github.io/files/hadidi-request-asplos18.pdf)
   [__[Slides]__](https://ramyadhadidi.github.io/files/hadidi-request-slides.pdf)  
-  _Ramyad Hadidi_, Jiashen Cao, Matthew Woodward, Michael Ryoo, Hyesoon Kim  
+  _Ramyad Hadidi_, Jiashen Cao, Matthew Woodward, Michael S. Ryoo, Hyesoon Kim  
   1st Reproducible Tournament on Pareto-efficient Image Classification (_ACM ReQuEST workshop_), co-located with ACM International Conference on Architectural Support for Programming Languages and Operating Systems (_ASPLOS_), Williamsburg, VA, USA (2018)
 
   * __Musical Chair: Efficient Real-Time Recognition Using Collaborative IoT Devices__
   [__[Paper]__](https://arxiv.org/abs/1802.02138)    
-  _Ramyad Hadidi_, Jiashen Cao, Matthew Woodward, Michael Ryoo, Hyesoon Kim  
+  _Ramyad Hadidi_, Jiashen Cao, Matthew Woodward, Michael S. Ryoo, Hyesoon Kim  
   arXiv preprint arXiv:1802.02138 (2018)
 
   * __Performance Implications of NoCs on 3D-Stacked Memories: Insights from the Hybrid Memory Cube__
