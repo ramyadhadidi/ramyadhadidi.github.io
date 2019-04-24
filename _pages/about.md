@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 * Updates:  
-    * __CS 4290/CS 6290/ECE 4100/ECE 6100__: I will be teaching high-performance computer architecture summer 19. Feel free to send me an email if you have any questions.  
+    * __CS 4290__: I will be teaching high-performance computer architecture summer 19. Feel free to send me an email if you have any questions. Everything in the course is the same as CS 6290/ECE 4100/ECE 6100. But, due to GaTech rules, you cannot use this course as a cross list, since it will be taught by a graduate student.
 
     * __SysML Demo__: Check our demo [here](http://comparch.gatech.edu/hparch/sysml).
 
