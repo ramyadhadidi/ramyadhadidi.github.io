@@ -12,9 +12,9 @@ redirect_from:
 My full resume can be found here: [__[pdf]__](https://goo.gl/Z4KoeX)
 
 ### Interests
-Computer Architecture, Machine Learning,  Deep Learning
-Graph Processing, 3D-Stacking Technology, Processing in Memory,   
-Performance Modeling, Hardware Digital Design, Empirical Measurements,
+Computer Architecture, Machine Learning,  Deep Learning  
+Graph Processing, 3D-Stacking Technology, Processing in Memory    
+Performance Modeling, Hardware Digital Design, Empirical Measurements   
 
 
 ### Education
@@ -32,30 +32,10 @@ Major in Digital Systems, Major GPA: 4.00/4.00
 * __Research Assistant__, Adviser: [Hyesoon Kim](https://www.cc.gatech.edu/~hyesoon/)  
 Georgia Tech, Atlanta, Georgia,  Feb. 15 – Present
 
-* __Google Tech Intern__, Google Research, [Video Understanding Team](https://research.google.com/youtube8m/people.html)  
+* __Google SWE Intern__, Google Research, [Video Understanding Team](https://research.google.com/youtube8m/people.html)  
 Mountain View, California | May. 18 – Aug. 18
 
 * Coordinator and Administrator __Microprocessor Systems' Lab__, [Microlab](http://microlab.ee.sharif.ir)
-
-
-* Check more on my CV
-
-
-### Skills
-__Programming:__ C, C++, Python, Bash, LLVM IR  
-__Architecture Simulators:__ MacSim, SST, GEM5, MARSSx86, Sniper, GPGPU-Sim  
-__Machine Learning:__ Keras, Caffe, PyTorch, TensorFlow  
-__HDL:__ Verilog, VHDL, ModelSim, MATLAB HDL Toolboxes  
-__FPGA:__ Altera Quartus, Xilinx ISE, Xilinx Vivado  
-__Computing:__ MATLAB & Simulink  
-__Parallel Processing:__ Nvidia CUDA  
-__ARM:__ Keil µVision on ARM-7, ARM Cortex-M3  
-__Embedded Systems:__ NiosII IDE + Altera Eclipse/SOPC Builder  
-__Assembly:__ x86, PTX, ARM, MIPS  
-__Network Tools:__ OPNET, NS2, NS3  
-__Systems Simulators:__ ORCAD PSpice, Proteus, SimScape Toolbox  
-__PCB Design:__ Altium Designer, P-CAD, Protel  
-__OS:__ Linux (Ubuntu & RHEL)  
 
 
 ### Honors
