@@ -20,7 +20,8 @@ author_profile: true
     Jiashen Cao, Fei Wu, _Ramyad Hadidi_, Lixing Liu, Tushar Krishna, Micheal S. Ryoo, Hyesoon Kim    
     Demo for SysML Conference, Palo Alto, CA (2019)
 
-  * __Thermal-Aware Processing-in-memory Instruction Offloading__  
+  * __Thermal-Aware Processing-in-memory Instruction Offloading__
+    [__[Paper]__](https://www.sciencedirect.com/science/article/pii/S0743731518305938)  
     Lifeng Nai, _Ramyad Hadidi_, He Xiao, Hyojong Kim, Jaewoong Sim, and Hyesoon Kim  
     Journal of Parallel and Distributed Computing (JPDC), Elsevier (2019)
 
