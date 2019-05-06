@@ -1,7 +1,6 @@
 ---
-layout: archive
+permalink: /resume/
 title: "Resume"
-permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
@@ -20,7 +19,7 @@ Performance Modeling, Hardware Digital Design, Empirical Measurements
 ### Education
 * __Georgia Institute of Technology__, Atlanta, Georgia  
 __Ph.D., Computer Science__, Aug. 14 – Present  
-Adviser: Hyesoon Kim, Hparch Research GPA: 4.00/4.00
+Adviser: Hyesoon Kim, [HPArch](http://comparch.gatech.edu/hparch/), GPA: 4.00/4.00
 * __Georgia Institute of Technology__, Atlanta, Georgia  
 __M.Sc., Computer Science__, Aug. 14 – May. 18  
 Computing System Specialization, GPA: 4.00/4.00
