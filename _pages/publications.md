@@ -19,22 +19,22 @@ author_profile: true
   * __Robustly Executing DNNs in IoT Systems Using Coded Distributed Computing__
     [__[Slides]__](https://ramyadhadidi.github.io/files/hadidi-dac-19-robustDNN.pdf)  
     _Ramyad Hadidi_, Jiashen Cao, Michael S. Ryoo, Hyesoon Kim    
-    ACM/IEE Design Automation Conference (DAC) - Late Breaking Results, Las Vegas, NV (2019)
+    ACM/IEE Design Automation Conference (_DAC_) - Late Breaking Results, Las Vegas, NV (2019)
 
   * __LODESTAR: Creating Locally-Dense CNNs for Efficient Inference on Systolic Arrays__  
     Bahar Asgari, _Ramyad Hadidi_, Hyesoon Kim, and  Sudhakar Yalamanchili        
-    ACM/IEE Design Automation Conference (DAC) - Late Breaking Results, Las Vegas, NV (2019)
+    ACM/IEE Design Automation Conference (_DAC_) - Late Breaking Results, Las Vegas, NV (2019)
 
   * __An Edge-Centric Scalable Intelligent Framework To Collaboratively Execute DNN__
     [__[Demo]__](http://comparch.gatech.edu/hparch/sysml)
     [__[Paper]__](http://www.sysml.cc/doc/2019/demo_32.pdf)  
     Jiashen Cao, Fei Wu, _Ramyad Hadidi_, Lixing Liu, Tushar Krishna, Micheal S. Ryoo, Hyesoon Kim    
-    Demo for SysML Conference, Palo Alto, CA (2019)
+    Demo for _SysML_ Conference, Palo Alto, CA (2019)
 
   * __Thermal-Aware Processing-in-memory Instruction Offloading__
     [__[Paper]__](https://www.sciencedirect.com/science/article/pii/S0743731518305938)  
     Lifeng Nai, _Ramyad Hadidi_, He Xiao, Hyojong Kim, Jaewoong Sim, and Hyesoon Kim  
-    Journal of Parallel and Distributed Computing (JPDC), Elsevier (2019)
+    Journal of Parallel and Distributed Computing (_JPDC_), Elsevier (2019)
 
   * __Collaborative Execution of Deep Neural Networks on Internet of Things Devices__
     [__[Paper]__](https://arxiv.org/abs/1901.02537)    
