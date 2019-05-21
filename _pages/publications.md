@@ -5,7 +5,19 @@ author_profile: true
 ---
 ## 2019
 
-  * __Robustly Executing DNNs in IoT Systems Using Coded Distributed Computing__  
+  * __Characterizing the Execution of Deep Neural Networks on Collaborative Robots and Edge Devices__
+    [__[Undergraduates]__]()  
+    Matthew Merck, Bingyao Wang, Lixing Liu, Chunjun Jia, Arthur Siqueira, Qiusen Huang, Abhijeet Saraha,
+    Dongsuk Lim, Jiashen Cao, _Ramyad Hadidi_, Hyesoon Kim    
+    ACM Practice and Experience in Advanced Research Computing (_PEARC_), Chicago, IL (2019)
+
+  * __Understanding the Power Consumption of Executing Deep Neural Networks on a Distributed Robot System__  
+    _Ramyad Hadidi_, Jiashen Cao, Matthew Merck, Arthur Siqueira, Qiusen Huang, Abhijeet Saraha,
+    Chunjun Jia, Bingyao Wang, Dongsuk Lim, Lixing Liu and Hyesoon Kim    
+    Algorithms and Architectures for Learning in-the-Loop Systems in Autonomous Flight Workshop - Co-located with IEEE International Conference on Robotics and Automation (_ICRA_), Montreal, QC (2019)
+
+  * __Robustly Executing DNNs in IoT Systems Using Coded Distributed Computing__
+    [__[Slides]__](https://ramyadhadidi.github.io/files/hadidi-dac-19-robustDNN.pdf)  
     _Ramyad Hadidi_, Jiashen Cao, Michael S. Ryoo, Hyesoon Kim    
     ACM/IEE Design Automation Conference (DAC) - Late Breaking Results, Las Vegas, NV (2019)
 
