@@ -5,13 +5,23 @@ author_profile: true
 ---
 ## 2019
 
+  * __ERIDANUS: Efficiently Running Inference of DNNs Using Systolic Arrays__  
+    Bahar Asgari, _Ramyad Hadidi_, Hyesoon Kim, Sudhakar Yalamanchili  
+    IEEE Micro, Special Issue on Machine Learning Acceleration (2019)
+
+  * __Capella: Customizing Perception for Edge Devices by Efficiently Allocating FPGAs to DNNs__
+    [__[Mentored Undergraduate Work]__]()  
+    Younmin Bae, _Ramyad Hadidi_, Bahar Asgari, Jiashen Cao, Hyesoon Kim
+    FPL Demo Night, Barcelona, Spain (2019)
+
   * __Characterizing the Execution of Deep Neural Networks on Collaborative Robots and Edge Devices__
-    [__[Undergraduates]__]()  
+    [__[Mentored Undergraduate Work]__]()  
     Matthew Merck, Bingyao Wang, Lixing Liu, Chunjun Jia, Arthur Siqueira, Qiusen Huang, Abhijeet Saraha,
     Dongsuk Lim, Jiashen Cao, _Ramyad Hadidi_, Hyesoon Kim    
     ACM Practice and Experience in Advanced Research Computing (_PEARC_), Chicago, IL (2019)
 
-  * __Understanding the Power Consumption of Executing Deep Neural Networks on a Distributed Robot System__  
+  * __Understanding the Power Consumption of Executing Deep Neural Networks on a Distributed Robot System__
+    [__[Slides]__](http://comparch.gatech.edu/hparch/papers/icra_workshop_2019.pptx)  
     _Ramyad Hadidi_, Jiashen Cao, Matthew Merck, Arthur Siqueira, Qiusen Huang, Abhijeet Saraha,
     Chunjun Jia, Bingyao Wang, Dongsuk Lim, Lixing Liu and Hyesoon Kim    
     Algorithms and Architectures for Learning in-the-Loop Systems in Autonomous Flight Workshop - Co-located with IEEE International Conference on Robotics and Automation (_ICRA_), Montreal, QC (2019)
