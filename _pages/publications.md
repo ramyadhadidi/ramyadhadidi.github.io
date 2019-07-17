@@ -9,9 +9,13 @@ author_profile: true
     Bahar Asgari, _Ramyad Hadidi_, Hyesoon Kim, Sudhakar Yalamanchili  
     IEEE Micro, Special Issue on Machine Learning Acceleration (2019)
 
+  * __Work-in-Progress: Video Analytics From Edge To Server__  
+    Jiashen Cao, _Ramyad Hadidi_, Joy Arulraj and Hyesoon Kim  
+    CODES+ISSS, New York, NY (2019)
+
   * __Capella: Customizing Perception for Edge Devices by Efficiently Allocating FPGAs to DNNs__
     [__[Mentored Undergraduate Work]__]()  
-    Younmin Bae, _Ramyad Hadidi_, Bahar Asgari, Jiashen Cao, Hyesoon Kim
+    Younmin Bae, _Ramyad Hadidi_, Bahar Asgari, Jiashen Cao, Hyesoon Kim  
     FPL Demo Night, Barcelona, Spain (2019)
 
   * __Characterizing the Execution of Deep Neural Networks on Collaborative Robots and Edge Devices__
@@ -27,11 +31,13 @@ author_profile: true
     Algorithms and Architectures for Learning in-the-Loop Systems in Autonomous Flight Workshop - Co-located with IEEE International Conference on Robotics and Automation (_ICRA_), Montreal, QC (2019)
 
   * __Robustly Executing DNNs in IoT Systems Using Coded Distributed Computing__
+    [__[Paper]__](https://dl.acm.org/citation.cfm?id=3322474)
     [__[Slides]__](https://ramyadhadidi.github.io/files/hadidi-dac-19-robustDNN.pdf)  
     _Ramyad Hadidi_, Jiashen Cao, Michael S. Ryoo, Hyesoon Kim    
     ACM/IEE Design Automation Conference (_DAC_) - Late Breaking Results, Las Vegas, NV (2019)
 
-  * __LODESTAR: Creating Locally-Dense CNNs for Efficient Inference on Systolic Arrays__  
+  * __LODESTAR: Creating Locally-Dense CNNs for Efficient Inference on Systolic Arrays__
+    [__[Paper]__](https://dl.acm.org/citation.cfm?id=3322472)   
     Bahar Asgari, _Ramyad Hadidi_, Hyesoon Kim, and  Sudhakar Yalamanchili        
     ACM/IEE Design Automation Conference (_DAC_) - Late Breaking Results, Las Vegas, NV (2019)
 
