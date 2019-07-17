@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-My full resume can be found here: [__[pdf]__](https://goo.gl/Z4KoeX)
+My full resume can be found here: !Send me Email! __rhaidi@gatech.edu__
 
 ### Interests
 Computer Architecture, Machine Learning,  Deep Learning  
