@@ -10,7 +10,7 @@ redirect_from:
 
 Email: __rhadidi@gatech.edu__
 
-My full resume can be found here:
+My full resume can be found here: [CV](https://drive.google.com/file/d/1X_v5Xwsq153FZ8Ab1pGHqSu35KNC3f3F/view)
 
 ### Interests
 Computer Architecture, Machine Learning,  Deep Learning  
