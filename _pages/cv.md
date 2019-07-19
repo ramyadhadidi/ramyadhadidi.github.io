@@ -8,12 +8,13 @@ redirect_from:
 
 {% include base_path %}
 
-My full resume can be found here: !Send me Email! __rhadidi@gatech.edu__
+Email: __rhadidi@gatech.edu__
+
+My full resume can be found here:
 
 ### Interests
 Computer Architecture, Machine Learning,  Deep Learning  
-Graph Processing, 3D-Stacking Technology, Processing in Memory    
-Performance Modeling, Hardware Digital Design, Empirical Measurements   
+Graph Processing, Processing in Memory, Robotics    
 
 
 ### Education
