@@ -9,7 +9,7 @@ author_profile: true
     _Ramyad Hadidi_, Jiashen Cao, Yilun Xie, Bahar Asgari, Tushar Krishna, Hyesoon Kim  
     IEEE International Symposium on Workload Characterization (_IISWC_), Orlando, Florida (2019)
 
-    * __SLAM Performance on Embedded Robots__  
+  * __SLAM Performance on Embedded Robots__  
     [__[Mentored Undergraduate Work]__]()    
     Nima Shoghi, _Ramyad Hadidi_, Hyesoon Kim  
     Student Research Competition at Embedded System Week (_SRC ESWEEK_), New York, NY (2019)
