@@ -105,14 +105,14 @@ author_profile: true
   [__[Slides]__](https://ramyadhadidi.github.io/files/hadidi-ispass-slides.pdf)  
   _Ramyad Hadidi_, Bahar Asgari, Jeffrey Young, Burhan Ahmad Mudassar, Kartikay Garg, Tushar Krishna, Hyesoon Kim  
   IEEE International Symposium on Performance Analysis of Systems and Software (_ISPASS_), Belfast, Northern Ireland, UK  
-  Acceptance Rate: 21/67=_31%_
+  <!-- Acceptance Rate: 21/67=_31%_ -->
 
   * __CoolPIM: Thermal-Aware Source Throttling for Efficient PIM Instruction Offloading__
   [__[Paper]__](https://ramyadhadidi.github.io/files/nai-coolpim.pdf)
   [__[Slides]__](https://ramyadhadidi.github.io/files/nai-coolpim-slides.pdf)  
 Lifeng Nai, _Ramyad Hadidi_, He Xiao, Hyojong Kim, Jaewoong Sim, Hyesoon Kim.   
 IEEE International Parallel & Distributed Processing Symposium (_IPDPS’18_), Vancouver, Canada (2018)  
-Acceptance Rate: (First round acceptance) 38/461=_<8%_
+<!-- Acceptance Rate: (First round acceptance) 38/461=_<8%_ -->
 
 
 ## 2017
@@ -120,30 +120,22 @@ Acceptance Rate: (First round acceptance) 38/461=_<8%_
   [__[Paper]__](https://ramyadhadidi.github.io/files/a48-hadidi.pdf)  
 _Ramyad Hadidi_, Lifeng Nai, Hyojong Kim, Hyesoon Kim  
 ACM Transactions on Architecture and Code Optimization (_TACO_). Volume 14, Issue 4, Article 48 (December 2017), 25 pages (2017)  
-Acceptance Rate: _<30%_
+<!-- Acceptance Rate: _<30%_ -->
 
   * __Demystifying the Characteristics of 3D-Stacked Memories: A Case Study for Hybrid Memory Cube__
   [__[Paper]__](https://ramyadhadidi.github.io/files/hadidi-iiswc.pdf) [__[Slides]__](https://ramyadhadidi.github.io/files/hadidi-iiswc-slides.pdf)
   [__[CRNCH Poster]__](https://ramyadhadidi.github.io/files/hadidi-iiswc-poster.pdf)  
 _Ramyad Hadidi_, Bahar Asgari, Burhan Ahmad Mudassar, Saibal Mukhopadhyay, Sudhakar Yalamanchili, Hyesoon Kim  
 IEEE International Symposium on Workload Characterization (_IISWC_), Seattle, Washington (2017)  
-Acceptance Rate: 23/83=_27%_
+<!-- Acceptance Rate: 23/83=_27%_ -->
 
   * __GraphPIM: Enabling Instruction-Level PIM Offloading in Graph Computing Frameworks__
   [__[Paper]__](https://ramyadhadidi.github.io/files/nai-graphpim.pdf) [__[Slides]__](https://ramyadhadidi.github.io/files/nai-graphpim-slides.pdf) [__[Lightning]__](https://ramyadhadidi.github.io/files/nai-graphpim-slides-light.pdf)  
   Lifeng Nai, _Ramyad Hadidi_, Jaewoong Sim, Hyojong Kim, Pranith Kumar, Hyesoon Kim  
   International Symposium on High Performance Computer Architecture (_HPCA_), Austin, Texas (2017)  
-  Acceptance Rate: 50/224=_22%_
+  <!-- Acceptance Rate: 50/224=_22%_ -->
 
 
-[pdf]: https://ramyadhadidi.github.io/images/pdf.png
-
-<!-- {% if author.googlescholar %}
+{% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %} -->
-
-<!-- {% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
+{% endif %}
