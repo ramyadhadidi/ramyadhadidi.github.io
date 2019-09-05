@@ -9,7 +9,7 @@ author_profile: true
     _Ramyad Hadidi_, Jiashen Cao, Yilun Xie, Bahar Asgari, Tushar Krishna, Hyesoon Kim  
     IEEE International Symposium on Workload Characterization (_IISWC_), Orlando, Florida (2019)
 
-  * __SLAM Performance on Embedded Robots__  
+  * __SLAM Performance on Embedded Robots__
     [__[Mentored Undergraduate Work]__]()    
     Nima Shoghi, _Ramyad Hadidi_, Hyesoon Kim  
     Student Research Competition at Embedded System Week (_SRC ESWEEK_), New York, NY (2019)
@@ -30,12 +30,15 @@ author_profile: true
     International Conference on Hardware/Software Codesign and System Synthesis CODES+ISSS (ESWEEK), New York, NY (2019)
 
   * __Capella: Customizing Perception for Edge Devices by Efficiently Allocating FPGAs to DNNs__
-    [__[Mentored Undergraduate Work]__]()  
+    [__[Mentored Undergraduate Work]__]()
+    [__[Demo Site]__](http://comparch.gatech.edu/hparch/fpl/)
+    [__[Slides]__](https://ramyadhadidi.github.io/files/hadidi-FPL.pdf)  
     Younmin Bae, _Ramyad Hadidi_, Bahar Asgari, Jiashen Cao, Hyesoon Kim  
     International Conference on Field-Programmable Logic and Applications (_FPL_), Demo, Barcelona, Spain (2019)
 
   * __Characterizing the Execution of Deep Neural Networks on Collaborative Robots and Edge Devices__
-    [__[Mentored Undergraduate Work]__]()  
+    [__[Mentored Undergraduate Work]__]()
+    [__[Paper]__](https://ramyadhadidi.github.io/files/hadidi-pearc.pdf)  
     Matthew Merck, Bingyao Wang, Lixing Liu, Chunjun Jia, Arthur Siqueira, Qiusen Huang, Abhijeet Saraha,
     Dongsuk Lim, Jiashen Cao, _Ramyad Hadidi_, Hyesoon Kim    
     ACM Practice and Experience in Advanced Research Computing (_PEARC_), Chicago, IL (2019)
@@ -58,7 +61,7 @@ author_profile: true
     ACM/IEE Design Automation Conference (_DAC_) - Late Breaking Results, Las Vegas, NV (2019)
 
   * __An Edge-Centric Scalable Intelligent Framework To Collaboratively Execute DNN__
-    [__[Demo]__](http://comparch.gatech.edu/hparch/sysml)
+    [__[Demo Site]__](http://comparch.gatech.edu/hparch/sysml)
     [__[Paper]__](http://www.sysml.cc/doc/2019/demo_32.pdf)  
     Jiashen Cao, Fei Wu, _Ramyad Hadidi_, Lixing Liu, Tushar Krishna, Micheal S. Ryoo, Hyesoon Kim    
     Conference on Systems and Machine Learning (_SysML_), Demo Palo Alto, CA (2019)
