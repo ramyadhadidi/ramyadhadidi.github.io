@@ -31,7 +31,7 @@ author_profile: true
 
   * __Capella: Customizing Perception for Edge Devices by Efficiently Allocating FPGAs to DNNs__
     [__[Mentored Undergraduate Work]__]()
-    [__[Demo Site]__](http://comparch.gatech.edu/hparch/fpl/)
+    [__[Demo Site]__](http://comparch.gatech.edu/hparch/fpl19)
     [__[Slides]__](https://ramyadhadidi.github.io/files/hadidi-FPL.pdf)
     [__[Paper]__](https://ramyadhadidi.github.io/files/hadidi-fpl-paper.pdf)  
     Younmin Bae, _Ramyad Hadidi_, Bahar Asgari, Jiashen Cao, Hyesoon Kim  

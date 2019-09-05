@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 * Updates:  
-    * _[Sep'19]_ __FPL Demo__: Check our demo [here](http://comparch.gatech.edu/hparch/fpl/).
+    * _[Sep'19]_ __FPL Demo__: Check our demo [here](http://comparch.gatech.edu/hparch/fpl19).
 
     * _[April'19]_ __Undergraduate Research__: I am looking for undergraduates to work with me in our group. My research covers interdisciplinary areas: Architecture, robotics, ML, and systems. Any skill in EE and CS would be a good starting point to join us. We always try to find venues for our undergraduates to publish their work. Please send me an email if you are interested or if you want more about the projects. You will be working with [Hyesoon](https://www.cc.gatech.edu/~hyesoon/), [Jiashen](https://jiashenc.github.io/cv/), and me. Current [list](https://parallel-ml.github.io/docs/people/people/) of people.
 
