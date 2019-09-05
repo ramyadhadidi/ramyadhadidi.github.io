@@ -32,7 +32,8 @@ author_profile: true
   * __Capella: Customizing Perception for Edge Devices by Efficiently Allocating FPGAs to DNNs__
     [__[Mentored Undergraduate Work]__]()
     [__[Demo Site]__](http://comparch.gatech.edu/hparch/fpl/)
-    [__[Slides]__](https://ramyadhadidi.github.io/files/hadidi-FPL.pdf)  
+    [__[Slides]__](https://ramyadhadidi.github.io/files/hadidi-FPL.pdf)
+    [__[Paper]__](https://ramyadhadidi.github.io/files/hadidi-fpl-paper.pdf)  
     Younmin Bae, _Ramyad Hadidi_, Bahar Asgari, Jiashen Cao, Hyesoon Kim  
     International Conference on Field-Programmable Logic and Applications (_FPL_), Demo, Barcelona, Spain (2019)
 
