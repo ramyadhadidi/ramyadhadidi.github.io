@@ -9,6 +9,11 @@ author_profile: true
     _Ramyad Hadidi_, Jiashen Cao, Yilun Xie, Bahar Asgari, Tushar Krishna, Hyesoon Kim  
     IEEE International Symposium on Workload Characterization (_IISWC_), Orlando, Florida (2019)
 
+  * __ERIDANUS: Efficiently Running Inference of DNNs Using Systolic Arrays__
+    [__[IEEE Micro]__](https://ieeexplore.ieee.org/document/8772100)   
+    Bahar Asgari, _Ramyad Hadidi_, Hyesoon Kim, Sudhakar Yalamanchili  
+    IEEE Micro, Special Issue on Machine Learning Acceleration (2019)
+    
   * __SLAM Performance on Embedded Robots__
     [__[Mentored Undergraduate Work]__]()    
     Nima Shoghi, _Ramyad Hadidi_, Hyesoon Kim  
@@ -18,12 +23,6 @@ author_profile: true
     [__[Mentored Undergraduate Work]__]()   
     Mohan Dodda, Taejoon Park, Sayuj Shajith, _Ramyad Hadidi_, Hyesoon Kim  
     Student Research Competition at Embedded System Week (_SRC ESWEEK_), New York, NY (2019)
-
-  * __ERIDANUS: Efficiently Running Inference of DNNs Using Systolic Arrays__
-    [__[Preprint]__](https://ieeexplore.ieee.org/document/8772100)
-    [__[IEEE Micro]__](https://www.computer.org/csdl/magazine/mi/5555/01/08772100/1bXaI6rp3Ak)   
-    Bahar Asgari, _Ramyad Hadidi_, Hyesoon Kim, Sudhakar Yalamanchili  
-    IEEE Micro, Special Issue on Machine Learning Acceleration (2019)
 
   * __Work-in-Progress: Video Analytics From Edge To Server__  
     Jiashen Cao, _Ramyad Hadidi_, Joy Arulraj and Hyesoon Kim  
