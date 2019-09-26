@@ -5,7 +5,8 @@ author_profile: true
 ---
 ## 2019
 
-  * __Characterizing the Deployment of Deep Neural Networks on Commercial Edge Devices__   
+  * __Characterizing the Deployment of Deep Neural Networks on Commercial Edge Devices__
+    [__[Best Paper Nominee]__]()  
     _Ramyad Hadidi_, Jiashen Cao, Yilun Xie, Bahar Asgari, Tushar Krishna, Hyesoon Kim  
     IEEE International Symposium on Workload Characterization (_IISWC_), Orlando, Florida (2019)
 
@@ -13,7 +14,7 @@ author_profile: true
     [__[IEEE Micro]__](https://ieeexplore.ieee.org/document/8772100)   
     Bahar Asgari, _Ramyad Hadidi_, Hyesoon Kim, Sudhakar Yalamanchili  
     IEEE Micro, Special Issue on Machine Learning Acceleration (2019)
-    
+
   * __SLAM Performance on Embedded Robots__
     [__[Mentored Undergraduate Work]__]()    
     Nima Shoghi, _Ramyad Hadidi_, Hyesoon Kim  
