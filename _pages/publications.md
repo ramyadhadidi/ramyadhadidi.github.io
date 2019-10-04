@@ -6,7 +6,8 @@ author_profile: true
 ## 2019
 
   * __Characterizing the Deployment of Deep Neural Networks on Commercial Edge Devices__
-    [__[Best Paper Nominee]__]()  
+    [__[Best Paper Nominee]__]()
+    [__[Paper]__](https://ramyadhadidi.github.io/files/iiswc19-unofficial.pdf)  
     _Ramyad Hadidi_, Jiashen Cao, Yilun Xie, Bahar Asgari, Tushar Krishna, Hyesoon Kim  
     IEEE International Symposium on Workload Characterization (_IISWC_), Orlando, Florida (2019)
 
