@@ -17,16 +17,19 @@ author_profile: true
     IEEE Micro, Special Issue on Machine Learning Acceleration (2019)
 
   * __SLAM Performance on Embedded Robots__
-    [__[Mentored Undergraduate Work]__]()    
+    [__[Mentored Undergraduate Work]__]()
+    [__[Paper]__](https://ramyadhadidi.github.io/files/shoghi_src_esweek.pdf)  
     Nima Shoghi, _Ramyad Hadidi_, Hyesoon Kim  
     Student Research Competition at Embedded System Week (_SRC ESWEEK_), New York, NY (2019)
 
   * __Enabling Speech to Text on Embedded Systems__
-    [__[Mentored Undergraduate Work]__]()   
+    [__[Mentored Undergraduate Work]__]()
+    [__[Paper]__](https://ramyadhadidi.github.io/files/dodda_src_esweek.pdf)  
     Mohan Dodda, Taejoon Park, Sayuj Shajith, _Ramyad Hadidi_, Hyesoon Kim  
     Student Research Competition at Embedded System Week (_SRC ESWEEK_), New York, NY (2019)
 
-  * __Work-in-Progress: Video Analytics From Edge To Server__  
+  * __Work-in-Progress: Video Analytics From Edge To Server__
+  [__[Paper]__](https://ramyadhadidi.github.io/files/cao_esweek2019.pdf)  
     Jiashen Cao, _Ramyad Hadidi_, Joy Arulraj and Hyesoon Kim  
     International Conference on Hardware/Software Codesign and System Synthesis CODES+ISSS (ESWEEK), New York, NY (2019)
 
