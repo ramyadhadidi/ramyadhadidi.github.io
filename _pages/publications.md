@@ -8,6 +8,7 @@ author_profile: true
   * __Characterizing the Deployment of Deep Neural Networks on Commercial Edge Devices__
     [__[Best Paper Nominee]__]()
     [__[EdgeBench]__](http://comparch.gatech.edu/hparch/edgeBench)
+    [__[Slides]__](https://ramyadhadidi.github.io/files/edgeDNN-IISWC19-website-version.pdf)  
     [__[Paper]__](https://ramyadhadidi.github.io/files/iiswc19-edge.pdf)  
     _Ramyad Hadidi_, Jiashen Cao, Yilun Xie, Bahar Asgari, Tushar Krishna, Hyesoon Kim  
     IEEE International Symposium on Workload Characterization (_IISWC_), Orlando, Florida (2019)
