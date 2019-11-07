@@ -3,6 +3,16 @@ permalink: /publications/
 title: "Publications"
 author_profile: true
 ---
+## 2020
+
+  * __ALRESCHA: A Lightweight Reconfigurable Sparse-Computation Accelerator__  
+    Bahar Asgari, _Ramyad Hadidi_, Tushar Krishna, Hyesoon Kim, Sudhakar Yalamanchili  
+    International Symposium on High-Performance Computer Architecture (_HPCA_), San Diego, CA (2020)
+
+  * __ASCELLA: Accelerating Sparse Computation by Enabling Stream Accesses to Memory__  
+    Bahar Asgari, _Ramyad Hadidi_, Hyesoon Kim  
+    Design, Automation, and Test in Europe (_DATE_), Grenoble, France (2020)
+
 ## 2019
 
   * __Characterizing the Deployment of Deep Neural Networks on Commercial Edge Devices__
