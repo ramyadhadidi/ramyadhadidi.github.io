@@ -8,10 +8,6 @@ redirect_from:
 
 {% include base_path %}
 
-Email: __rhadidi@gatech.edu__
-
-My full resume can be found here: [CV](https://drive.google.com/file/d/1X_v5Xwsq153FZ8Ab1pGHqSu35KNC3f3F/view)
-
 ### Interests
 Computer Architecture, Machine Learning,  Deep Learning  
 Graph Processing, Processing in Memory, Robotics    
@@ -87,3 +83,8 @@ Mountain View, California | May. 18 – Aug. 18
  * Matthew Woodward - Undergrad (Fall 17)
  * Bahar Asgari - PhD (Fall 16 – Spring 17)
  * Berkcan Gurel - Undergrad Intern (Summer 16)
+
+### Contact
+Email: __rhadidi@gatech.edu__
+
+My full resume can be found here: [CV](https://drive.google.com/file/d/1X_v5Xwsq153FZ8Ab1pGHqSu35KNC3f3F/view)
