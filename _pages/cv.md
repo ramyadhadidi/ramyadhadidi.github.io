@@ -43,7 +43,7 @@ Mountain View, California | May. 18 – Aug. 18
 * First-Level Fellowship of National Iranian Elites Foundation (Oct. 9 -- Present)
 * Gold Medal Winner in National Astrophysics Olympiad, Iran (Aug. 8)
 * Silver Medal Winner in National Astrophysics Olympiad, Iran (Aug. 7)
-* National Physics Olympiad Finalist, Iran (Feb. 8})
+* National Physics Olympiad Finalist, Iran (Feb. 8)
 
 ## Mentoring Experience
 ### Present
