@@ -24,7 +24,7 @@ Computing System Specialization, GPA: 4.00/4.00
 __B.Sc., Electrical Engineering__, Sept. 9 – Aug. 14  
 Major in Digital Systems, Major GPA: 4.00/4.00
 
-### Experience
+## Experience
 * __Research Assistant__, Adviser: [Hyesoon Kim](https://www.cc.gatech.edu/~hyesoon/)  
 Georgia Tech, Atlanta, Georgia,  Feb. 15 – Present
 
