@@ -8,12 +8,12 @@ redirect_from:
 
 {% include base_path %}
 
-### Interests
+## Interests
 Computer Architecture, Machine Learning,  Deep Learning  
 Graph Processing, Processing in Memory, Robotics    
 
 
-### Education
+## Education
 * __Georgia Institute of Technology__, Atlanta, Georgia  
 __Ph.D., Computer Science__, Aug. 14 – Present  
 Adviser: Hyesoon Kim, [HPArch](http://comparch.gatech.edu/hparch/), GPA: 4.00/4.00
@@ -37,7 +37,7 @@ Mountain View, California | May. 18 – Aug. 18
 * Coordinator and Administrator __Microprocessor Systems' Lab__, [Microlab](http://microlab.ee.sharif.ir)
 
 
-### Honors
+## Honors
 * Ranked 3rd, Sharif University - B.Sc. in Electrical Engineering  (Sept. 9 -- Aug. 14)
 * Silver Medal Winner of 3rd IOAA (International Olympiad on Astrophysics) (Oct. 9)
 * First-Level Fellowship of National Iranian Elites Foundation (Oct. 9 -- Present)
@@ -45,8 +45,8 @@ Mountain View, California | May. 18 – Aug. 18
 * Silver Medal Winner in National Astrophysics Olympiad, Iran (Aug. 7)
 * National Physics Olympiad Finalist, Iran (Feb. 8})
 
-### Mentoring Experience
-#### Present
+## Mentoring Experience
+### Present
  * Jiashen Cao - Undergrad/Master (Fall 17 – Present)
  * Chunjun Jia - Undergrad (Fall 18 – Present) - GaTech Undergraduate Research Award __(PURA) Winner__
  * Matthew Merck - Undergrad (Spring 19 – Present)
@@ -67,7 +67,7 @@ Mountain View, California | May. 18 – Aug. 18
  * Adriana Amyette - Undergrad (Fall 19 – Present)
  * Jaemo Koo - Undergrad (Fall 19 – Present)
 
-#### Alumni
+### Alumni
  * Abhijeet Saraha - Undergrad (Fall 19 - Summer 19)
  * Akanksha Telagamsetty - from Bennett University - Undergrad Intern (Summer 19)
  * Ayushi Chaudhary - from Bennett University - Undergrad Intern (Summer 19)
@@ -84,7 +84,7 @@ Mountain View, California | May. 18 – Aug. 18
  * Bahar Asgari - PhD (Fall 16 – Spring 17)
  * Berkcan Gurel - Undergrad Intern (Summer 16)
 
-### Contact
+## Contact
 Email: __rhadidi@gatech.edu__
 
 My full resume can be found here: [CV](https://drive.google.com/file/d/1X_v5Xwsq153FZ8Ab1pGHqSu35KNC3f3F/view)
