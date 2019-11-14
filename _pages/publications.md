@@ -30,6 +30,7 @@ author_profile: true
 
   * __SLAM Performance on Embedded Robots__
     [__[Mentored Undergraduate Work]__]()
+    [__ACM SRC Bronze Winner__]()
     [__[Paper]__](https://ramyadhadidi.github.io/files/shoghi_src_esweek.pdf)  
     Nima Shoghi, _Ramyad Hadidi_, Hyesoon Kim  
     Student Research Competition at Embedded System Week (_SRC ESWEEK_), New York, NY (2019)

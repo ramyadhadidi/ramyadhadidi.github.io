@@ -45,9 +45,20 @@ Mountain View, California | May. 18 – Aug. 18
 * Silver Medal Winner in National Astrophysics Olympiad, Iran (Aug. 7)
 * National Physics Olympiad Finalist, Iran (Feb. 8)
 
+## Collaborators
+ * [Tushar Krishna](https://tusharkrishna.ece.gatech.edu/) - Professor
+ * [Michael S. Ryoo](http://michaelryoo.com/) - Professor
+ * [Joy Arulraj](https://www.cc.gatech.edu/~jarulraj/) - Professor
+ * [Saibal Mukhopadhyay](https://www.ece.gatech.edu/faculty-staff-directory/saibal-mukhopadhyay) - Professor
+ * [Sudhakar Yalamanchili](https://sudha-curr.ece.gatech.edu/) - Professor
+ * [Jiashen Cao](https://jiashenc.github.io/) - Master
+ * [Bahar Asgari](https://www.prism.gatech.edu/~basgari3/) - PhD
+ * [Hyojong Kim](https://hyojongk.github.io/) - PhD
+
+
+
 ## Mentoring Experience
 ### Present
- * Jiashen Cao - Undergrad/Master (Fall 17 – Present)
  * Chunjun Jia - Undergrad (Fall 18 – Present) - GaTech Undergraduate Research Award __(PURA) Winner__
  * Matthew Merck - Undergrad (Spring 19 – Present)
  * Arthur Siqueira - Undergrad (Spring 19 – Present)
@@ -68,6 +79,7 @@ Mountain View, California | May. 18 – Aug. 18
  * Jaemo Koo - Undergrad (Fall 19 – Present)
 
 ### Alumni
+ * Jiashen Cao - Undergrad/Master (Fall 17 – Spring 19)
  * Abhijeet Saraha - Undergrad (Fall 19 - Summer 19)
  * Akanksha Telagamsetty - from Bennett University - Undergrad Intern (Summer 19)
  * Ayushi Chaudhary - from Bennett University - Undergrad Intern (Summer 19)
