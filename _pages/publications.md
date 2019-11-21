@@ -5,7 +5,7 @@ author_profile: true
 ---
 ## 2020
   * __Batch-Aware Unified Memory Management in GPUs for Irregular Workloads__  
-    Hyojong Kim, Jaewoong Sim, Prasun Gera, _Ramyad Hadidi__, Hyesoon Kim  
+    Hyojong Kim, Jaewoong Sim, Prasun Gera, _Ramyad Hadidi_, Hyesoon Kim  
     CM International Conference on Architectural Support for Programming Languages and Operating Systems (_ASPLOS_), Lausanne, Switzerland (2020)
 
   * __ALRESCHA: A Lightweight Reconfigurable Sparse-Computation Accelerator__  
