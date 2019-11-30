@@ -20,12 +20,12 @@ author_profile: true
 ## 2019
 
   * __Characterizing the Deployment of Deep Neural Networks on Commercial Edge Devices__
-    __[Best Paper Nominee]__
     [__[EdgeBench]__](http://comparch.gatech.edu/hparch/edgeBench)
     [__[Slides]__](https://ramyadhadidi.github.io/files/edgeDNN-IISWC19-website-version.pdf)
     [__[Paper]__](https://ramyadhadidi.github.io/files/iiswc19-edge.pdf)  
     _Ramyad Hadidi_, Jiashen Cao, Yilun Xie, Bahar Asgari, Tushar Krishna, Hyesoon Kim  
-    IEEE International Symposium on Workload Characterization (_IISWC_), Orlando, Florida (2019)
+    IEEE International Symposium on Workload Characterization (_IISWC_), Orlando, Florida (2019)  
+    __[Best Paper Nominee]__
 
   * __ERIDANUS: Efficiently Running Inference of DNNs Using Systolic Arrays__
     [__[IEEE Micro]__](https://ramyadhadidi.github.io/files/asgari-ieee-micro19.pdf)   
@@ -33,17 +33,17 @@ author_profile: true
     IEEE Micro, Special Issue on Machine Learning Acceleration (2019)
 
   * __SLAM Performance on Embedded Robots__
-    __[Mentored Undergraduate Work]__
-    __[ACM SRC Bronze Winner]__
     [__[Paper]__](https://ramyadhadidi.github.io/files/shoghi_src_esweek.pdf)  
     Nima Shoghi, _Ramyad Hadidi_, Hyesoon Kim  
-    Student Research Competition at Embedded System Week (_SRC ESWEEK_), New York, NY (2019)
+    Student Research Competition at Embedded System Week (_SRC ESWEEK_), New York, NY (2019)  
+    __[Mentored Undergraduate Work]__
+    __[ACM SRC Bronze Winner]__
 
   * __Enabling Speech to Text on Embedded Systems__
-    __[Mentored Undergraduate Work]__
     [__[Paper]__](https://ramyadhadidi.github.io/files/dodda_src_esweek.pdf)  
     Mohan Dodda, Taejoon Park, Sayuj Shajith, _Ramyad Hadidi_, Hyesoon Kim  
-    Student Research Competition at Embedded System Week (_SRC ESWEEK_), New York, NY (2019)
+    Student Research Competition at Embedded System Week (_SRC ESWEEK_), New York, NY (2019)  
+    __[Mentored Undergraduate Work]__
 
   * __Work-in-Progress: Video Analytics From Edge To Server__
     [__[Paper]__](https://ramyadhadidi.github.io/files/cao_esweek2019.pdf)  
@@ -51,20 +51,20 @@ author_profile: true
     International Conference on Hardware/Software Codesign and System Synthesis CODES+ISSS (ESWEEK), New York, NY (2019)
 
   * __Capella: Customizing Perception for Edge Devices by Efficiently Allocating FPGAs to DNNs__
-    __[Mentored Undergraduate Work]__
     [__[Demo Site]__](http://comparch.gatech.edu/hparch/fpl19)
     [__[Slides]__](https://ramyadhadidi.github.io/files/hadidi-FPL.pdf)
-    [__[Paper]__](https://ramyadhadidi.github.io/files/hadidi-fpl-paper.pdf)  
+    [__[Paper]__](https://ramyadhadidi.github.io/files/hadidi-fpl-paper.pdf)   
     Younmin Bae, _Ramyad Hadidi_, Bahar Asgari, Jiashen Cao, Hyesoon Kim  
-    International Conference on Field-Programmable Logic and Applications (_FPL_), Demo, Barcelona, Spain (2019)
+    International Conference on Field-Programmable Logic and Applications (_FPL_), Demo, Barcelona, Spain (2019)  
+    __[Mentored Undergraduate Work]__
 
   * __Characterizing the Execution of Deep Neural Networks on Collaborative Robots and Edge Devices__
-    __[Mentored Undergraduate Work]__
     [__[Slides]__](https://ramyadhadidi.github.io/files/merck-pearc19.pdf)
     [__[Paper]__](https://ramyadhadidi.github.io/files/hadidi-pearc.pdf)  
     Matthew Merck, Bingyao Wang, Lixing Liu, Chunjun Jia, Arthur Siqueira, Qiusen Huang, Abhijeet Saraha,
     Dongsuk Lim, Jiashen Cao, _Ramyad Hadidi_, Hyesoon Kim    
-    ACM Practice and Experience in Advanced Research Computing (_PEARC_), Chicago, IL (2019)
+    ACM Practice and Experience in Advanced Research Computing (_PEARC_), Chicago, IL (2019)   
+    __[Mentored Undergraduate Work]__
 
   * __Understanding the Power Consumption of Executing Deep Neural Networks on a Distributed Robot System__
     [__[Slides]__](http://comparch.gatech.edu/hparch/papers/icra_workshop_2019.pptx)
