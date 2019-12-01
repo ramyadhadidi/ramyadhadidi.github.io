@@ -16,6 +16,8 @@ I am a fan of Linux, open source software, free Internet and github. I love any 
 
 ## News  
 
+* _[Dec'19]_ HpArch Undergraduate Research [website](http://comparch.gatech.edu/hparch/undergraduate_research/) is up!
+
 * _[Nov'19]_ __IISWC'19 Best Paper Nominee__: Our paper about characterizing edge devices for DNN execution is in best paper session. Check publication list for the paper and [EdgeBench](http://comparch.gatech.edu/hparch/edgeBench).
 
 * _[Oct'19]_ __SRC Bronze Winner ESWEEK'19__: Nima won SRC Bronze Winner at ESWEEK for his paper about _SLAM Performance on Embedded Robots_! Check publication list for the paper.
