@@ -17,8 +17,8 @@ I am a fan of Linux, open source software, free Internet and github. I love any 
 ## News  
 
 * _[Dec'19]_ __HpArch Undergraduate Research__ [website](http://comparch.gatech.edu/hparch/undergraduate_research/) is up! 
-    - [Drone Demo](http://www.youtube.com/watch?v=M7vhumMjpkI)
-    - [Robots Demo](http://www.youtube.com/watch?v=3EmQX5hJeWg)
+    - [Drone Demo](http://www.youtube.com/watch?v=3EmQX5hJeWg)
+    - [Robots Demo](http://www.youtube.com/watch?v=rUPnl4SnMRQ)
 
 * _[Nov'19]_ __IISWC'19 Best Paper Nominee__: Our paper about characterizing edge devices for DNN execution is in best paper session. Check publication list for the paper and [EdgeBench](http://comparch.gatech.edu/hparch/edgeBench).
 
