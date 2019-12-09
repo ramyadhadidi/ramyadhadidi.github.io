@@ -20,7 +20,7 @@ I am a fan of Linux, open source software, free Internet and github. I love any 
     - [Drone Demo](http://www.youtube.com/watch?v=3EmQX5hJeWg)
     - [Robots Demo](http://www.youtube.com/watch?v=rUPnl4SnMRQ)
 
-* _[Dec'19]_ My paper got accepted to IoT Journal.
+* _[Dec'19]_ My paper got accepted to [IoT Journal](http://ieee-iotj.org/).
 
 * _[Nov'19]_ Excited that papers that I have helped with has been accepted to __HPCA__, __ASPLOS__, and __DATE__, [publication](https://ramyadhadidi.github.io/publications/).
 
