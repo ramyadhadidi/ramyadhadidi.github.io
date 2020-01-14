@@ -58,6 +58,8 @@ Mountain View, California | May. 18 – Aug. 18
 
 
 ## Mentoring Experience
+Check the [website](http://comparch.gatech.edu/hparch/undergraduate_research/)
+
 ### Present
  * Chunjun Jia - Undergrad (Fall 18 – Present) - GaTech Undergraduate Research Award __(PURA) Winner__
  * Matthew Merck - Undergrad (Spring 19 – Present)
@@ -72,13 +74,22 @@ Mountain View, California | May. 18 – Aug. 18
  * Justin Hu - Undergrad (Fall 19 – Present)
  * Aditya Jituri - Undergrad (Fall 19 – Present)
  * Bryce Plunkett - Undergrad (Fall 19 – Present)
- * Anish Thite - Undergrad (Fall 19 – Present)
  * Rahul Rajan - Undergrad (Fall 19 – Present)
  * Sam Jijina - Undergrad (Fall 19 – Present)
  * Adriana Amyette - Undergrad (Fall 19 – Present)
- * Jaemo Koo - Undergrad (Fall 19 – Present)
+ * Yonwoo Kim - Undergrad (Fall 19 – Present)
+ * Bruce Qin - Undergrad (Fall 19 – Present)
+ * Jake Present - Undergrad (Spring 20 - Present)
+ * Bhanu Garg - Undergrad (Spring 20 - Present)
+ * Jun Chen - Undergrad (Spring 20 - Present)
+ * Zhen Jiang - Undergrad (Spring 20 - Present)
+ * Fei Ding - Undergrad (Spring 20 - Present)
+ * Sanggwon Jang - Undergrad (Spring 20 - Present)
+
 
 ### Alumni
+ * Anish Thite - Undergrad (Fall 19)
+ * Jaemo Koo - Undergrad (Fall 19)
  * Jiashen Cao - Undergrad/Master (Fall 17 – Spring 19)
  * Abhijeet Saraha - Undergrad (Fall 19 - Summer 19)
  * Akanksha Telagamsetty - from Bennett University - Undergrad Intern (Summer 19)
