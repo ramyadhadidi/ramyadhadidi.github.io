@@ -5,7 +5,7 @@ author_profile: true
 ---
 ## 2020
   * __Batch-Aware Unified Memory Management in GPUs for Irregular Workloads__
-  [__[Paper]__](https://ramyadhadidi.github.io/files/kim-asplos20.pdf)  
+    [__[Paper]__](https://ramyadhadidi.github.io/files/kim-asplos20.pdf)  
     Hyojong Kim, Jaewoong Sim, Prasun Gera, _Ramyad Hadidi_, Hyesoon Kim  
     International Conference on Architectural Support for Programming Languages and Operating Systems (_ASPLOS_), Lausanne, Switzerland (2020)
 
@@ -14,7 +14,8 @@ author_profile: true
     Bahar Asgari, _Ramyad Hadidi_, Tushar Krishna, Hyesoon Kim, Sudhakar Yalamanchili  
     International Symposium on High-Performance Computer Architecture (_HPCA_), San Diego, CA (2020)
 
-  * __ASCELLA: Accelerating Sparse Computation by Enabling Stream Accesses to Memory__  
+  * __ASCELLA: Accelerating Sparse Computation by Enabling Stream Accesses to Memory__
+    [__[Paper]__](https://ramyadhadidi.github.io/files/asgari-date20.pdf)  
     Bahar Asgari, _Ramyad Hadidi_, Hyesoon Kim  
     Design, Automation, and Test in Europe (_DATE_), Grenoble, France (2020)
 
