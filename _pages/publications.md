@@ -52,7 +52,8 @@ author_profile: true
     __[Mentored Undergraduate Work]__
 
   * __Work-in-Progress: Video Analytics From Edge To Server__
-    [__[Paper]__](https://ramyadhadidi.github.io/files/cao_esweek2019.pdf)  
+    [__[Paper]__](https://ramyadhadidi.github.io/files/cao_esweek2019.pdf)
+    [__[Slides]__](https://ramyadhadidi.github.io/files/cao-esweek-slides.pdf)  
     Jiashen Cao, _Ramyad Hadidi_, Joy Arulraj and Hyesoon Kim  
     International Conference on Hardware/Software Codesign and System Synthesis CODES+ISSS (ESWEEK), New York, NY (2019)
 
