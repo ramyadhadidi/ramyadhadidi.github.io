@@ -109,5 +109,3 @@ Check the [website](http://comparch.gatech.edu/hparch/undergraduate_research/)
 
 ## Contact
 Email: __rhadidi@gatech.edu__
-
-My full resume can be found here: [CV](https://drive.google.com/file/d/1X_v5Xwsq153FZ8Ab1pGHqSu35KNC3f3F/view)
