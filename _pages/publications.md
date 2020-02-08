@@ -5,7 +5,7 @@ author_profile: true
 ---
 ## 2020
   * __Towards a General Purpose Cognitive Drone__   
-    Sam Jijina, Adriana Amyette,, Ramyad Hadidi, Hyesoon Kim   
+    Sam Jijina, Adriana Amyette, Ramyad Hadidi, Hyesoon Kim   
     The Fourth Workshop on Cognitive Architectures (CogArch 2020), co-located with HPCA 2020, San Diego, CA (2020)
 
   * __Batch-Aware Unified Memory Management in GPUs for Irregular Workloads__
