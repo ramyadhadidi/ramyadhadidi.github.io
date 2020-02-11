@@ -4,8 +4,16 @@ title: "Publications"
 author_profile: true
 ---
 ## 2020
+  * __Towards Collaborative Inferencing of Deep Neural Networks on Internet of Things Devices__
+    _Ramyad Hadidi_, Jiashen Cao, Michael S. Ryoo, Hyesoon Kim  
+    IEEE Internet of Things Journal (2020)
+
+  * __PISCES: Power-Aware Implementation of SLAM by Customizing Efficient Sparse Algebra__  
+    Bahar Asgari, _Ramyad Hadidi_, Nima Shoghi, Hyesoon Kim  
+    2020 57th ACM/EDAC/IEEE Design Automation Conference (_DAC_), San Francisco, CA (2020)
+
   * __Towards a General Purpose Cognitive Drone__   
-    Sam Jijina, Adriana Amyette, Ramyad Hadidi, Hyesoon Kim   
+    Sam Jijina, Adriana Amyette, _Ramyad Hadidi_, Hyesoon Kim   
     The Fourth Workshop on Cognitive Architectures (CogArch 2020), co-located with HPCA 2020, San Diego, CA (2020)
 
   * __Batch-Aware Unified Memory Management in GPUs for Irregular Workloads__
