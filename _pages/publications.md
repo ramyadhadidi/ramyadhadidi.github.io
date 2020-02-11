@@ -4,7 +4,7 @@ title: "Publications"
 author_profile: true
 ---
 ## 2020
-  * __Towards Collaborative Inferencing of Deep Neural Networks on Internet of Things Devices__
+  * __Towards Collaborative Inferencing of Deep Neural Networks on Internet of Things Devices__  
     _Ramyad Hadidi_, Jiashen Cao, Michael S. Ryoo, Hyesoon Kim  
     IEEE Internet of Things Journal (2020)
 
