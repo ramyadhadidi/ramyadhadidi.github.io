@@ -16,11 +16,14 @@ I am a fan of Linux, open source software, free Internet and github. I love any 
 
 ## News  
 
-* _[Dec'19]_ __HpArch Undergraduate Research__ [website](http://comparch.gatech.edu/hparch/undergraduate_research/) is up! 
-    - [Drone Demo](http://www.youtube.com/watch?v=3EmQX5hJeWg)
-    - [Robots Demo](http://www.youtube.com/watch?v=rUPnl4SnMRQ)
+* _[Feb'20]_ We have two new works on drones one at [CogArch](http://cogarch-workshop.org/) workshop, another at [ISPASS](https://www.ispass.org/) as poster
 
-* _[Dec'19]_ My paper got accepted to [IoT Journal](http://ieee-iotj.org/).
+* _[Feb'20]_ Our paper about efficient SLAM implementation is accepted to [DAC'20](https://www.dac.com/)
+
+* _[Jan'20]_ My paper got accepted to [IoT Journal](http://ieee-iotj.org/).
+
+* _[Dec'19]_ __HpArch Undergraduate Research__ [website](http://comparch.gatech.edu/hparch/undergraduate_research/) is up! 
+  Check [Drone Demo](http://www.youtube.com/watch?v=3EmQX5hJeWg) and [Robots Demo](http://www.youtube.com/watch?v=rUPnl4SnMRQ)
 
 * _[Nov'19]_ Excited that papers that I have helped with has been accepted to __HPCA__, __ASPLOS__, and __DATE__, [publication](https://ramyadhadidi.github.io/publications/).
 

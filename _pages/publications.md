@@ -6,7 +6,7 @@ author_profile: true
 ## 2020
   * __Understanding the Software and Hardware Stacks of a General-Purpose Cognitive Drone__   
     Sam Jijina, Adriana Amyette, Nima Shoghi, _Ramyad Hadidi_, Hyesoon Kim   
-    IEEE International Symposium on Performance Analysis of Systems and Software (_ISPASS_), Poster, Boston, MA (2020)  
+    IEEE International Symposium on Performance Analysis of Systems and Software (_ISPASS_), Boston, MA (2020)  
 
   * __Towards Collaborative Inferencing of Deep Neural Networks on Internet of Things Devices__  
     _Ramyad Hadidi_, Jiashen Cao, Michael S. Ryoo, Hyesoon Kim  
@@ -99,13 +99,13 @@ author_profile: true
     ACM/IEE Design Automation Conference (_DAC_) - Late Breaking Results, Las Vegas, NV (2019)
 
   * __LODESTAR: Creating Locally-Dense CNNs for Efficient Inference on Systolic Arrays__
-    [__[Paper]__](https://dl.acm.org/citation.cfm?id=3322472)   
+    [__[Paper]__](https://ramyadhadidi.github.io/files/asgari-lodestar.pdf)   
     Bahar Asgari, _Ramyad Hadidi_, Hyesoon Kim, and  Sudhakar Yalamanchili        
     ACM/IEE Design Automation Conference (_DAC_) - Late Breaking Results, Las Vegas, NV (2019)
 
   * __An Edge-Centric Scalable Intelligent Framework To Collaboratively Execute DNN__
     [__[Demo Site]__](http://comparch.gatech.edu/hparch/sysml)
-    [__[Paper]__](http://www.sysml.cc/doc/2019/demo_32.pdf)  
+    [__[Paper]__](https://ramyadhadidi.github.io/files/hadidi-sysml.pdf)  
     Jiashen Cao, Fei Wu, _Ramyad Hadidi_, Lixing Liu, Tushar Krishna, Micheal S. Ryoo, Hyesoon Kim    
     Conference on Systems and Machine Learning (_SysML_), Demo Palo Alto, CA (2019)
 
