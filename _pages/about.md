@@ -1,13 +1,16 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About Me"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 I am a Ph.D. candidate in computer science at Georgia Institute of Technology since 2014. I have the pleasure of working with Hyesoon Kim and my lab-mates in [HPArch](http://comparch.gatech.edu/hparch/) group. Our group's research is focused on computer architecture. Specifically, I have worked on 3D-stacked memories, processing in memory (PIM), and machine learning. Currently, I am working on enabling edge and IoT devices (i.e., resource-constrained devices) to execute deep neural networks (DNNs) collaboratively, efficiently, securely, and reliably.
+
+
+### More About Me!
 
 I received my bachelor's degree from the Sharif University of Technology in electrical engineering, and my master's degree from Georgia Tech in computer science. In high school, I fell in love with astrophysics and won a silver medal in the International Olympiad of Astrophysics and Astronomy in 2009 (3rd [IOAA](https://en.wikipedia.org/wiki/International_Olympiad_on_Astronomy_and_Astrophysics)). I started to study computer architecture because I wanted to understand how 0s and 1s eventually created computers. Fortunately, I am still derived from the same curiosity every day.  
 
