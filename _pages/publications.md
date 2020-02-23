@@ -16,7 +16,9 @@ author_profile: true
     Bahar Asgari, _Ramyad Hadidi_, Nima Shoghi, Hyesoon Kim  
     2020 57th ACM/EDAC/IEEE Design Automation Conference (_DAC_), San Francisco, CA (2020)
 
-  * __Towards a General Purpose Cognitive Drone__   
+  * __Towards a General Purpose Cognitive Drone__
+    [__[Slides]__](https://ramyadhadidi.github.io/files/jijina-cogarch20-drone.pdf)
+    [__[Paper]__](https://ramyadhadidi.github.io/files/jijina-cogarch20.pdf)  
     Sam Jijina, Adriana Amyette, _Ramyad Hadidi_, Hyesoon Kim   
     The Fourth Workshop on Cognitive Architectures (_CogArch_ 2020), co-located with HPCA 2020, San Diego, CA (2020)
 
