@@ -28,6 +28,7 @@ author_profile: true
     International Conference on Architectural Support for Programming Languages and Operating Systems (_ASPLOS_), Lausanne, Switzerland (2020)
 
   * __ALRESCHA: A Lightweight Reconfigurable Sparse-Computation Accelerator__
+    [__[Slides]__](https://www.prism.gatech.edu/~basgari3/papers/asgari-slides-alrescha-HPCA20.pdf)
     [__[Paper]__](https://ramyadhadidi.github.io/files/asgari-hpca20.pdf)    
     Bahar Asgari, _Ramyad Hadidi_, Tushar Krishna, Hyesoon Kim, Sudhakar Yalamanchili  
     International Symposium on High-Performance Computer Architecture (_HPCA_), San Diego, CA (2020)
