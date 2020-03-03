@@ -4,6 +4,10 @@ title: "Publications"
 author_profile: true
 ---
 ## 2020
+  * __MEISSA: Multiplying Matrices Efficiently in a Scalable Systolic Architecture__   
+    Bahar Asgari, _Ramyad Hadidi_, Hyesoon Kim  
+    IEEE International Symposium on Field-Programmable Custom Computing Machines (_FCCM_), Fayetteville, AR (2020)  
+
   * __Understanding the Software and Hardware Stacks of a General-Purpose Cognitive Drone__   
     Sam Jijina, Adriana Amyette, Nima Shoghi, _Ramyad Hadidi_, Hyesoon Kim   
     IEEE International Symposium on Performance Analysis of Systems and Software (_ISPASS_), Boston, MA (2020)  
