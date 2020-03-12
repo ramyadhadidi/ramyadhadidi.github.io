@@ -4,7 +4,7 @@ title: "Publications"
 author_profile: true
 ---
 ## 2020
-  * __MEISSA: Multiplying Matrices Efficiently in a Scalable Systolic Architecture__   
+  * __Proposing a Fast and Scalable Systolic Array to Implement Matrix Multiplications on FPGA__   
     Bahar Asgari, _Ramyad Hadidi_, Hyesoon Kim  
     IEEE International Symposium on Field-Programmable Custom Computing Machines (_FCCM_), Fayetteville, AR (2020)  
 
