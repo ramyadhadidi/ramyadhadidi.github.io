@@ -12,9 +12,10 @@ author_profile: true
     Sam Jijina, Adriana Amyette, Nima Shoghi, _Ramyad Hadidi_, Hyesoon Kim   
     IEEE International Symposium on Performance Analysis of Systems and Software (_ISPASS_), Boston, MA (2020)  
 
-  * __Towards Collaborative Inferencing of Deep Neural Networks on Internet of Things Devices__  
+  * __Towards Collaborative Inferencing of Deep Neural Networks on Internet of Things Devices__
+    [__[Paper]__](https://ieeexplore.ieee.org/document/8985265/)
     _Ramyad Hadidi_, Jiashen Cao, Michael S. Ryoo, Hyesoon Kim  
-    IEEE Internet of Things Journal (_IoTJ_) (2020)
+    IEEE Internet of Things Journal (_JIoT_) (2020)
 
   * __PISCES: Power-Aware Implementation of SLAM by Customizing Efficient Sparse Algebra__  
     Bahar Asgari, _Ramyad Hadidi_, Nima Shoghi, Hyesoon Kim  
