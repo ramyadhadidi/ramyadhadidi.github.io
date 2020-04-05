@@ -71,7 +71,7 @@ author_profile: true
     Student Research Competition at Embedded System Week (_SRC ESWEEK_), New York, NY (2019)  
     __[Mentored Undergraduate Work]__
 
-  * __Work-in-Progress: Video Analytics From Edge To Server__
+  * __Video Analytics From Edge To Server: Work-in-Progress__
     [__[Paper]__](https://ramyadhadidi.github.io/files/cao_esweek2019.pdf)
     [__[Slides]__](https://ramyadhadidi.github.io/files/cao-esweek-slides.pdf)  
     Jiashen Cao, _Ramyad Hadidi_, Joy Arulraj and Hyesoon Kim  
