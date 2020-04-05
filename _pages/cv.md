@@ -51,9 +51,12 @@ Mountain View, California | May. 18 – Aug. 18
  * [Joy Arulraj](https://www.cc.gatech.edu/~jarulraj/) - Professor
  * [Saibal Mukhopadhyay](https://www.ece.gatech.edu/faculty-staff-directory/saibal-mukhopadhyay) - Professor
  * [Sudhakar Yalamanchili](https://sudha-curr.ece.gatech.edu/) - Professor
+ * [Jeffrey Young](https://www.cc.gatech.edu/~jyoung9/) - Research Scientist
  * [Jiashen Cao](https://jiashenc.github.io/) - Master
  * [Bahar Asgari](https://www.prism.gatech.edu/~basgari3/) - PhD
- * [Hyojong Kim](https://hyojongk.github.io/) - PhD
+ * [Hyojong Kim](https://hyojongk.github.io/) - VMWare
+ * [Lifeng Nai](http://nailifeng.org/) - Google
+ * [Jaewoong Sim](https://jaewoong.org/) - Intel
 
 
 
