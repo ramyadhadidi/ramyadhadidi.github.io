@@ -18,7 +18,7 @@ I am a fan of Linux, open source software, free Internet and github. I love any 
 
 
 ## News  
-* _[April'20]_ __CS 4290 (Summer20)__: I am teaching high-performance computer architecture this summer. You can check last year's summer [website](https://www.cc.gatech.edu/~rhadidi6/cs4290/index.html). Feel free to shot me an email if you have any questions. 
+* _[April'20]_ __CS 4290 (Summer20)__: I am teaching high-performance computer architecture this summer. You can check the [website](https://www.cc.gatech.edu/~rhadidi6/cs4290-2020/index.html). Feel free to shot me an email if you have any questions. 
 
 * _[Mar'20]_ Our paper about systolic array implementation for deep learning is accepted to [FCCM'20](https://www.fccm.org/).
 
