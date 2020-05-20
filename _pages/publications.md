@@ -4,7 +4,8 @@ title: "Publications"
 author_profile: true
 ---
 ## 2020
-  * __Proposing a Fast and Scalable Systolic Array to Implement Matrix Multiplications on FPGA__   
+  * __Proposing a Fast and Scalable Systolic Array to Implement Matrix Multiplications__
+  [__[Slides]__](https://ramyadhadidi.github.io/files/asgari-slides-fccm20.pdf)  
     Bahar Asgari, _Ramyad Hadidi_, Hyesoon Kim  
     IEEE International Symposium on Field-Programmable Custom Computing Machines (_FCCM_), Fayetteville, AR (2020)  
 
@@ -17,7 +18,8 @@ author_profile: true
     _Ramyad Hadidi_, Jiashen Cao, Michael S. Ryoo, Hyesoon Kim  
     IEEE Internet of Things Journal (_JIoT_) (2020)
 
-  * __PISCES: Power-Aware Implementation of SLAM by Customizing Efficient Sparse Algebra__  
+  * __PISCES: Power-Aware Implementation of SLAM by Customizing Efficient Sparse Algebra__
+    [__[Paper]__](https://ramyadhadidi.github.io/files/asgari-dac20.pdf)  
     Bahar Asgari, _Ramyad Hadidi_, Nima Shoghi, Hyesoon Kim  
     2020 57th ACM/EDAC/IEEE Design Automation Conference (_DAC_), San Francisco, CA (2020)
 
