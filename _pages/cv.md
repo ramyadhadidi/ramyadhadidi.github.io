@@ -28,6 +28,9 @@ Major in Digital Systems, Major GPA: 4.00/4.00
 * __Research Assistant__, Adviser: [Hyesoon Kim](https://www.cc.gatech.edu/~hyesoon/)  
 Georgia Tech, Atlanta, Georgia,  Feb. 15 – Present
 
+* __Instructor__, Georgia Tech, [CS4290](https://www.cc.gatech.edu/~rhadidi6/cs4290-2020/index.html)  
+Atlanta, Georgia | May. 20 – Aug. 20
+
 * __Instructor__, Georgia Tech, [CS4290](https://www.cc.gatech.edu/~rhadidi6/cs4290/index.html)  
 Atlanta, Georgia | May. 19 – Aug. 19
 
