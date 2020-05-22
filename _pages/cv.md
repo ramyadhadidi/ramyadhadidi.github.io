@@ -29,7 +29,7 @@ Major in Digital Systems, Major GPA: 4.00/4.00
 Georgia Tech, Atlanta, Georgia,  Feb. 15 – Present
 
 * __Instructor__, Georgia Tech, [CS4290](https://www.cc.gatech.edu/~rhadidi6/cs4290-2020/index.html)  
-Atlanta, Georgia | May. 20 – Aug. 20
+Atlanta, Georgia | May. 19 – Aug. 19
 
 * __Instructor__, Georgia Tech, [CS4290](https://www.cc.gatech.edu/~rhadidi6/cs4290/index.html)  
 Atlanta, Georgia | May. 19 – Aug. 19
