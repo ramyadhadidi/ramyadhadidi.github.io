@@ -4,6 +4,11 @@ title: "Publications"
 author_profile: true
 ---
 ## 2020
+  * __Edge-Tailored Perception: Fast Inferencing in-the-Edge with Efficient Model Distribution__
+  [__[Paper]__](https://arxiv.org/abs/2003.06464)  
+    Ramyad Hadidi, Bahar Asgari, Jiashen Cao, Younmin Bae, Hyojong Kim, Michael S. Ryoo, Hyesoon Kim  
+    arXiv preprint arXiv:2003.06464 (2020)  
+
   * __Proposing a Fast and Scalable Systolic Array to Implement Matrix Multiplications__
   [__[Slides]__](https://ramyadhadidi.github.io/files/asgari-slides-fccm20.pdf)  
     Bahar Asgari, _Ramyad Hadidi_, Hyesoon Kim  
