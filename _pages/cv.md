@@ -37,7 +37,7 @@ Atlanta, Georgia | May. 19 – Aug. 19
 * __Google SWE Intern__, Google Research, [Video Understanding Team](https://research.google.com/youtube8m/people.html)  
 Mountain View, California | May. 18 – Aug. 18
 
-* Coordinator and Administrator __Microprocessor Systems' Lab__, [Microlab](http://microlab.ee.sharif.ir)
+* Coordinator and Administrator __Microprocessor Systems' Lab__, [Microlab](http://ee.sharif.edu/~microlab_t/MicroLab.html)
 
 
 ## Honors
