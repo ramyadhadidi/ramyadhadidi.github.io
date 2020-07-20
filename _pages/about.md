@@ -17,8 +17,11 @@ I received my bachelor's degree from the Sharif University of Technology in elec
 I am a fan of Linux, open source software, free Internet and github. I love any kinds of board games. I crave to play post-rock someday. I enjoy spending my time in nature. I play squash, tennis, ping pong, soccer, do rock climbing (bouldering specifically) and backpacking.
 
 
-## News  
-* _[April'20]_ __CS 4290 (Summer20)__: I am teaching high-performance computer architecture this summer. You can check the [website](https://www.cc.gatech.edu/~rhadidi6/cs4290-2020/index.html). Feel free to shot me an email if you have any questions. 
+## News
+
+* _[April'20]_ __CS 4290 (Summer20)__: I am teaching high-performance computer architecture this summer. You can check the [website](https://www.cc.gatech.edu/~rhadidi6/cs4290-2020/index.html). Feel free to shot me an email if you have any questions.
+
+* _[Mar'20]_ __PiZeroW__: Back to old EE days, I built a Pi Zero temperature monitoring with a webserver plus a Network-Wide ad Blocker, you can find the code [here](https://github.com/ramyadhadidi/pi_sensor_webserver). Interesting that with a single core my PiZero can run two webservers (pi-hole + dash), a DNS resolver with 2M domains on blacklist updated everyday, and a temperature logger with OLED updating every 30 seconds. However, people still rely on remote servers to do these simple tasks.
 
 * _[Mar'20]_ Our paper about systolic array implementation for deep learning is accepted to [FCCM'20](https://www.fccm.org/).
 
@@ -28,7 +31,7 @@ I am a fan of Linux, open source software, free Internet and github. I love any 
 
 * _[Jan'20]_ My paper got accepted to [IoT Journal](http://ieee-iotj.org/).
 
-* _[Dec'19]_ __HpArch Undergraduate Research__ [website](http://comparch.gatech.edu/hparch/undergraduate_research/) is up! 
+* _[Dec'19]_ __HpArch Undergraduate Research__ [website](http://comparch.gatech.edu/hparch/undergraduate_research/) is up!
   Check [Drone Demo](http://www.youtube.com/watch?v=3EmQX5hJeWg) and [Robots Demo](http://www.youtube.com/watch?v=rUPnl4SnMRQ).
 
 * _[Nov'19]_ Excited that papers that I have helped with has been accepted to __HPCA__, __ASPLOS__, and __DATE__, [publication](https://ramyadhadidi.github.io/publications/).
