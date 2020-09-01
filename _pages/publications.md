@@ -4,6 +4,10 @@ title: "Publications"
 author_profile: true
 ---
 ## 2020
+  * __MEISSA: Multiplying Matrices Efficiently in a Scalable Systolic Architecture__  
+  Bahar Asgari, Ramyad Hadidi, Hyesoon Kim   
+  IEEE International Conference on Computer Design (ICCD), Hartford, Massachusetts (2020) 
+
   * __Edge-Tailored Perception: Fast Inferencing in-the-Edge with Efficient Model Distribution__
   [__[Paper]__](https://arxiv.org/abs/2003.06464)  
     Ramyad Hadidi, Bahar Asgari, Jiashen Cao, Younmin Bae, Hyojong Kim, Michael S. Ryoo, Hyesoon Kim  
