@@ -29,7 +29,7 @@ Major in Digital Systems, Major GPA: 4.00/4.00
 Georgia Tech, Atlanta, Georgia,  Feb. 15 – Present
 
 * __Instructor__, Georgia Tech, [CS4290](https://www.cc.gatech.edu/~rhadidi6/cs4290-2020/index.html)  
-Atlanta, Georgia | May. 19 – Aug. 19
+Atlanta, Georgia | May. 20 – Aug. 20
 
 * __Instructor__, Georgia Tech, [CS4290](https://www.cc.gatech.edu/~rhadidi6/cs4290/index.html)  
 Atlanta, Georgia | May. 19 – Aug. 19
@@ -65,53 +65,6 @@ Mountain View, California | May. 18 – Aug. 18
 
 ## Mentoring Experience
 Check the [website](http://comparch.gatech.edu/hparch/undergraduate_research/)
-
-### Present
- * Chunjun Jia - Undergrad (Fall 18 – Present) - GaTech Undergraduate Research Award __(PURA) Winner__
- * Matthew Merck - Undergrad (Spring 19 – Present)
- * Arthur Siqueira - Undergrad (Spring 19 – Present)
- * Bingyao Wang - Undergrad (Spring 19 – Present)
- * Lixing Liu - Undergrad (Spring 19 – Present)
- * Taejoon Park - Undergrad (Summer 19 – Present)
- * Nima Shoghi - Undergrad (Summer 19 – Present) - __ACM SRC Bronze Winner__
- * Younmin Bae - Undergrad (Summer 19 – Present) - GaTech Undergraduate Research Award __(PURA) Winner__
- * Parsa Piroozi - Undergrad (Fall 19 – Present)
- * Shaan Dhawan - Undergrad (Fall 19 – Present)
- * Justin Hu - Undergrad (Fall 19 – Present)
- * Aditya Jituri - Undergrad (Fall 19 – Present)
- * Bryce Plunkett - Undergrad (Fall 19 – Present)
- * Rahul Rajan - Undergrad (Fall 19 – Present)
- * Sam Jijina - Undergrad (Fall 19 – Present)
- * Adriana Amyette - Undergrad (Fall 19 – Present)
- * Yonwoo Kim - Undergrad (Fall 19 – Present)
- * Bruce Qin - Undergrad (Fall 19 – Present)
- * Jake Present - Undergrad (Spring 20 - Present)
- * Bhanu Garg - Undergrad (Spring 20 - Present)
- * Jun Chen - Undergrad (Spring 20 - Present)
- * Zhen Jiang - Undergrad (Spring 20 - Present)
- * Fei Ding - Undergrad (Spring 20 - Present)
- * Sanggwon Jang - Undergrad (Spring 20 - Present)
-
-
-### Alumni
- * Anish Thite - Undergrad (Fall 19)
- * Jaemo Koo - Undergrad (Fall 19)
- * Jiashen Cao - Undergrad/Master (Fall 17 – Spring 19)
- * Abhijeet Saraha - Undergrad (Fall 19 - Summer 19)
- * Akanksha Telagamsetty - from Bennett University - Undergrad Intern (Summer 19)
- * Ayushi Chaudhary - from Bennett University - Undergrad Intern (Summer 19)
- * Abhi Bothera - from Bennett University- Undergrad Intern (Summer 19)  
- * Kabir Kohli - from Bennett University - Undergrad Intern (Summer 19)
- * Mohan Dodda, - Undergrad (Summer 19)
- * Sayuj Shajith - Undergrad (Summer 19)
- * Songming Liu - Undergrad (Summer 19)
- * Thai Tran - Undergrad (Summer 19)
- * Jinwoo Park - Undergrad (Summer 19)
- * Dongsuk Lim - Undergrad (Fall 19)
- * Fei Wu - Master (Spring 19) - GaTech Undergraduate Research Award __(PURA) Winner__
- * Matthew Woodward - Undergrad (Fall 17)
- * Bahar Asgari - PhD (Fall 16 – Spring 17)
- * Berkcan Gurel - Undergrad Intern (Summer 16)
 
 ## Contact
 Email: __rhadidi@gatech.edu__
