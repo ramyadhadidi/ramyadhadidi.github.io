@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. candidate in computer science at Georgia Institute of Technology since 2014. I have the pleasure of working with Hyesoon Kim and my lab-mates in [HPArch](http://comparch.gatech.edu/hparch/) group. Our group's research is focused on computer architecture. Specifically, I have worked on 3D-stacked memories, processing in memory (PIM), and machine learning. Currently, I am working on enabling edge and IoT devices (i.e., resource-constrained devices) to execute deep neural networks (DNNs) collaboratively, efficiently, securely, and reliably.
+I am a Ph.D. candidate in computer science at Georgia Institute of Technology since 2014. I have the pleasure of working with Hyesoon Kim and my lab-mates in [HPArch](http://comparch.gatech.edu/hparch/) group. Our group's research is focused on computer architecture. Specifically, I have worked on 3D-stacked memories, processing in memory (PIM), and machine learning. Currently, I am working on enabling edge and IoT devices (i.e., resource-constrained devices, robots, drones) to execute deep neural networks (DNNs) collaboratively, efficiently, securely, and reliably.
 
 
 ### More About Me!
@@ -18,6 +18,7 @@ I am a fan of Linux, open source software, free Internet and github. I love any 
 
 
 ## News
+* _[Aug'20]_ Our paper about scalable systolic array implementation for deep learning is accepted to [ICCD'20](https://www.iccd-conf.com/Home.html).
 
 * _[April'20]_ __CS 4290 (Summer20)__: I am teaching high-performance computer architecture this summer. You can check the [website](https://www.cc.gatech.edu/~rhadidi6/cs4290-2020/index.html). Feel free to shot me an email if you have any questions.
 

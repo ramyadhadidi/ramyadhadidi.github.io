@@ -10,7 +10,7 @@ redirect_from:
 
 ## Interests
 Computer Architecture, Machine Learning,  Deep Learning  
-Graph Processing, Processing in Memory, Robotics    
+Graph Processing, Processing in Memory, Robotics
 
 
 ## Education

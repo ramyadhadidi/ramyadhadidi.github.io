@@ -4,7 +4,8 @@ title: "Publications"
 author_profile: true
 ---
 ## 2020
-  * __MEISSA: Multiplying Matrices Efficiently in a Scalable Systolic Architecture__  
+  * __MEISSA: Multiplying Matrices Efficiently in a Scalable Systolic Architecture__
+  [__[Paper]__](https://ramyadhadidi.github.io/files/asgari-iccd20.pdf)  
   Bahar Asgari, Ramyad Hadidi, Hyesoon Kim   
   IEEE International Conference on Computer Design (ICCD), Hartford, Massachusetts (2020) 
 
@@ -14,7 +15,8 @@ author_profile: true
     arXiv preprint arXiv:2003.06464 (2020)  
 
   * __Proposing a Fast and Scalable Systolic Array to Implement Matrix Multiplications__
-  [__[Slides]__](https://ramyadhadidi.github.io/files/asgari-slides-fccm20.pdf)  
+  [__[Slides]__](https://ramyadhadidi.github.io/files/asgari-slides-fccm20.pdf)
+  [__[Video]__](https://youtu.be/UAKe5oDRKok)  
     Bahar Asgari, _Ramyad Hadidi_, Hyesoon Kim  
     IEEE International Symposium on Field-Programmable Custom Computing Machines (_FCCM_), Fayetteville, AR (2020)  
 
@@ -29,7 +31,9 @@ author_profile: true
     IEEE Internet of Things Journal (_JIoT_) (2020)
 
   * __PISCES: Power-Aware Implementation of SLAM by Customizing Efficient Sparse Algebra__
-    [__[Paper]__](https://ramyadhadidi.github.io/files/asgari-dac20.pdf)  
+    [__[Paper]__](https://ramyadhadidi.github.io/files/asgari-dac20.pdf)
+    [__[Slides]__](https://ramyadhadidi.github.io/files/asgari-slides-dac20.pdf)
+    [__[Video]__](https://youtu.be/0EKu7DabkYI)  
     Bahar Asgari, _Ramyad Hadidi_, Nima Shoghi, Hyesoon Kim  
     2020 57th ACM/EDAC/IEEE Design Automation Conference (_DAC_), San Francisco, CA (2020)
 
@@ -51,7 +55,9 @@ author_profile: true
     International Symposium on High-Performance Computer Architecture (_HPCA_), San Diego, CA (2020)
 
   * __ASCELLA: Accelerating Sparse Computation by Enabling Stream Accesses to Memory__
-    [__[Paper]__](https://ramyadhadidi.github.io/files/asgari-date20.pdf)  
+    [__[Paper]__](https://ramyadhadidi.github.io/files/asgari-date20.pdf)
+    [__[Slides]__](https://ramyadhadidi.github.io/files/asgari-slides-date20.pdf)
+    [__[Video]__](https://youtu.be/nugat03Ae0o)  
     Bahar Asgari, _Ramyad Hadidi_, Hyesoon Kim  
     Design, Automation, and Test in Europe (_DATE_), Grenoble, France (2020)
 
