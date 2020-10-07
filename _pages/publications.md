@@ -3,6 +3,7 @@ permalink: /publications/
 title: "Publications"
 author_profile: true
 ---
+
 ## 2020
   * __MEISSA: Multiplying Matrices Efficiently in a Scalable Systolic Architecture__
   [__[Paper]__](https://ramyadhadidi.github.io/files/asgari-iccd20.pdf)  

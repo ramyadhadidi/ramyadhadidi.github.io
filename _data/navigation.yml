@@ -18,8 +18,8 @@ main:
   - title: "Resume"
     url: /resume/
 
-  # - title: "Guide"
-  #   url: /markdown/
+  - title: "Teaching"
+    url: /teaching/
 
   - title: "Undergraduate Research"
     url: http://hparch.gatech.edu/undergraduate_research/
