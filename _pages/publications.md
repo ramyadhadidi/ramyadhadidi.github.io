@@ -4,6 +4,13 @@ title: "Publications"
 author_profile: true
 ---
 
+## 2021
+  * __FAFNIR: Accelerating Sparse Gathering by Using Efficient Near-Memory Intelligent Reduction__  
+  Bahar Asgari, Ramyad Hadidi, Jiashen Cao, Da Eun Shim, Sung-Kyu Lim, Hyesoon Kim   
+    International Symposium on High-Performance Computer Architecture (_HPCA_), Seoul, South Korea (2021)  
+
+
+
 ## 2020
   * __MEISSA: Multiplying Matrices Efficiently in a Scalable Systolic Architecture__
   [__[Paper]__](https://ramyadhadidi.github.io/files/asgari-iccd20.pdf)  
