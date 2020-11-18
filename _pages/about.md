@@ -18,6 +18,8 @@ I am a fan of Linux, open source software, free Internet and github. I love any 
 
 
 ## News
+* _[Oct'20]_ Our paper about intelligent accelerating sparse gathering for scaling recommendation systems is accepted to [HPCA'21](https://hpca-conf.org/2021/).
+
 * _[Aug'20]_ Our paper about scalable systolic array implementation for deep learning is accepted to [ICCD'20](https://www.iccd-conf.com/Home.html).
 
 * _[April'20]_ __CS 4290 (Summer20)__: I am teaching high-performance computer architecture this summer. You can check the [website](https://www.cc.gatech.edu/~rhadidi6/cs4290-2020/index.html). Feel free to shot me an email if you have any questions.
