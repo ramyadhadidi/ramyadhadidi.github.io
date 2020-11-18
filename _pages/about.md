@@ -18,7 +18,7 @@ I am a fan of Linux, open source software, free Internet and github. I love any 
 
 
 ## News
-* _[Nov'20]_ Our paper titled Quantifying the Design-Space Tradeoffs in Autonomous Drones has been accepted to [ASPLOS'21](https://asplos-conference.org/)
+* _[Nov'20]_ Our paper titled Quantifying the Design-Space Tradeoffs in Autonomous Drones has been accepted to [ASPLOS'21](https://asplos-conference.org/).
 
 * _[Oct'20]_ Our paper about intelligent accelerating sparse gathering for scaling recommendation systems is accepted to [HPCA'21](https://hpca-conf.org/2021/).
 
