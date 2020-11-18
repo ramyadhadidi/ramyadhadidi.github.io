@@ -18,6 +18,8 @@ I am a fan of Linux, open source software, free Internet and github. I love any 
 
 
 ## News
+* _[Nov'20]_ Our paper titled Quantifying the Design-Space Tradeoffs in Autonomous Drones has been accepted to [ASPLOS'21](https://asplos-conference.org/)
+
 * _[Oct'20]_ Our paper about intelligent accelerating sparse gathering for scaling recommendation systems is accepted to [HPCA'21](https://hpca-conf.org/2021/).
 
 * _[Aug'20]_ Our paper about scalable systolic array implementation for deep learning is accepted to [ICCD'20](https://www.iccd-conf.com/Home.html).

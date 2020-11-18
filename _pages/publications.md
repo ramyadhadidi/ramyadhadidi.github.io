@@ -5,6 +5,11 @@ author_profile: true
 ---
 
 ## 2021
+  * __Quantifying the Design-Space Tradeoffs in Autonomous Drones__  
+    _Ramyad Hadidi_, Bahar Asgari, Sam Jijina, Adriana Amyette, Nima Shoghi, Hyesoon Kim  
+    International Conference on Architectural Support for Programming Languages and Operating Systems (_ASPLOS_), Detroit, MI (2021)
+
+
   * __Reducing Inference Latency with Concurrent Architectures for Image Recognition__
   [__[Paper]__](https://arxiv.org/abs/2011.07092)  
     _Ramyad Hadidi_, Jiashen Cao, Michael S. Ryoo, Hyesoon Kim  
