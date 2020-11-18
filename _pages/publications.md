@@ -4,8 +4,6 @@ title: "Publications"
 author_profile: true
 ---
 
- `testing`
-
 ## 2021
   * __Reducing Inference Latency with Concurrent Architectures for Image Recognition__
   [__[Paper]__](https://arxiv.org/abs/2011.07092)  
@@ -226,6 +224,4 @@ IEEE International Symposium on Workload Characterization (_IISWC_), Seattle, Wa
   <!-- Acceptance Rate: 50/224=_22%_ -->
 
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+`“It is one thing to stand on the comfortable ground of placid inaction and put forth words of cynical wisdom, and another to plunge into the work itself and through strenuous experience earn the right to express strong conclusions.” ― John D. Rockefeller`
