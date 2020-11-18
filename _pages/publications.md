@@ -9,6 +9,9 @@ author_profile: true
     _Ramyad Hadidi_, Bahar Asgari, Sam Jijina, Adriana Amyette, Nima Shoghi, Hyesoon Kim  
     International Conference on Architectural Support for Programming Languages and Operating Systems (_ASPLOS_), Detroit, MI (2021)
 
+  * __FAFNIR: Accelerating Sparse Gathering by Using Efficient Near-Memory Intelligent Reduction__  
+  Bahar Asgari, _Ramyad Hadidi_, Jiashen Cao, Da Eun Shim, Sung-Kyu Lim, Hyesoon Kim   
+    International Symposium on High-Performance Computer Architecture (_HPCA_), Seoul, South Korea (2021)  
 
   * __Reducing Inference Latency with Concurrent Architectures for Image Recognition__
   [__[Paper]__](https://arxiv.org/abs/2011.07092)  
@@ -19,11 +22,6 @@ author_profile: true
   [__[Paper]__](https://arxiv.org/abs/2003.06464)  
     _Ramyad Hadidi_, Bahar Asgari, Jiashen Cao, Younmin Bae, Da Eun Shim, Hyojong Kim, Sung-Kyu Lim, Michael S. Ryoo, Hyesoon Kim  
     arXiv preprint arXiv:2003.06464 (2021)  
-
-  * __FAFNIR: Accelerating Sparse Gathering by Using Efficient Near-Memory Intelligent Reduction__  
-  Bahar Asgari, _Ramyad Hadidi_, Jiashen Cao, Da Eun Shim, Sung-Kyu Lim, Hyesoon Kim   
-    International Symposium on High-Performance Computer Architecture (_HPCA_), Seoul, South Korea (2021)  
-
 
 
 ## 2020
