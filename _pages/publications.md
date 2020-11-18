@@ -5,6 +5,16 @@ author_profile: true
 ---
 
 ## 2021
+  * __Reducing Inference Latency with Concurrent Architectures for Image Recognition__
+  [__[Paper]__](https://arxiv.org/abs/2011.07092)  
+    Ramyad Hadidi, Jiashen Cao, Michael S. Ryoo, Hyesoon Kim  
+    arXiv preprint arXiv:2011.07092 (2021)  
+
+  * __LCP: A Low-Communication Parallelization Method for Fast Neural Network Inference in Image Recognition__
+  [__[Paper]__](https://arxiv.org/abs/2003.06464)  
+    Ramyad Hadidi, Bahar Asgari, Jiashen Cao, Younmin Bae, Da Eun Shim, Hyojong Kim, Sung-Kyu Lim, Michael S. Ryoo, Hyesoon Kim  
+    arXiv preprint arXiv:2003.06464 (2021)  
+
   * __FAFNIR: Accelerating Sparse Gathering by Using Efficient Near-Memory Intelligent Reduction__  
   Bahar Asgari, Ramyad Hadidi, Jiashen Cao, Da Eun Shim, Sung-Kyu Lim, Hyesoon Kim   
     International Symposium on High-Performance Computer Architecture (_HPCA_), Seoul, South Korea (2021)  
@@ -16,11 +26,6 @@ author_profile: true
   [__[Paper]__](https://ramyadhadidi.github.io/files/asgari-iccd20.pdf)  
   Bahar Asgari, Ramyad Hadidi, Hyesoon Kim   
   IEEE International Conference on Computer Design (ICCD), Hartford, CT (2020) 
-
-  * __Edge-Tailored Perception: Fast Inferencing in-the-Edge with Efficient Model Distribution__
-  [__[Paper]__](https://arxiv.org/abs/2003.06464)  
-    Ramyad Hadidi, Bahar Asgari, Jiashen Cao, Younmin Bae, Hyojong Kim, Michael S. Ryoo, Hyesoon Kim  
-    arXiv preprint arXiv:2003.06464 (2020)  
 
   * __Proposing a Fast and Scalable Systolic Array to Implement Matrix Multiplications__
   [__[Slides]__](https://ramyadhadidi.github.io/files/asgari-slides-fccm20.pdf)
