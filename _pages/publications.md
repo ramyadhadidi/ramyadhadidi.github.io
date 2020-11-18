@@ -4,7 +4,7 @@ title: "Publications"
 author_profile: true
 ---
 
-> testing
+ `testing`
 
 ## 2021
   * __Reducing Inference Latency with Concurrent Architectures for Image Recognition__
