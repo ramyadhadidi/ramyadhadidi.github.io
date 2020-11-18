@@ -223,6 +223,5 @@ IEEE International Symposium on Workload Characterization (_IISWC_), Seattle, Wa
   International Symposium on High Performance Computer Architecture (_HPCA_), Austin, Texas (2017)  
   <!-- Acceptance Rate: 50/224=_22%_ -->
 
-##
 
-`“It is one thing to stand on the comfortable ground of placid inaction and put forth words of cynical wisdom, and another to plunge into the work itself and through strenuous experience earn the right to express strong conclusions.” ― John D. Rockefeller`
+> “It is one thing to stand on the comfortable ground of placid inaction and put forth words of cynical wisdom, and another to plunge into the work itself and through strenuous experience earn the right to express strong conclusions.” ― John D. Rockefeller`
