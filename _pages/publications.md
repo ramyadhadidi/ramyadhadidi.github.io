@@ -13,24 +13,24 @@ author_profile: true
   Bahar Asgari, _Ramyad Hadidi_, Jiashen Cao, Da Eun Shim, Sung-Kyu Lim, Hyesoon Kim   
     International Symposium on High-Performance Computer Architecture (_HPCA_), Seoul, South Korea (2021)  
 
+
+## 2020
   * __Reducing Inference Latency with Concurrent Architectures for Image Recognition__
   [__[Paper]__](https://arxiv.org/abs/2011.07092)  
     _Ramyad Hadidi_, Jiashen Cao, Michael S. Ryoo, Hyesoon Kim  
-    arXiv preprint arXiv:2011.07092 (2021)  
+    arXiv preprint arXiv:2011.07092 (2020)  
 
   * __LCP: A Low-Communication Parallelization Method for Fast Neural Network Inference in Image Recognition__
   [__[Paper]__](https://arxiv.org/abs/2003.06464)  
     _Ramyad Hadidi_, Bahar Asgari, Jiashen Cao, Younmin Bae, Da Eun Shim, Hyojong Kim, Sung-Kyu Lim, Michael S. Ryoo, Hyesoon Kim  
-    arXiv preprint arXiv:2003.06464 (2021)  
+    arXiv preprint arXiv:2003.06464 (2020)  
 
   * __Secure Location-Aware Authentication and Communication for Intelligent Transportation Systems__
   [__[Paper]__](https://arxiv.org/abs/2011.08936)  
     Nima Shoghi Ghalehshahi, _Ramyad Hadidi_, Lee Jaewon, Jun Chen, Arthur Siqueria, Rahul Rajan, 
     Shaan Dhawan, Pooya Shoghi Ghalehshahi, Hyesoon Kim  
-    arXiv preprint arXiv:2011.07092 (2021)  
-
-
-## 2020
+    arXiv preprint arXiv:2011.07092 (2020)  
+    
   * __MEISSA: Multiplying Matrices Efficiently in a Scalable Systolic Architecture__
   [__[Paper]__](https://ramyadhadidi.github.io/files/asgari-iccd20.pdf)  
   Bahar Asgari, _Ramyad Hadidi_, Hyesoon Kim   
