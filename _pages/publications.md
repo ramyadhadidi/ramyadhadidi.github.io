@@ -10,7 +10,7 @@ author_profile: true
     International Conference on Architectural Support for Programming Languages and Operating Systems (_ASPLOS_), Detroit, MI (2021)
 
   * __FAFNIR: Accelerating Sparse Gathering by Using Efficient Near-Memory Intelligent Reduction__  
-  Bahar Asgari, _Ramyad Hadidi_, Jiashen Cao, Da Eun Shim, Sung-Kyu Lim, Hyesoon Kim   
+    Bahar Asgari, _Ramyad Hadidi_, Jiashen Cao, Da Eun Shim, Sung-Kyu Lim, Hyesoon Kim   
     International Symposium on High-Performance Computer Architecture (_HPCA_), Seoul, South Korea (2021)  
 
 
@@ -18,34 +18,34 @@ author_profile: true
   * __Reducing Inference Latency with Concurrent Architectures for Image Recognition__
   [__[Paper]__](https://arxiv.org/abs/2011.07092)  
     _Ramyad Hadidi_, Jiashen Cao, Michael S. Ryoo, Hyesoon Kim  
-    arXiv preprint arXiv:2011.07092 (2020)  
+    arXiv preprint arXiv:2011.07092 (2020)
 
   * __LCP: A Low-Communication Parallelization Method for Fast Neural Network Inference in Image Recognition__
   [__[Paper]__](https://arxiv.org/abs/2003.06464)  
     _Ramyad Hadidi_, Bahar Asgari, Jiashen Cao, Younmin Bae, Da Eun Shim, Hyojong Kim, Sung-Kyu Lim, Michael S. Ryoo, Hyesoon Kim  
-    arXiv preprint arXiv:2003.06464 (2020)  
+    arXiv preprint arXiv:2003.06464 (2020)
 
   * __Secure Location-Aware Authentication and Communication for Intelligent Transportation Systems__
   [__[Paper]__](https://arxiv.org/abs/2011.08936)  
     Nima Shoghi Ghalehshahi, _Ramyad Hadidi_, Lee Jaewon, Jun Chen, Arthur Siqueria, Rahul Rajan, 
     Shaan Dhawan, Pooya Shoghi Ghalehshahi, Hyesoon Kim  
-    arXiv preprint arXiv:2011.07092 (2020)  
-    
+    arXiv preprint arXiv:2011.07092 (2020)
+
   * __MEISSA: Multiplying Matrices Efficiently in a Scalable Systolic Architecture__
-  [__[Paper]__](https://ramyadhadidi.github.io/files/asgari-iccd20.pdf)  
-  Bahar Asgari, _Ramyad Hadidi_, Hyesoon Kim   
-  IEEE International Conference on Computer Design (ICCD), Hartford, CT (2020) 
+    [__[Paper]__](https://ramyadhadidi.github.io/files/asgari-iccd20.pdf)  
+    Bahar Asgari, _Ramyad Hadidi_, Hyesoon Kim   
+    IEEE International Conference on Computer Design (ICCD), Hartford, CT (2020)
 
   * __Proposing a Fast and Scalable Systolic Array to Implement Matrix Multiplications__
-  [__[Slides]__](https://ramyadhadidi.github.io/files/asgari-slides-fccm20.pdf)
-  [__[Video]__](https://youtu.be/UAKe5oDRKok)  
+    [__[Slides]__](https://ramyadhadidi.github.io/files/asgari-slides-fccm20.pdf)
+    [__[Video]__](https://youtu.be/UAKe5oDRKok)  
     Bahar Asgari, _Ramyad Hadidi_, Hyesoon Kim  
-    IEEE International Symposium on Field-Programmable Custom Computing Machines (_FCCM_), Fayetteville, AR (2020)  
+    IEEE International Symposium on Field-Programmable Custom Computing Machines (_FCCM_), Fayetteville, AR (2020)
 
   * __Understanding the Software and Hardware Stacks of a General-Purpose Cognitive Drone__
     [__[Poster]__](https://ramyadhadidi.github.io/files/ispass1-jijina.pdf)  
     Sam Jijina, Adriana Amyette, Nima Shoghi, _Ramyad Hadidi_, Hyesoon Kim   
-    IEEE International Symposium on Performance Analysis of Systems and Software (_ISPASS_), Boston, MA (2020)  
+    IEEE International Symposium on Performance Analysis of Systems and Software (_ISPASS_), Boston, MA (2020)
     __[Mentored Undergraduate Work]__
 
   * __Towards Collaborative Inferencing of Deep Neural Networks on Internet of Things Devices__
