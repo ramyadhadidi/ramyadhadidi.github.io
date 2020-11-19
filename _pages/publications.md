@@ -23,6 +23,12 @@ author_profile: true
     _Ramyad Hadidi_, Bahar Asgari, Jiashen Cao, Younmin Bae, Da Eun Shim, Hyojong Kim, Sung-Kyu Lim, Michael S. Ryoo, Hyesoon Kim  
     arXiv preprint arXiv:2003.06464 (2021)  
 
+  * __Secure Location-Aware Authentication and Communication for Intelligent Transportation Systems__
+  [__[Paper]__](https://arxiv.org/abs/2011.08936)  
+    Nima Shoghi Ghalehshahi, _Ramyad Hadidi_, Lee Jaewon, Jun Chen, Arthur Siqueria, Rahul Rajan, 
+    Shaan Dhawan, Pooya Shoghi Ghalehshahi, Hyesoon Kim  
+    arXiv preprint arXiv:2011.07092 (2021)  
+
 
 ## 2020
   * __MEISSA: Multiplying Matrices Efficiently in a Scalable Systolic Architecture__
