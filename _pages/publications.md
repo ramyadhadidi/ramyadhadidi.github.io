@@ -25,6 +25,11 @@ author_profile: true
     _Ramyad Hadidi_, Bahar Asgari, Jiashen Cao, Younmin Bae, Da Eun Shim, Hyojong Kim, Sung-Kyu Lim, Michael S. Ryoo, Hyesoon Kim  
     arXiv preprint arXiv:2003.06464 (2020)
 
+  * __Copernicus: Characterizing the Performance Implications of Compression Formats Used in Sparse Workloads__
+  [__[Paper]__](https://arxiv.org/abs/2011.10932)  
+    Bahar Asgari, _Ramyad Hadidi_, Joshua Dierberger, Charlotte Steinichen, Hyesoon Kim  
+    arXiv preprint arXiv:2011.10932 (2020)
+
   * __Secure Location-Aware Authentication and Communication for Intelligent Transportation Systems__
   [__[Paper]__](https://arxiv.org/abs/2011.08936)  
     Nima Shoghi Ghalehshahi, _Ramyad Hadidi_, Lee Jaewon, Jun Chen, Arthur Siqueria, Rahul Rajan, 
