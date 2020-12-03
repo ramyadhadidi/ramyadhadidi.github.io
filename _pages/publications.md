@@ -162,7 +162,7 @@ author_profile: true
   * __An Edge-Centric Scalable Intelligent Framework To Collaboratively Execute DNN__
     [__[Demo Site]__](http://comparch.gatech.edu/hparch/sysml)
     [__[Paper]__](https://ramyadhadidi.github.io/files/hadidi-sysml.pdf)  
-    Jiashen Cao, Fei Wu, _Ramyad Hadidi_, Lixing Liu, Tushar Krishna, Micheal S. Ryoo, Hyesoon Kim    
+    Jiashen Cao, Fei Wu, _Ramyad Hadidi_, Lixing Liu, Tushar Krishna, Michael S. Ryoo, Hyesoon Kim    
     Conference on Systems and Machine Learning (_SysML_), Demo Palo Alto, CA (2019)
 
   * __Thermal-Aware Processing-in-memory Instruction Offloading__
