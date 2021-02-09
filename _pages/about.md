@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. candidate in computer science at Georgia Institute of Technology since 2014. I have the pleasure of working with Hyesoon Kim and my lab-mates in [HPArch](http://comparch.gatech.edu/hparch/) group. Our group's research is focused on computer architecture. Specifically, I have worked on 3D-stacked memories, processing in memory (PIM), and machine learning. Currently, I am working on enabling edge and IoT devices (i.e., resource-constrained devices, robots, drones) to execute deep neural networks (DNNs) collaboratively, efficiently, securely, and reliably.
+I am a Ph.D. candidate in computer science at Georgia Institute of Technology since 2014. I have the pleasure of working with Hyesoon Kim and my lab-mates in [HPArch](http://hparch.gatech.edu) group. Our group's research is focused on computer architecture. Specifically, I have worked on 3D-stacked memories, processing in memory (PIM), and machine learning. Currently, I am working on enabling edge and IoT devices (i.e., resource-constrained devices, robots, drones) to execute deep neural networks (DNNs) collaboratively, efficiently, securely, and reliably.
 
 
 ### More About Me!
@@ -36,19 +36,19 @@ I am a fan of Linux, open source software, free Internet and github. I love any 
 
 * _[Jan'20]_ My paper got accepted to [IoT Journal](http://ieee-iotj.org/).
 
-* _[Dec'19]_ __HpArch Undergraduate Research__ [website](http://comparch.gatech.edu/hparch/undergraduate_research/) is up!
+* _[Dec'19]_ __HpArch Undergraduate Research__ [website](http://hparch.gatech.edu/undergraduate_research/) is up!
   Check [Drone Demo](http://www.youtube.com/watch?v=3EmQX5hJeWg) and [Robots Demo](http://www.youtube.com/watch?v=rUPnl4SnMRQ).
 
 * _[Nov'19]_ Excited that papers that I have helped with has been accepted to __HPCA__, __ASPLOS__, and __DATE__, [publication](https://ramyadhadidi.github.io/publications/).
 
-* _[Nov'19]_ __IISWC'19 Best Paper Nominee__: Our paper about characterizing edge devices for DNN execution is in best paper session. Check publication list for the paper and [EdgeBench](http://comparch.gatech.edu/hparch/edgeBench).
+* _[Nov'19]_ __IISWC'19 Best Paper Nominee__: Our paper about characterizing edge devices for DNN execution is in best paper session. Check publication list for the paper and [EdgeBench](http://hparch.gatech.edu/edgeBench).
 
 * _[Oct'19]_ __SRC Bronze Winner ESWEEK'19__: Nima won SRC Bronze Winner at ESWEEK for his paper about _SLAM Performance on Embedded Robots_! Check publication list for the paper.
 
-* _[Sep'19]_ __FPL'19 Demo__: Check our demo [here](http://comparch.gatech.edu/hparch/fpl19).
+* _[Sep'19]_ __FPL'19 Demo__: Check our demo [here](http://hparch.gatech.edu/fpl19).
 
 * _[April'19]_ __Undergraduate Research__: I am looking for undergraduates to work with me in our group. My research covers interdisciplinary areas: Architecture, robotics, ML, and systems. Any skill in EE and CS would be a good starting point to join us. We always try to find venues for our undergraduates to publish their work. Please send me an email if you are interested or if you want more about the projects. You will be working with [Hyesoon](https://www.cc.gatech.edu/~hyesoon/), [Jiashen](https://jiashenc.github.io/cv/), and me. Current [list](https://ramyadhadidi.github.io/resume/) of people.
 
 * _[April'19]_ __CS 4290 (Summer19)__: I will be teaching high-performance computer architecture summer 19 [(CS4290)](https://www.cc.gatech.edu/~rhadidi6/cs4290/index.html). Feel free to send me an email if you have any questions. Everything in the course is the same as CS 6290/ECE 4100/ECE 6100.
 
-* _[March'19]_ __SysML'19 Demo__: Check our demo [here](http://comparch.gatech.edu/hparch/sysml).
+* _[March'19]_ __SysML'19 Demo__: Check our demo [here](http://hparch.gatech.edu//sysml).

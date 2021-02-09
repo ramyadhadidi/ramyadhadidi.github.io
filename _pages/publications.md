@@ -95,7 +95,7 @@ author_profile: true
 ## 2019
 
   * __Characterizing the Deployment of Deep Neural Networks on Commercial Edge Devices__
-    [__[EdgeBench]__](http://comparch.gatech.edu/hparch/edgeBench)
+    [__[EdgeBench]__](http://hparch.gatech.edu/edgeBench)
     [__[Slides]__](https://ramyadhadidi.github.io/files/edgeDNN-IISWC19-website-version.pdf)
     [__[Paper]__](https://ramyadhadidi.github.io/files/iiswc19-edge.pdf)  
     _Ramyad Hadidi_, Jiashen Cao, Yilun Xie, Bahar Asgari, Tushar Krishna, Hyesoon Kim  
@@ -127,7 +127,7 @@ author_profile: true
     International Conference on Hardware/Software Codesign and System Synthesis CODES+ISSS (ESWEEK), New York, NY (2019)
 
   * __Capella: Customizing Perception for Edge Devices by Efficiently Allocating FPGAs to DNNs__
-    [__[Demo Site]__](http://comparch.gatech.edu/hparch/fpl19)
+    [__[Demo Site]__](http://hparch.gatech.edu/fpl19)
     [__[Slides]__](https://ramyadhadidi.github.io/files/hadidi-FPL.pdf)
     [__[Paper]__](https://ramyadhadidi.github.io/files/hadidi-fpl-paper.pdf)   
     Younmin Bae, _Ramyad Hadidi_, Bahar Asgari, Jiashen Cao, Hyesoon Kim  
@@ -143,7 +143,7 @@ author_profile: true
     __[Mentored Undergraduate Work]__
 
   * __Understanding the Power Consumption of Executing Deep Neural Networks on a Distributed Robot System__
-    [__[Slides]__](http://comparch.gatech.edu/hparch/papers/icra_workshop_2019.pptx)
+    [__[Slides]__](http://hparch.gatech.edu/papers/icra_workshop_2019.pptx)
     [__[Paper]__](https://ramyadhadidi.github.io/files/hadidi-lsaf-icra19.pdf)  
     _Ramyad Hadidi_, Jiashen Cao, Matthew Merck, Arthur Siqueira, Qiusen Huang, Abhijeet Saraha,
     Chunjun Jia, Bingyao Wang, Dongsuk Lim, Lixing Liu and Hyesoon Kim    
@@ -161,7 +161,7 @@ author_profile: true
     ACM/IEE Design Automation Conference (_DAC_) - Late Breaking Results, Las Vegas, NV (2019)
 
   * __An Edge-Centric Scalable Intelligent Framework To Collaboratively Execute DNN__
-    [__[Demo Site]__](http://comparch.gatech.edu/hparch/sysml)
+    [__[Demo Site]__](http://hparch.gatech.edu//sysml)
     [__[Paper]__](https://ramyadhadidi.github.io/files/hadidi-sysml.pdf)  
     Jiashen Cao, Fei Wu, _Ramyad Hadidi_, Lixing Liu, Tushar Krishna, Michael S. Ryoo, Hyesoon Kim    
     Conference on Systems and Machine Learning (_SysML_), Demo Palo Alto, CA (2019)
