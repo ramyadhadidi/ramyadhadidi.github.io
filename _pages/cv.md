@@ -16,7 +16,7 @@ Graph Processing, Processing in Memory, Robotics
 ## Education
 * __Georgia Institute of Technology__, Atlanta, Georgia  
 __Ph.D., Computer Science__, Aug. 14 – Present  
-Adviser: Hyesoon Kim, [HPArch](http://comparch.gatech.edu/hparch/), GPA: 4.00/4.00
+Adviser: Hyesoon Kim, [HPArch](http://hparch.gatech.edu/), GPA: 4.00/4.00
 * __Georgia Institute of Technology__, Atlanta, Georgia  
 __M.Sc., Computer Science__, Aug. 14 – May. 18  
 Computing System Specialization, GPA: 4.00/4.00
@@ -64,7 +64,7 @@ Mountain View, California | May. 18 – Aug. 18
 
 
 ## Mentoring Experience
-Check the [website](http://comparch.gatech.edu/hparch/undergraduate_research/)
+Check the [website](http://hparch.gatech.edu/undergraduate_research/)
 
 ## Contact
 Email: __rhadidi@gatech.edu__
