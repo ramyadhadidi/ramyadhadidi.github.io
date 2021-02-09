@@ -13,4 +13,4 @@ author_profile: true
 
 
 
-  _For the rest of my teaching experiences, please check my resume._
+  _For the rest of my teaching experiences, please ask for my CV._
