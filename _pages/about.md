@@ -7,14 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. candidate in computer science at Georgia Institute of Technology since 2014. I have the pleasure of working with Hyesoon Kim and my lab-mates in [HPArch](http://hparch.gatech.edu) group. Our group's research is focused on computer architecture. Specifically, I have worked on 3D-stacked memories, processing in memory (PIM), and machine learning. Currently, I am working on enabling edge and IoT devices (i.e., resource-constrained devices, robots, drones) to execute deep neural networks (DNNs) collaboratively, efficiently, securely, and reliably.
+I am a Ph.D. candidate in computer science at the Georgia Institute of Technology since 2014. I have the pleasure of working with Hyesoon Kim and my lab-mates in [HPArch](http://hparch.gatech.edu) group. Our group's research is focused on computer architecture. Specifically, I have worked on 3D-stacked memories, processing in memory (PIM), and machine learning. Currently, I am working on enabling edge and IoT devices (i.e., resource-constrained devices, robots, drones) to execute deep neural networks (DNNs) collaboratively, efficiently, securely, and reliably.
 
 
 ### More About Me!
 
 I received my bachelor's degree from the Sharif University of Technology in electrical engineering, and my master's degree from Georgia Tech in computer science. In high school, I fell in love with astrophysics and won a silver medal in the International Olympiad of Astrophysics and Astronomy in 2009 (3rd [IOAA](https://en.wikipedia.org/wiki/International_Olympiad_on_Astronomy_and_Astrophysics)). I started to study computer architecture because I wanted to understand how 0s and 1s eventually created computers. Fortunately, I am still derived from the same curiosity every day.  
 
-I am a fan of Linux, open source software, free Internet and github. I love any kinds of board games. I crave to play post-rock someday. I enjoy spending my time in nature. I play squash, tennis, ping pong, soccer, do rock climbing (bouldering specifically) and backpacking.
+I am a fan of Linux, open-source software, free Internet, and Github. I love any kind of board game. I crave to play post-rock someday. I enjoy spending my time in nature. I play squash, tennis, ping pong, soccer, do rock climbing (bouldering specifically), and backpacking.
 
 
 ## News
@@ -26,11 +26,11 @@ I am a fan of Linux, open source software, free Internet and github. I love any 
 
 * _[April'20]_ __CS 4290 (Summer20)__: I am teaching high-performance computer architecture this summer. You can check the [website](https://www.cc.gatech.edu/~rhadidi6/cs4290-2020/index.html). Feel free to shot me an email if you have any questions.
 
-* _[Mar'20]_ __PiZeroW__: Back to old EE days, I built a Pi Zero temperature monitoring with a webserver plus a Network-Wide ad Blocker, you can find the code [here](https://github.com/ramyadhadidi/pi_sensor_webserver). Interesting that with a single core my PiZero can run two webservers (pi-hole + dash), a DNS resolver with 2M domains on blacklist updated everyday, and a temperature logger with OLED updating every 30 seconds. However, people still rely on remote servers to do these simple tasks.
+* _[Mar'20]_ __PiZeroW__: I built a Pi Zero temperature monitoring with a webserver plus a Network-Wide ad Blocker, you can find the code [here](https://github.com/ramyadhadidi/pi_sensor_webserver). Interesting that with a single core my PiZero can run two webservers (pi-hole + dash), a DNS resolver with 2M domains on the blacklist updated every day, and a temperature logger with OLED updating every 30 seconds. However, people still rely on remote servers to do these simple tasks.
 
 * _[Mar'20]_ Our paper about systolic array implementation for deep learning is accepted to [FCCM'20](https://www.fccm.org/).
 
-* _[Feb'20]_ We have two new works on drones one at [CogArch](http://cogarch-workshop.org/) workshop, another at [ISPASS](https://www.ispass.org/) as poster.
+* _[Feb'20]_ We have two new works on drones one at [CogArch](http://cogarch-workshop.org/) workshop, another at [ISPASS](https://www.ispass.org/) as a poster.
 
 * _[Feb'20]_ Our paper about efficient SLAM implementation is accepted to [DAC'20](https://www.dac.com/).
 
@@ -39,11 +39,11 @@ I am a fan of Linux, open source software, free Internet and github. I love any 
 * _[Dec'19]_ __HpArch Undergraduate Research__ [website](http://hparch.gatech.edu/undergraduate_research/) is up!
   Check [Drone Demo](http://www.youtube.com/watch?v=3EmQX5hJeWg) and [Robots Demo](http://www.youtube.com/watch?v=rUPnl4SnMRQ).
 
-* _[Nov'19]_ Excited that papers that I have helped with has been accepted to __HPCA__, __ASPLOS__, and __DATE__, [publication](https://ramyadhadidi.github.io/publications/).
+* _[Nov'19]_ Excited that papers that I have helped with have been accepted to __HPCA__, __ASPLOS__, and __DATE__, [publication](https://ramyadhadidi.github.io/publications/).
 
-* _[Nov'19]_ __IISWC'19 Best Paper Nominee__: Our paper about characterizing edge devices for DNN execution is in best paper session. Check publication list for the paper and [EdgeBench](http://hparch.gatech.edu/edgeBench).
+* _[Nov'19]_ __IISWC'19 Best Paper Nominee__: Our paper about characterizing edge devices for DNN execution is in the best paper session. Check publication list for the paper and [EdgeBench](http://hparch.gatech.edu/edgeBench).
 
-* _[Oct'19]_ __SRC Bronze Winner ESWEEK'19__: Nima won SRC Bronze Winner at ESWEEK for his paper about _SLAM Performance on Embedded Robots_! Check publication list for the paper.
+* _[Oct'19]_ __SRC Bronze Winner ESWEEK'19__: Nima won SRC Bronze Winner at ESWEEK for his paper about _SLAM Performance on Embedded Robots_! Check the publication list for the paper.
 
 * _[Sep'19]_ __FPL'19 Demo__: Check our demo [here](http://hparch.gatech.edu/fpl19).
 
