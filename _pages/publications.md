@@ -6,7 +6,7 @@ author_profile: true
 
 ## 2021
   * __Quantifying the Design-Space Tradeoffs in Autonomous Drones__
-    [__[Paper]__](https://ramyadhadidi.github.io/files/asplos21_drone.pdf)  
+    [__[Paper]__](https://doi.org/10.5281/zenodo.4331262)  
     _Ramyad Hadidi_, Bahar Asgari, Sam Jijina, Adriana Amyette, Nima Shoghi, Hyesoon Kim  
     International Conference on Architectural Support for Programming Languages and Operating Systems (_ASPLOS_), Detroit, MI (2021)
 
