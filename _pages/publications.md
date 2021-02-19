@@ -10,9 +10,16 @@ author_profile: true
     _Ramyad Hadidi_, Bahar Asgari, Sam Jijina, Adriana Amyette, Nima Shoghi, Hyesoon Kim  
     International Conference on Architectural Support for Programming Languages and Operating Systems (_ASPLOS_), Detroit, MI (2021)
 
-  * __FAFNIR: Accelerating Sparse Gathering by Using Efficient Near-Memory Intelligent Reduction__  
+  * __FAFNIR: Accelerating Sparse Gathering by Using Efficient Near-Memory Intelligent Reduction__
+  [__[Paper]__](https://ramyadhadidi.github.io/files/asgari-hpca21.pdf)
+  [__[Short Video]__](https://youtu.be/kPoT0_-fWMY)  
     Bahar Asgari, _Ramyad Hadidi_, Jiashen Cao, Da Eun Shim, Sung-Kyu Lim, Hyesoon Kim   
     International Symposium on High-Performance Computer Architecture (_HPCA_), Seoul, South Korea (2021)  
+
+  * __THIA: Accelerating Video Analytics using Early Inference and Fine-Grained Query Planning__
+    [__[Paper]__](https://arxiv.org/abs/2102.08481)  
+    Jiashen Cao, Ramyad Hadidi, Joy Arulraj, Hyesoon Kim   
+    arXiv preprint arXiv:2102.08481 (2021)  
 
 
 ## 2020
@@ -80,7 +87,7 @@ author_profile: true
     International Conference on Architectural Support for Programming Languages and Operating Systems (_ASPLOS_), Lausanne, Switzerland (2020)
 
   * __ALRESCHA: A Lightweight Reconfigurable Sparse-Computation Accelerator__
-    [__[Slides]__](https://www.prism.gatech.edu/~basgari3/papers/asgari-slides-alrescha-HPCA20.pdf)
+    [__[Slides]__](https://ramyadhadidi.github.io/files/asgari-slides-alrescha-HPCA20.pdf)
     [__[Paper]__](https://ramyadhadidi.github.io/files/asgari-hpca20.pdf)    
     Bahar Asgari, _Ramyad Hadidi_, Tushar Krishna, Hyesoon Kim, Sudhakar Yalamanchili  
     International Symposium on High-Performance Computer Architecture (_HPCA_), San Diego, CA (2020)
