@@ -5,6 +5,11 @@ author_profile: true
 ---
 
 ## 2021
+  * __Efficiently Solving Partial Differential Equations in a Partially Reconfigurable Specialized Hardware__
+    [__[Paper]__](https://www.computer.org/csdl/journal/tc/5555/01/09359506/1rlATYhZuxy)  
+    Bahar Asgari, _Ramyad Hadidi_, Tushar Krishna, Hyesoon Kim, Sudhakar Yalamanchili  
+    IEEE Transactions on Computers, (2021)
+
   * __Quantifying the Design-Space Tradeoffs in Autonomous Drones__
     [__[Paper]__](https://doi.org/10.5281/zenodo.4331262)  
     _Ramyad Hadidi_, Bahar Asgari, Sam Jijina, Adriana Amyette, Nima Shoghi, Hyesoon Kim  
