@@ -50,7 +50,8 @@ author_profile: true
     arXiv preprint arXiv:2011.07092 (2020)
 
   * __MEISSA: Multiplying Matrices Efficiently in a Scalable Systolic Architecture__
-    [__[Paper]__](https://ramyadhadidi.github.io/files/asgari-iccd20.pdf)  
+    [__[Paper]__](https://ramyadhadidi.github.io/files/asgari-iccd20.pdf)
+    [__[Video]__](https://youtu.be/uGj3WonAbNE)  
     Bahar Asgari, _Ramyad Hadidi_, Hyesoon Kim   
     IEEE International Conference on Computer Design (ICCD), Hartford, CT (2020)
 
