@@ -62,7 +62,8 @@ author_profile: true
     IEEE International Symposium on Field-Programmable Custom Computing Machines (_FCCM_), Fayetteville, AR (2020)
 
   * __Understanding the Software and Hardware Stacks of a General-Purpose Cognitive Drone__
-    [__[Poster]__](https://ramyadhadidi.github.io/files/ispass1-jijina.pdf)  
+    [__[Poster]__](https://ramyadhadidi.github.io/files/jijina-ispass20-poster.pdf)
+    [__[Paper]__](https://ramyadhadidi.github.io/files/jijina-ispass20.pdf)  
     Sam Jijina, Adriana Amyette, Nima Shoghi, _Ramyad Hadidi_, Hyesoon Kim   
     IEEE International Symposium on Performance Analysis of Systems and Software (_ISPASS_), Boston, MA (2020)
     __[Mentored Undergraduate Work]__
