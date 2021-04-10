@@ -10,7 +10,7 @@ author_profile: true
     [__[Abstract]__](https://ramyadhadidi.github.io/files/hadidi-asplos21-extended-abstract.pdf)
     [__[Artifact]__](https://zenodo.org/record/4546175)  
     _Ramyad Hadidi_, Bahar Asgari, Sam Jijina, Adriana Amyette, Nima Shoghi, Hyesoon Kim  
-    International Conference on Architectural Support for Programming Languages and Operating Systems (_ASPLOS_), Detroit, MI (2021)
+    International Conference on Architectural Support for Programming Languages and Operating Systems (_ASPLOS_), Virtual, USA (2021)
 
   * __Efficiently Solving Partial Differential Equations in a Partially Reconfigurable Specialized Hardware__
     [__[Paper]__](https://ramyadhadidi.github.io/files/asgari-ToC21.pdf)  
