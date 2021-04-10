@@ -5,16 +5,17 @@ author_profile: true
 ---
 
 ## 2021
+  * __Quantifying the Design-Space Tradeoffs in Autonomous Drones__
+    [__[Paper]__](https://ramyadhadidi.github.io/files/hadidi-asplos21-drone.pdf)
+    [__[Abstract]__](https://ramyadhadidi.github.io/files/hadidi-asplos21-extended-abstract.pdf)
+    [__[Artifact]__](https://zenodo.org/record/4546175)  
+    _Ramyad Hadidi_, Bahar Asgari, Sam Jijina, Adriana Amyette, Nima Shoghi, Hyesoon Kim  
+    International Conference on Architectural Support for Programming Languages and Operating Systems (_ASPLOS_), Detroit, MI (2021)
+
   * __Efficiently Solving Partial Differential Equations in a Partially Reconfigurable Specialized Hardware__
     [__[Paper]__](https://ramyadhadidi.github.io/files/asgari-ToC21.pdf)  
     Bahar Asgari, _Ramyad Hadidi_, Tushar Krishna, Hyesoon Kim, Sudhakar Yalamanchili  
     IEEE Transactions on Computers, (2021)
-
-  * __Quantifying the Design-Space Tradeoffs in Autonomous Drones__
-    [__[Paper]__](https://ramyadhadidi.github.io/files/asplos21-drone.pdf)
-    [__[Artifact]__](https://zenodo.org/record/4546175)  
-    _Ramyad Hadidi_, Bahar Asgari, Sam Jijina, Adriana Amyette, Nima Shoghi, Hyesoon Kim  
-    International Conference on Architectural Support for Programming Languages and Operating Systems (_ASPLOS_), Detroit, MI (2021)
 
   * __FAFNIR: Accelerating Sparse Gathering by Using Efficient Near-Memory Intelligent Reduction__
   [__[Paper]__](https://ramyadhadidi.github.io/files/asgari-hpca21.pdf)
