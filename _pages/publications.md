@@ -26,8 +26,13 @@ author_profile: true
 
   * __THIA: Accelerating Video Analytics using Early Inference and Fine-Grained Query Planning__
     [__[Paper]__](https://arxiv.org/abs/2102.08481)  
-    Jiashen Cao, Ramyad Hadidi, Joy Arulraj, Hyesoon Kim   
+    Jiashen Cao, _Ramyad Hadidi_, Joy Arulraj, Hyesoon Kim   
     arXiv preprint arXiv:2102.08481 (2021)  
+
+  * __Reducing Inference Latency with Concurrent Architectures for Image Recognition__
+  [__[Paper]__](https://arxiv.org/abs/2104.04447)  
+    _Ramyad Hadidi_, Jiashen Cao, Hyesoon Kim  
+    arXiv preprint arXiv:2104.04447 (2020)
 
 
 ## 2020
