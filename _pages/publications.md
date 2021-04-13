@@ -24,6 +24,11 @@ author_profile: true
     Bahar Asgari, _Ramyad Hadidi_, Jiashen Cao, Da Eun Shim, Sung-Kyu Lim, Hyesoon Kim   
     International Symposium on High-Performance Computer Architecture (_HPCA_), Seoul, South Korea (2021)  
 
+  * __Context-Aware Task Handling in Resource-Constrained Robots with Virtualization__
+  [__[Paper]__](https://arxiv.org/abs/2104.04563)  
+    _Ramyad Hadidi_, Nima Shoghi, Bahar Asgari, Hyesoon Kim  
+    arXiv preprint arXiv:2104.04563(2021)
+
   * __THIA: Accelerating Video Analytics using Early Inference and Fine-Grained Query Planning__
     [__[Paper]__](https://arxiv.org/abs/2102.08481)  
     Jiashen Cao, _Ramyad Hadidi_, Joy Arulraj, Hyesoon Kim   
