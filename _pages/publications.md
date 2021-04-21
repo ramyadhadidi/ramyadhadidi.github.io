@@ -8,10 +8,13 @@ author_profile: true
   * __Quantifying the Design-Space Tradeoffs in Autonomous Drones__
     [__[Paper]__](https://ramyadhadidi.github.io/files/hadidi-asplos21-drone.pdf)
     [__[Abstract]__](https://ramyadhadidi.github.io/files/hadidi-asplos21-extended-abstract.pdf)
-    [__[Artifact]__](https://zenodo.org/record/4546175)
+    [__[ACM Artifact]__](https://zenodo.org/record/4546175)
+    [_[GitHub]__](https://github.com/ramyadhadidi/ASPLOS21-Drone)
     [__[Short Video]__](https://youtu.be/r7Ht2bGAqn8)  
     _Ramyad Hadidi_, Bahar Asgari, Sam Jijina, Adriana Amyette, Nima Shoghi, Hyesoon Kim  
-    International Conference on Architectural Support for Programming Languages and Operating Systems (_ASPLOS_), Virtual, USA (2021)
+    International Conference on Architectural Support for Programming Languages and Operating Systems (_ASPLOS_), Virtual, USA (2021)  
+    _Note: ACM Artifact requires a permanent storage for artifacts, that is why we have a Zenodo repository._
+    _For exploring the content of the repository, please use GitHub link, as you can render view PDF and readme files._
 
   * __Efficiently Solving Partial Differential Equations in a Partially Reconfigurable Specialized Hardware__
     [__[Paper]__](https://ramyadhadidi.github.io/files/asgari-ToC21.pdf)  
