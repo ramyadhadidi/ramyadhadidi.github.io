@@ -10,6 +10,7 @@ author_profile: true
     [__[Abstract]__](https://ramyadhadidi.github.io/files/hadidi-asplos21-extended-abstract.pdf)
     [__[ACM Artifact]__](https://zenodo.org/record/4546175)
     [__[GitHub]__](https://github.com/ramyadhadidi/ASPLOS21-Drone)
+    [__[Drone Build Guide]__](https://ramyadhadidi.github.io/files/Drone-Build-Guide.pdf)
     [__[Short Video]__](https://youtu.be/r7Ht2bGAqn8)  
     _Ramyad Hadidi_, Bahar Asgari, Sam Jijina, Adriana Amyette, Nima Shoghi, Hyesoon Kim  
     International Conference on Architectural Support for Programming Languages and Operating Systems (_ASPLOS_), Virtual, USA (2021)  
