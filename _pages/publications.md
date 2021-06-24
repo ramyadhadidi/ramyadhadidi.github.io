@@ -17,6 +17,11 @@ author_profile: true
     _Note: ACM Artifact requires a permanent storage for artifacts, that is why we have a Zenodo repository._
     _For exploring the content of the repository, please use the GitHub link, as you can render PDF and readme files._
 
+  * __Context-Aware Task Handling in Resource-Constrained Robots with Virtualization__
+    (Accepted)
+    _Ramyad Hadidi_, Nima Shoghi, Bahar Asgari, Hyesoon Kim  
+    ACM/IEE Design Automation Conference (_DAC_) - Work in Progress (WiP), San Francisco, CA (2021)
+
   * __Efficiently Solving Partial Differential Equations in a Partially Reconfigurable Specialized Hardware__
     [__[Paper]__](https://ramyadhadidi.github.io/files/asgari-ToC21.pdf)  
     Bahar Asgari, _Ramyad Hadidi_, Tushar Krishna, Hyesoon Kim, Sudhakar Yalamanchili  
@@ -45,26 +50,11 @@ author_profile: true
 
 
 ## 2020
-  * __Reducing Inference Latency with Concurrent Architectures for Image Recognition__
-  [__[Paper]__](https://arxiv.org/abs/2011.07092)  
+  * __Towards Collaborative Inferencing of Deep Neural Networks on Internet of Things Devices__
+    [__[Paper]__](https://ieeexplore.ieee.org/document/8985265/)
+    [__[Author's Copy]__](https://ramyadhadidi.github.io/files/hadidi_JIOT.pdf)  
     _Ramyad Hadidi_, Jiashen Cao, Michael S. Ryoo, Hyesoon Kim  
-    arXiv preprint arXiv:2011.07092 (2020)
-
-  * __LCP: A Low-Communication Parallelization Method for Fast Neural Network Inference in Image Recognition__
-  [__[Paper]__](https://arxiv.org/abs/2003.06464)  
-    _Ramyad Hadidi_, Bahar Asgari, Jiashen Cao, Younmin Bae, Da Eun Shim, Hyojong Kim, Sung-Kyu Lim, Michael S. Ryoo, Hyesoon Kim  
-    arXiv preprint arXiv:2003.06464 (2020)
-
-  * __Copernicus: Characterizing the Performance Implications of Compression Formats Used in Sparse Workloads__
-  [__[Paper]__](https://arxiv.org/abs/2011.10932)  
-    Bahar Asgari, _Ramyad Hadidi_, Joshua Dierberger, Charlotte Steinichen, Hyesoon Kim  
-    arXiv preprint arXiv:2011.10932 (2020)
-
-  * __Secure Location-Aware Authentication and Communication for Intelligent Transportation Systems__
-  [__[Paper]__](https://arxiv.org/abs/2011.08936)  
-    Nima Shoghi Ghalehshahi, _Ramyad Hadidi_, Lee Jaewon, Jun Chen, Arthur Siqueria, Rahul Rajan, 
-    Shaan Dhawan, Pooya Shoghi Ghalehshahi, Hyesoon Kim  
-    arXiv preprint arXiv:2011.07092 (2020)
+    IEEE Internet of Things Journal (_JIoT_) (2020)
 
   * __MEISSA: Multiplying Matrices Efficiently in a Scalable Systolic Architecture__
     [__[Paper]__](https://ramyadhadidi.github.io/files/asgari-iccd20.pdf)
@@ -84,12 +74,6 @@ author_profile: true
     Sam Jijina, Adriana Amyette, Nima Shoghi, _Ramyad Hadidi_, Hyesoon Kim   
     IEEE International Symposium on Performance Analysis of Systems and Software (_ISPASS_), Boston, MA (2020)
     __[Mentored Undergraduate Work]__
-
-  * __Towards Collaborative Inferencing of Deep Neural Networks on Internet of Things Devices__
-    [__[Paper]__](https://ieeexplore.ieee.org/document/8985265/)
-    [__[Author's Copy]__](https://ramyadhadidi.github.io/files/hadidi_JIOT.pdf)  
-    _Ramyad Hadidi_, Jiashen Cao, Michael S. Ryoo, Hyesoon Kim  
-    IEEE Internet of Things Journal (_JIoT_) (2020)
 
   * __PISCES: Power-Aware Implementation of SLAM by Customizing Efficient Sparse Algebra__
     [__[Paper]__](https://ramyadhadidi.github.io/files/asgari-dac20.pdf)
@@ -122,6 +106,27 @@ author_profile: true
     [__[Video]__](https://youtu.be/nugat03Ae0o)  
     Bahar Asgari, _Ramyad Hadidi_, Hyesoon Kim  
     Design, Automation, and Test in Europe (_DATE_), Grenoble, France (2020)
+
+  * __Reducing Inference Latency with Concurrent Architectures for Image Recognition__
+    [__[Paper]__](https://arxiv.org/abs/2011.07092)  
+    _Ramyad Hadidi_, Jiashen Cao, Michael S. Ryoo, Hyesoon Kim  
+    arXiv preprint arXiv:2011.07092 (2020)
+
+  * __LCP: A Low-Communication Parallelization Method for Fast Neural Network Inference in Image Recognition__
+    [__[Paper]__](https://arxiv.org/abs/2003.06464)  
+    _Ramyad Hadidi_, Bahar Asgari, Jiashen Cao, Younmin Bae, Da Eun Shim, Hyojong Kim, Sung-Kyu Lim, Michael S. Ryoo, Hyesoon Kim  
+    arXiv preprint arXiv:2003.06464 (2020)
+
+  * __Copernicus: Characterizing the Performance Implications of Compression Formats Used in Sparse Workloads__
+    [__[Paper]__](https://arxiv.org/abs/2011.10932)  
+    Bahar Asgari, _Ramyad Hadidi_, Joshua Dierberger, Charlotte Steinichen, Hyesoon Kim  
+    arXiv preprint arXiv:2011.10932 (2020)
+
+  * __Secure Location-Aware Authentication and Communication for Intelligent Transportation Systems__
+    [__[Paper]__](https://arxiv.org/abs/2011.08936)  
+    Nima Shoghi Ghalehshahi, _Ramyad Hadidi_, Lee Jaewon, Jun Chen, Arthur Siqueria, Rahul Rajan, 
+    Shaan Dhawan, Pooya Shoghi Ghalehshahi, Hyesoon Kim  
+    arXiv preprint arXiv:2011.07092 (2020)
 
 ## 2019
 
