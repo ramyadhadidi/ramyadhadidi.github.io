@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ramyad's Website"
+title                    : "Ramyad Hadidi"
 title_separator          : "-"
 name                     : &name "Ramyad Hadidi"
 description              : &description "personal description"
@@ -80,8 +80,8 @@ analytics:
 author:
   name             : "Ramyad Hadidi"
   avatar           : "profile2.jpg"
-  bio              : "I am a PhD candidate at Georiga Tech in Computer Science."
-  location         : "Atlanta, Georiga"
+  bio              : "Computer Science PhD, Georiga Tech"
+  location         : 
   employer         :
   googlescholar    : https://scholar.google.com/citations?user=yLjz-JEAAAAJ&hl=en
   email            : rhadidi@gatech.edu
