@@ -4,8 +4,7 @@ title: ""
 excerpt: ""
 author_profile: true
 redirect_from:
-  - /about/
-  - /about.html
+  - /about
 ---
 I am a Ph.D. candidate in computer science at the Georgia Institute of Technology since 2014. I have the pleasure of working with Hyesoon Kim and my lab-mates in [HPArch](http://hparch.gatech.edu) group. Our group's research is focused on computer architecture. Specifically, I have worked on 3D-stacked memories, processing in memory (PIM), and machine learning. Currently, I am working on enabling edge and IoT devices (i.e., resource-constrained devices, robots, drones) to execute deep neural networks (DNNs) collaboratively, efficiently, securely, and reliably.
 
