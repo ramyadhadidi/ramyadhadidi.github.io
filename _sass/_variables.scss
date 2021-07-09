@@ -27,10 +27,36 @@ $times                      : Times, serif;
 $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
+$ubuntu                     : Ubuntu, "times new roman", times, roman, serif;
 
-$global-font-family         : $sans-serif;
-$header-font-family         : $sans-serif;
-$caption-font-family        : $serif;
+// $global-font-family         : $sans-serif;
+// $header-font-family         : $sans-serif;
+// $caption-font-family        : $serif;
+// $nav-font-family            : $sans-serif;
+// $nav-font-family-narrow     : $sans-serif-narrow;
+// $sidebar-font-family        : $sans-serif;
+// $sidebar-font-family-narrow : $sans-serif-narrow;
+// $archive-font-family-narrow : $sans-serif-narrow;
+// $button-font-family         : $sans-serif;
+// $footer-font-family-narrow  : $sans-serif-narrow;
+// $forms-font-family          : $sans-serif;
+// $masthead-font-family       : $sans-serif-narrow;
+// $magnific-pop-font-family   : $serif;
+//
+// Ramyad -- Fonts to Ubuntu
+$global-font-family         : $ubuntu;
+$header-font-family         : $ubuntu;
+$caption-font-family        : $ubuntu;
+$nav-font-family            : $ubuntu;
+$nav-font-family-narrow     : $ubuntu;
+$sidebar-font-family        : $ubuntu;
+$sidebar-font-family-narrow : $ubuntu;
+$archive-font-family-narrow : $ubuntu;
+$button-font-family         : $ubuntu;
+$footer-font-family-narrow  : $ubuntu;
+$forms-font-family          : $ubuntu;
+$masthead-font-family       : $ubuntu;
+$magnific-pop-font-family   : $ubuntu;
 
 /* type scale */
 $type-size-1                : 2.441em;  // ~39.056px
