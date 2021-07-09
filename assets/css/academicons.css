@@ -5,7 +5,7 @@
  *  Licenses - Font: SIL OFL 1.1, CSS: MIT License
  */
 
-/* @font-face {
+@font-face {
 	font-family: 'Ubuntu';
 	font-style: normal;
 	font-weight: 400;
@@ -16,7 +16,7 @@
 		 url('../fonts/ubuntu-v15-latin-regular.woff') format('woff'), /* Modern Browsers */
 		 url('../fonts/ubuntu-v15-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
 		 url('../fonts/ubuntu-v15-latin-regular.svg#Ubuntu') format('svg'); /* Legacy iOS */
-} */
+}
 /* body	{
     margin-top: 0px;
     padding:0;
@@ -35,10 +35,9 @@
     font-weight: normal;
     font-style: normal;
 }
-
 .ai {
 	display:inline-block;
-	font:normal normal normal 14px/1 Academicons;
+	font:normal normal normal 14px/1 Ubuntu;
 	font-size:inherit;
 	text-rendering:auto;
 	-webkit-font-smoothing:antialiased;
