@@ -6,17 +6,20 @@ author_profile: true
 redirect_from:
   - /about
 ---
-I am a Ph.D. candidate in computer science at the Georgia Institute of Technology since 2014. I have the pleasure of working with Hyesoon Kim and my lab-mates in [HPArch](http://hparch.gatech.edu) group. Our group's research is focused on computer architecture. Specifically, I have worked on 3D-stacked memories, processing in memory (PIM), and machine learning. Currently, I am working on enabling edge and IoT devices (i.e., resource-constrained devices, robots, drones) to execute deep neural networks (DNNs) collaboratively, efficiently, securely, and reliably.
+### About Me
 
+I am a machine learning researcher at [SK hynix](http://www.skhynix.com/). I work at the intersection of hardware, software, and edge devices, in all of which focusing on the efficient execution of deep learning algorithms.
 
 ### More About Me!
 
-I received my bachelor's degree from the Sharif University of Technology in electrical engineering, and my master's degree from Georgia Tech in computer science. In high school, I fell in love with astrophysics and won a silver medal in the International Olympiad of Astrophysics and Astronomy in 2009 (3rd [IOAA](https://en.wikipedia.org/wiki/International_Olympiad_on_Astronomy_and_Astrophysics)). I started to study computer architecture because I wanted to understand how 0s and 1s eventually created computers. Fortunately, I am still derived from the same curiosity every day.  
+I got my Ph.D. in computer science at the Georgia Institute of Technology in 2021. I had the pleasure to work with Professor [Hyesoon Kim](https://www.cc.gatech.edu/~hyesoon/) at [HPArch](http://hparch.gatech.edu) lab. My area of research falls within computer architecture but I usually outreach to new areas. Specifically, I worked on 3D-stacked memories, processing in memory (PIM), robotics, and machine learning. My [thesis](http://hdl.handle.net/1853/64765) focused on enabling edge and IoT devices (i.e., resource-constrained devices, robots, drones) to execute deep neural networks (DNNs) collaboratively, efficiently, securely, and reliably.  
 
-I support Linux, open-source software, free Internet, and right to repair. I love board and video games. I crave to play post-rock someday. I enjoy spending my time in nature. I play squash, tennis, ping pong, soccer, do rock climbing (bouldering specifically), and backpacking.
+I received my bachelor's degree from the Sharif University of Technology in electrical engineering, and my master's degree from Georgia Tech in computer science. I spend most of my time in high school on astronomy, and ended up with couple of medals in national and international olympiads (two silvers and one gold). From astronomy to electronics and then computer science is a long road, but that is a story for another day.  
+
+I support Linux, open-source software, free Internet, and right to repair. I play all kinds of board and video games. I maintain my own car. I crave to play post-rock someday. I enjoy spending my time in nature. I play squash, tennis, ping pong, soccer, do rock climbing (bouldering specifically), and backpacking.
 
 
-## News
+<!-- ## News
 * _[Nov'20]_ Our paper titled Quantifying the Design-Space Tradeoffs in Autonomous Drones has been accepted to [ASPLOS'21](https://asplos-conference.org/).
 
 * _[Oct'20]_ Our paper about intelligent accelerating sparse gathering for scaling recommendation systems is accepted to [HPCA'21](https://hpca-conf.org/2021/).
@@ -50,4 +53,4 @@ I support Linux, open-source software, free Internet, and right to repair. I lov
 
 * _[April'19]_ __CS 4290 (Summer19)__: I will be teaching high-performance computer architecture summer 19 [(CS4290)](https://www.cc.gatech.edu/~rhadidi6/cs4290/index.html). Feel free to send me an email if you have any questions. Everything in the course is the same as CS 6290/ECE 4100/ECE 6100.
 
-* _[March'19]_ __SysML'19 Demo__: Check our demo [here](http://hparch.gatech.edu//sysml).
+* _[March'19]_ __SysML'19 Demo__: Check our demo [here](http://hparch.gatech.edu//sysml). -->
