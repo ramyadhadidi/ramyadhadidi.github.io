@@ -5,274 +5,344 @@ author_profile: true
 ---
 
 ## 2021
-  * __Quantifying the Design-Space Tradeoffs in Autonomous Drones__
-    [__[Paper]__](https://ramyadhadidi.github.io/files/hadidi-asplos21-drone.pdf)
-    [__[Abstract]__](https://ramyadhadidi.github.io/files/hadidi-asplos21-extended-abstract.pdf)
-    [__[ACM Artifact]__](https://zenodo.org/record/4546175)
-    [__[GitHub]__](https://github.com/ramyadhadidi/ASPLOS21-Drone)
-    [__[Drone Build Guide]__](https://ramyadhadidi.github.io/files/Drone-Build-Guide.pdf)
-    [__[Short Video]__](https://youtu.be/r7Ht2bGAqn8)  
+  * __Quantifying the Design-Space Tradeoffs in Autonomous Drones__  
     _Ramyad Hadidi_, Bahar Asgari, Sam Jijina, Adriana Amyette, Nima Shoghi, Hyesoon Kim  
-    International Conference on Architectural Support for Programming Languages and Operating Systems (_ASPLOS_), Virtual, USA (2021)  
-    _Note: ACM Artifact requires a permanent storage for artifacts, that is why we have a Zenodo repository._
-    _For exploring the content of the repository, please use the GitHub link, as you can render PDF and readme files._
+    [ASPLOS'21](https://ramyadhadidi.github.io/files/hadidi-asplos21-drone.pdf)  
+    <sup>
+    [__[Paper]__](https://ramyadhadidi.github.io/files/hadidi-asplos21-drone.pdf)
+    [__[Talk]__](https://youtu.be/r7Ht2bGAqn8)
+    [__[Artifact]__](https://zenodo.org/record/4546175)
+    [__[GitHub]__](https://github.com/ramyadhadidi/ASPLOS21-Drone)
+    [__[Build Guide]__](https://ramyadhadidi.github.io/files/Drone-Build-Guide.pdf)
+    </sup>  
 
   * __Context-Aware Task Handling in Resource-Constrained Robots with Virtualization__
-    (Accepted)
     _Ramyad Hadidi_, Nima Shoghi, Bahar Asgari, Hyesoon Kim  
-    ACM/IEE Design Automation Conference (_DAC_) - Work in Progress (WiP), San Francisco, CA (2021)
+    DAC'21<sup>WiP</sup>
 
-  * __Efficiently Solving Partial Differential Equations in a Partially Reconfigurable Specialized Hardware__
-    [__[Paper]__](https://ramyadhadidi.github.io/files/asgari-ToC21.pdf)  
+  * __FAFNIR: Accelerating Sparse Gathering by Using Efficient Near-Memory Intelligent Reduction__  
+    Bahar Asgari, _Ramyad Hadidi_, Jiashen Cao, Da Eun Shim, Sung-Kyu Lim, Hyesoon Kim  
+    [HPCA'21](https://ramyadhadidi.github.io/files/asgari-hpca21.pdf)  
+    <sup>
+    [__[Paper]__](https://ramyadhadidi.github.io/files/asgari-hpca21.pdf)
+    [__[Short Video]__](https://youtu.be/kPoT0_-fWMY)
+    </sup>  
+
+  * __Efficiently Solving Partial Differential Equations in a Partially Reconfigurable Specialized Hardware__  
     Bahar Asgari, _Ramyad Hadidi_, Tushar Krishna, Hyesoon Kim, Sudhakar Yalamanchili  
-    IEEE Transactions on Computers, (2021)
+    [Transactions on Computers]((https://ramyadhadidi.github.io/files/asgari-ToC21.pdf))  
+    <sup>
+    [__[Paper]__](https://ramyadhadidi.github.io/files/asgari-ToC21.pdf)
+    </sup>  
 
-  * __FAFNIR: Accelerating Sparse Gathering by Using Efficient Near-Memory Intelligent Reduction__
-  [__[Paper]__](https://ramyadhadidi.github.io/files/asgari-hpca21.pdf)
-  [__[Short Video]__](https://youtu.be/kPoT0_-fWMY)  
-    Bahar Asgari, _Ramyad Hadidi_, Jiashen Cao, Da Eun Shim, Sung-Kyu Lim, Hyesoon Kim   
-    International Symposium on High-Performance Computer Architecture (_HPCA_), Seoul, South Korea (2021)  
-
-  * __Context-Aware Task Handling in Resource-Constrained Robots with Virtualization__
-  [__[Paper]__](https://arxiv.org/abs/2104.04563)  
+  * __Context-Aware Task Handling in Resource-Constrained Robots with Virtualization__  
     _Ramyad Hadidi_, Nima Shoghi, Bahar Asgari, Hyesoon Kim  
-    arXiv preprint arXiv:2104.04563(2021)
+    <sup>
+    [__[arXiv]__](https://arxiv.org/abs/2104.04563)
+    </sup>  
 
-  * __THIA: Accelerating Video Analytics using Early Inference and Fine-Grained Query Planning__
-    [__[Paper]__](https://arxiv.org/abs/2102.08481)  
+  * __THIA: Accelerating Video Analytics using Early Inference and Fine-Grained Query Planning__  
     Jiashen Cao, _Ramyad Hadidi_, Joy Arulraj, Hyesoon Kim   
-    arXiv preprint arXiv:2102.08481 (2021)  
+    <sup>
+    [__[arXiv]__](https://arxiv.org/abs/2102.08481)
+    </sup>  
 
-  * __Creating Robust Deep Neural Networks With Coded Distributed Computing for IoT Systems__
-  [__[Paper]__](https://arxiv.org/abs/2104.04447)  
+  * __Creating Robust Deep Neural Networks With Coded Distributed Computing for IoT Systems__  
     _Ramyad Hadidi_, Jiashen Cao, Hyesoon Kim  
-    arXiv preprint arXiv:2104.04447 (2021)
+    <sup>
+    [__[arXiv]__](https://arxiv.org/abs/2104.04447)
+    </sup>  
 
-
+<!-- --------------------------------------- -->
+<!-- --------------------------------------- -->
+<!-- --------------------------------------- -->
 ## 2020
-  * __Towards Collaborative Inferencing of Deep Neural Networks on Internet of Things Devices__
-    [__[Paper]__](https://ieeexplore.ieee.org/document/8985265/)
-    [__[Author's Copy]__](https://ramyadhadidi.github.io/files/hadidi_JIOT.pdf)  
+  * __Towards Collaborative Inferencing of Deep Neural Networks on Internet of Things Devices__  
     _Ramyad Hadidi_, Jiashen Cao, Michael S. Ryoo, Hyesoon Kim  
-    IEEE Internet of Things Journal (_JIoT_) (2020)
+    [Internet of Things Journal](https://ieeexplore.ieee.org/document/8985265/)  
+    <sup>
+    [__[Paper]__](https://ieeexplore.ieee.org/document/8985265/)
+    [__[Author's Copy]__](https://ramyadhadidi.github.io/files/hadidi_JIOT.pdf)
+    [__[arXiv]__](https://arxiv.org/abs/1901.02537)
+    </sup>  
 
-  * __MEISSA: Multiplying Matrices Efficiently in a Scalable Systolic Architecture__
-    [__[Paper]__](https://ramyadhadidi.github.io/files/asgari-iccd20.pdf)
-    [__[Video]__](https://youtu.be/uGj3WonAbNE)  
-    Bahar Asgari, _Ramyad Hadidi_, Hyesoon Kim   
-    IEEE International Conference on Computer Design (ICCD), Hartford, CT (2020)
+  * __ALRESCHA: A Lightweight Reconfigurable Sparse-Computation Accelerator__  
+    Bahar Asgari, _Ramyad Hadidi_, Tushar Krishna, Hyesoon Kim, Sudhakar Yalamanchili  
+    [HPCA'20](https://ramyadhadidi.github.io/files/asgari-hpca20.pdf)  
+    <sup>
+    [__[Paper]__](https://ramyadhadidi.github.io/files/asgari-hpca20.pdf)
+    [__[Slides]__](https://ramyadhadidi.github.io/files/asgari-slides-alrescha-HPCA20.pdf)
+    </sup>  
 
-  * __Proposing a Fast and Scalable Systolic Array to Implement Matrix Multiplications__
-    [__[Slides]__](https://ramyadhadidi.github.io/files/asgari-slides-fccm20.pdf)
-    [__[Video]__](https://youtu.be/UAKe5oDRKok)  
-    Bahar Asgari, _Ramyad Hadidi_, Hyesoon Kim  
-    IEEE International Symposium on Field-Programmable Custom Computing Machines (_FCCM_), Fayetteville, AR (2020)
-
-  * __Understanding the Software and Hardware Stacks of a General-Purpose Cognitive Drone__
-    [__[Poster]__](https://ramyadhadidi.github.io/files/jijina-ispass20-poster.pdf)
-    [__[Paper]__](https://ramyadhadidi.github.io/files/jijina-ispass20.pdf)  
-    Sam Jijina, Adriana Amyette, Nima Shoghi, _Ramyad Hadidi_, Hyesoon Kim   
-    IEEE International Symposium on Performance Analysis of Systems and Software (_ISPASS_), Boston, MA (2020)
-    __[Mentored Undergraduate Work]__
-
-  * __PISCES: Power-Aware Implementation of SLAM by Customizing Efficient Sparse Algebra__
+  * __PISCES: Power-Aware Implementation of SLAM by Customizing Efficient Sparse Algebra__  
+    Bahar Asgari, _Ramyad Hadidi_, Nima Shoghi, Hyesoon Kim  
+    [DAC'20](https://ramyadhadidi.github.io/files/asgari-dac20.pdf)  
+    <sup>
     [__[Paper]__](https://ramyadhadidi.github.io/files/asgari-dac20.pdf)
     [__[Slides]__](https://ramyadhadidi.github.io/files/asgari-slides-dac20.pdf)
-    [__[Video]__](https://youtu.be/0EKu7DabkYI)  
-    Bahar Asgari, _Ramyad Hadidi_, Nima Shoghi, Hyesoon Kim  
-    2020 57th ACM/EDAC/IEEE Design Automation Conference (_DAC_), San Francisco, CA (2020)
+    [__[Video]__](https://youtu.be/0EKu7DabkYI)
+    </sup>  
 
-  * __Towards a General Purpose Cognitive Drone__
-    [__[Slides]__](https://ramyadhadidi.github.io/files/jijina-cogarch20-drone.pdf)
-    [__[Paper]__](https://ramyadhadidi.github.io/files/jijina-cogarch20.pdf)  
-    Sam Jijina, Adriana Amyette, _Ramyad Hadidi_, Hyesoon Kim   
-    The Fourth Workshop on Cognitive Architectures (_CogArch_ 2020), co-located with HPCA 2020, San Diego, CA (2020)  
-    __[Mentored Undergraduate Work]__
-
-  * __Batch-Aware Unified Memory Management in GPUs for Irregular Workloads__
-    [__[Paper]__](https://ramyadhadidi.github.io/files/kim-asplos20.pdf)  
-    Hyojong Kim, Jaewoong Sim, Prasun Gera, _Ramyad Hadidi_, Hyesoon Kim  
-    International Conference on Architectural Support for Programming Languages and Operating Systems (_ASPLOS_), Lausanne, Switzerland (2020)
-
-  * __ALRESCHA: A Lightweight Reconfigurable Sparse-Computation Accelerator__
-    [__[Slides]__](https://ramyadhadidi.github.io/files/asgari-slides-alrescha-HPCA20.pdf)
-    [__[Paper]__](https://ramyadhadidi.github.io/files/asgari-hpca20.pdf)    
-    Bahar Asgari, _Ramyad Hadidi_, Tushar Krishna, Hyesoon Kim, Sudhakar Yalamanchili  
-    International Symposium on High-Performance Computer Architecture (_HPCA_), San Diego, CA (2020)
-
-  * __ASCELLA: Accelerating Sparse Computation by Enabling Stream Accesses to Memory__
+  * __ASCELLA: Accelerating Sparse Computation by Enabling Stream Accesses to Memory__  
+    Bahar Asgari, _Ramyad Hadidi_, Hyesoon Kim  
+    [DATE'20](https://ramyadhadidi.github.io/files/asgari-date20.pdf)  
+    <sup>
     [__[Paper]__](https://ramyadhadidi.github.io/files/asgari-date20.pdf)
     [__[Slides]__](https://ramyadhadidi.github.io/files/asgari-slides-date20.pdf)
     [__[Video]__](https://youtu.be/nugat03Ae0o)  
+    </sup>  
+
+  * __MEISSA: Multiplying Matrices Efficiently in a Scalable Systolic Architecture__  
+    Bahar Asgari, _Ramyad Hadidi_, Hyesoon Kim   
+    [ICCD'20](https://ramyadhadidi.github.io/files/asgari-iccd20.pdf)  
+    <sup>
+    [__[Paper]__](https://ramyadhadidi.github.io/files/asgari-iccd20.pdf)
+    [__[Video]__](https://youtu.be/uGj3WonAbNE)
+    </sup>  
+
+  * __Proposing a Fast and Scalable Systolic Array to Implement Matrix Multiplications__  
     Bahar Asgari, _Ramyad Hadidi_, Hyesoon Kim  
-    Design, Automation, and Test in Europe (_DATE_), Grenoble, France (2020)
+    [FCCM'20](https://ramyadhadidi.github.io/files/asgari-slides-fccm20.pdf)  
+    <sup>
+    [__[Slides]__](https://ramyadhadidi.github.io/files/asgari-slides-fccm20.pdf)
+    [__[Video]__](https://youtu.be/UAKe5oDRKok)
+    </sup>  
 
-  * __Reducing Inference Latency with Concurrent Architectures for Image Recognition__
-    [__[Paper]__](https://arxiv.org/abs/2011.07092)  
+  * __Batch-Aware Unified Memory Management in GPUs for Irregular Workloads__  
+    Hyojong Kim, Jaewoong Sim, Prasun Gera, _Ramyad Hadidi_, Hyesoon Kim  
+    [ASPLOS'20](https://ramyadhadidi.github.io/files/kim-asplos20.pdf)  
+    <sup>
+    [__[Paper]__](https://ramyadhadidi.github.io/files/kim-asplos20.pdf)
+    [__[Talk]__](https://www.youtube.com/watch?v=jMfQEZNvhg8)
+    </sup>  
+
+  * __Understanding the Software and Hardware Stacks of a General-Purpose Cognitive Drone__  
+    Sam Jijina, Adriana Amyette, Nima Shoghi, _Ramyad Hadidi_, Hyesoon Kim   
+    [ISPASS'20]((https://ramyadhadidi.github.io/files/jijina-ispass20-poster.pdf))<sup>Poster</sup>  
+    <sup>
+    [__[Poster]__](https://ramyadhadidi.github.io/files/jijina-ispass20-poster.pdf)
+    [__[Paper]__](https://ramyadhadidi.github.io/files/jijina-ispass20.pdf)
+    __[Mentored Undergraduate Work]__
+    </sup>  
+
+  * __Towards a General Purpose Cognitive Drone__  
+    Sam Jijina, Adriana Amyette, _Ramyad Hadidi_, Hyesoon Kim   
+    [CogArch @ HPCA'20](https://ramyadhadidi.github.io/files/jijina-cogarch20-drone.pdf)  
+    <sup>
+    [__[Slides]__](https://ramyadhadidi.github.io/files/jijina-cogarch20-drone.pdf)
+    [__[Paper]__](https://ramyadhadidi.github.io/files/jijina-cogarch20.pdf)
+    __[Mentored Undergraduate Work]__
+    </sup>  
+
+  * __Reducing Inference Latency with Concurrent Architectures for Image Recognition__  
     _Ramyad Hadidi_, Jiashen Cao, Michael S. Ryoo, Hyesoon Kim  
-    arXiv preprint arXiv:2011.07092 (2020)
+    <sup>
+    [__[arXiv]__](https://arxiv.org/abs/2011.07092)
+    </sup>  
 
-  * __LCP: A Low-Communication Parallelization Method for Fast Neural Network Inference in Image Recognition__
-    [__[Paper]__](https://arxiv.org/abs/2003.06464)  
+  * __LCP: A Low-Communication Parallelization Method for Fast Neural Network Inference in Image Recognition__  
     _Ramyad Hadidi_, Bahar Asgari, Jiashen Cao, Younmin Bae, Da Eun Shim, Hyojong Kim, Sung-Kyu Lim, Michael S. Ryoo, Hyesoon Kim  
-    arXiv preprint arXiv:2003.06464 (2020)
+    <sup>
+    [__[arXiv]__](https://arxiv.org/abs/2003.06464)
+    </sup>  
 
-  * __Copernicus: Characterizing the Performance Implications of Compression Formats Used in Sparse Workloads__
-    [__[Paper]__](https://arxiv.org/abs/2011.10932)  
+  * __Copernicus: Characterizing the Performance Implications of Compression Formats Used in Sparse Workloads__  
     Bahar Asgari, _Ramyad Hadidi_, Joshua Dierberger, Charlotte Steinichen, Hyesoon Kim  
-    arXiv preprint arXiv:2011.10932 (2020)
+    <sup>
+    [__[arXiv]__](https://arxiv.org/abs/2011.10932)
+    </sup>  
 
-  * __Secure Location-Aware Authentication and Communication for Intelligent Transportation Systems__
-    [__[Paper]__](https://arxiv.org/abs/2011.08936)  
-    Nima Shoghi Ghalehshahi, _Ramyad Hadidi_, Lee Jaewon, Jun Chen, Arthur Siqueria, Rahul Rajan, 
+  * __Secure Location-Aware Authentication and Communication for Intelligent Transportation Systems__  
+    Nima Shoghi Ghalehshahi, _Ramyad Hadidi_, Lee Jaewon, Jun Chen, Arthur Siqueria, Rahul Rajan,
     Shaan Dhawan, Pooya Shoghi Ghalehshahi, Hyesoon Kim  
-    arXiv preprint arXiv:2011.07092 (2020)
+    <sup>
+    [__[arXiv]__](https://arxiv.org/abs/2011.08936)  
+    </sup>  
 
+
+<!-- --------------------------------------- -->
+<!-- --------------------------------------- -->
+<!-- --------------------------------------- -->
 ## 2019
 
-  * __Characterizing the Deployment of Deep Neural Networks on Commercial Edge Devices__
+  * __Characterizing the Deployment of Deep Neural Networks on Commercial Edge Devices__  
+    _Ramyad Hadidi_, Jiashen Cao, Yilun Xie, Bahar Asgari, Tushar Krishna, Hyesoon Kim  
+    [IISWC'19](https://ramyadhadidi.github.io/files/iiswc19-edge.pdf)  
+    <sup>
+    [__[Paper]__](https://ramyadhadidi.github.io/files/iiswc19-edge.pdf)
     [__[EdgeBench]__](http://hparch.gatech.edu/edgeBench)
     [__[Slides]__](https://ramyadhadidi.github.io/files/edgeDNN-IISWC19-website-version.pdf)
-    [__[Paper]__](https://ramyadhadidi.github.io/files/iiswc19-edge.pdf)  
-    _Ramyad Hadidi_, Jiashen Cao, Yilun Xie, Bahar Asgari, Tushar Krishna, Hyesoon Kim  
-    IEEE International Symposium on Workload Characterization (_IISWC_), Orlando, Florida (2019)  
     __[Best Paper Nominee]__
+    </sup>  
 
-  * __ERIDANUS: Efficiently Running Inference of DNNs Using Systolic Arrays__
-    [__[IEEE Micro]__](https://ramyadhadidi.github.io/files/asgari-ieee-micro19.pdf)   
+  * __Robustly Executing DNNs in IoT Systems Using Coded Distributed Computing__  
+    _Ramyad Hadidi_, Jiashen Cao, Michael S. Ryoo, Hyesoon Kim  
+    [DAC'19](https://ramyadhadidi.github.io/files/hadidi-dac19.pdf)<sup>LBR</sup>  
+    <sup>
+    [__[Paper]__](https://ramyadhadidi.github.io/files/hadidi-dac19.pdf)
+    [__[Slides]__](https://ramyadhadidi.github.io/files/hadidi-dac-19-robustDNN.pdf)
+    </sup>  
+
+  * __ERIDANUS: Efficiently Running Inference of DNNs Using Systolic Arrays__  
     Bahar Asgari, _Ramyad Hadidi_, Hyesoon Kim, Sudhakar Yalamanchili  
-    IEEE Micro, Special Issue on Machine Learning Acceleration (2019)
+    [IEEE Micro](https://ramyadhadidi.github.io/files/asgari-ieee-micro19.pdf)   
+    <sup>
+    [__[Paper]__](https://ramyadhadidi.github.io/files/asgari-ieee-micro19.pdf)
+    </sup>  
 
-  * __SLAM Performance on Embedded Robots__
-    [__[Paper]__](https://ramyadhadidi.github.io/files/shoghi_src_esweek.pdf)  
+  * __Thermal-Aware Processing-in-memory Instruction Offloading__  
+    Lifeng Nai, _Ramyad Hadidi_, He Xiao, Hyojong Kim, Jaewoong Sim, and Hyesoon Kim  
+    [Journal of Parallel and Distributed Computing](https://www.sciencedirect.com/science/article/pii/S0743731518305938)  
+    <sup>
+    [__[Paper]__](https://www.sciencedirect.com/science/article/pii/S0743731518305938)
+    </sup>  
+
+  * __LODESTAR: Creating Locally-Dense CNNs for Efficient Inference on Systolic Arrays__  
+    Bahar Asgari, _Ramyad Hadidi_, Hyesoon Kim, and  Sudhakar Yalamanchili  
+    [DAC'19](https://ramyadhadidi.github.io/files/asgari-lodestar.pdf)<sup>LBR</sup>  
+    <sup>
+    [__[Paper]__](https://ramyadhadidi.github.io/files/asgari-lodestar.pdf)
+    </sup>  
+
+  * __Video Analytics From Edge To Server: Work-in-Progress__  
+    Jiashen Cao, _Ramyad Hadidi_, Joy Arulraj and Hyesoon Kim  
+    [ESWEEK'19](https://ramyadhadidi.github.io/files/cao_esweek2019.pdf)  
+    <sup>
+    [__[Paper]__](https://ramyadhadidi.github.io/files/cao_esweek2019.pdf)
+    [__[Slides]__](https://ramyadhadidi.github.io/files/cao-esweek-slides.pdf)
+    </sup>  
+
+  * __SLAM Performance on Embedded Robots__  
     Nima Shoghi, _Ramyad Hadidi_, Hyesoon Kim  
-    Student Research Competition at Embedded System Week (_SRC ESWEEK_), New York, NY (2019)  
+    [ESWEEK'19](https://ramyadhadidi.github.io/files/shoghi_src_esweek.pdf)<sup>SRC</sup>  
+    <sup>
+    [__[Paper]__](https://ramyadhadidi.github.io/files/shoghi_src_esweek.pdf)
     __[Mentored Undergraduate Work]__
     __[ACM SRC Bronze Winner]__
+    </sup>  
 
-  * __Enabling Speech to Text on Embedded Systems__
-    [__[Paper]__](https://ramyadhadidi.github.io/files/dodda_src_esweek.pdf)  
-    Mohan Dodda, Taejoon Park, Sayuj Shajith, _Ramyad Hadidi_, Hyesoon Kim  
-    Student Research Competition at Embedded System Week (_SRC ESWEEK_), New York, NY (2019)  
-    __[Mentored Undergraduate Work]__
-
-  * __Video Analytics From Edge To Server: Work-in-Progress__
-    [__[Paper]__](https://ramyadhadidi.github.io/files/cao_esweek2019.pdf)
-    [__[Slides]__](https://ramyadhadidi.github.io/files/cao-esweek-slides.pdf)  
-    Jiashen Cao, _Ramyad Hadidi_, Joy Arulraj and Hyesoon Kim  
-    International Conference on Hardware/Software Codesign and System Synthesis CODES+ISSS (ESWEEK), New York, NY (2019)
-
-  * __Capella: Customizing Perception for Edge Devices by Efficiently Allocating FPGAs to DNNs__
+  * __Capella: Customizing Perception for Edge Devices by Efficiently Allocating FPGAs to DNNs__  
+    Younmin Bae, _Ramyad Hadidi_, Bahar Asgari, Jiashen Cao, Hyesoon Kim  
+    [FPL'19](http://hparch.gatech.edu/fpl19)<sup>Demo</sup>  
+    <sup>
     [__[Demo Site]__](http://hparch.gatech.edu/fpl19)
     [__[Slides]__](https://ramyadhadidi.github.io/files/hadidi-FPL.pdf)
-    [__[Paper]__](https://ramyadhadidi.github.io/files/hadidi-fpl-paper.pdf)   
-    Younmin Bae, _Ramyad Hadidi_, Bahar Asgari, Jiashen Cao, Hyesoon Kim  
-    International Conference on Field-Programmable Logic and Applications (_FPL_), Demo, Barcelona, Spain (2019)  
+    [__[Paper]__](https://ramyadhadidi.github.io/files/hadidi-fpl-paper.pdf)
     __[Mentored Undergraduate Work]__
+    </sup>  
 
-  * __Characterizing the Execution of Deep Neural Networks on Collaborative Robots and Edge Devices__
-    [__[Slides]__](https://ramyadhadidi.github.io/files/merck-pearc19.pdf)
-    [__[Paper]__](https://ramyadhadidi.github.io/files/hadidi-pearc.pdf)  
+  * __Enabling Speech to Text on Embedded Systems__  
+    Mohan Dodda, Taejoon Park, Sayuj Shajith, _Ramyad Hadidi_, Hyesoon Kim  
+    [ESWEEK'19](https://ramyadhadidi.github.io/files/dodda_src_esweek.pdf)<sup>SRC</sup>  
+    <sup>
+    [__[Paper]__](https://ramyadhadidi.github.io/files/dodda_src_esweek.pdf)
+    __[Mentored Undergraduate Work]__
+    </sup>  
+
+  * __Characterizing the Execution of Deep Neural Networks on Collaborative Robots and Edge Devices__  
     Matthew Merck, Bingyao Wang, Lixing Liu, Chunjun Jia, Arthur Siqueira, Qiusen Huang, Abhijeet Saraha,
     Dongsuk Lim, Jiashen Cao, _Ramyad Hadidi_, Hyesoon Kim    
-    ACM Practice and Experience in Advanced Research Computing (_PEARC_), Chicago, IL (2019)   
+    [PEARC'19](https://ramyadhadidi.github.io/files/hadidi-pearc.pdf)  
+    <sup>
+    [__[Paper]__](https://ramyadhadidi.github.io/files/hadidi-pearc.pdf)
+    [__[Slides]__](https://ramyadhadidi.github.io/files/merck-pearc19.pdf)
     __[Mentored Undergraduate Work]__
+    </sup>  
 
-  * __Understanding the Power Consumption of Executing Deep Neural Networks on a Distributed Robot System__
-    [__[Slides]__](http://hparch.gatech.edu/papers/icra_workshop_2019.pptx)
-    [__[Paper]__](https://ramyadhadidi.github.io/files/hadidi-lsaf-icra19.pdf)  
-    _Ramyad Hadidi_, Jiashen Cao, Matthew Merck, Arthur Siqueira, Qiusen Huang, Abhijeet Saraha,
-    Chunjun Jia, Bingyao Wang, Dongsuk Lim, Lixing Liu and Hyesoon Kim    
-    Algorithms and Architectures for Learning in-the-Loop Systems in Autonomous Flight Workshop - Co-located with IEEE International Conference on Robotics and Automation (_ICRA_), Montreal, QC (2019)
-
-  * __Robustly Executing DNNs in IoT Systems Using Coded Distributed Computing__
-    [__[Paper]__](https://ramyadhadidi.github.io/files/hadidi-dac19.pdf)
-    [__[Slides]__](https://ramyadhadidi.github.io/files/hadidi-dac-19-robustDNN.pdf)  
-    _Ramyad Hadidi_, Jiashen Cao, Michael S. Ryoo, Hyesoon Kim    
-    ACM/IEE Design Automation Conference (_DAC_) - Late Breaking Results, Las Vegas, NV (2019)
-
-  * __LODESTAR: Creating Locally-Dense CNNs for Efficient Inference on Systolic Arrays__
-    [__[Paper]__](https://ramyadhadidi.github.io/files/asgari-lodestar.pdf)   
-    Bahar Asgari, _Ramyad Hadidi_, Hyesoon Kim, and  Sudhakar Yalamanchili        
-    ACM/IEE Design Automation Conference (_DAC_) - Late Breaking Results, Las Vegas, NV (2019)
-
-  * __An Edge-Centric Scalable Intelligent Framework To Collaboratively Execute DNN__
+  * __An Edge-Centric Scalable Intelligent Framework To Collaboratively Execute DNN__  
+    Jiashen Cao, Fei Wu, _Ramyad Hadidi_, Lixing Liu, Tushar Krishna, Michael S. Ryoo, Hyesoon Kim  
+    [MLSys'19](http://hparch.gatech.edu//sysml)<sup>Demo</sup>  
+    <sup>
     [__[Demo Site]__](http://hparch.gatech.edu//sysml)
-    [__[Paper]__](https://ramyadhadidi.github.io/files/hadidi-sysml.pdf)  
-    Jiashen Cao, Fei Wu, _Ramyad Hadidi_, Lixing Liu, Tushar Krishna, Michael S. Ryoo, Hyesoon Kim    
-    Conference on Systems and Machine Learning (_SysML_), Demo Palo Alto, CA (2019)
+    [__[Paper]__](https://ramyadhadidi.github.io/files/hadidi-sysml.pdf)
+    __[Mentored Undergraduate Work]__
+    </sup>  
 
-  * __Thermal-Aware Processing-in-memory Instruction Offloading__
-    [__[Paper]__](https://www.sciencedirect.com/science/article/pii/S0743731518305938)  
-    Lifeng Nai, _Ramyad Hadidi_, He Xiao, Hyojong Kim, Jaewoong Sim, and Hyesoon Kim  
-    Journal of Parallel and Distributed Computing (_JPDC_), Elsevier (2019)
+  * __Understanding the Power Consumption of Executing Deep Neural Networks on a Distributed Robot System__  
+    _Ramyad Hadidi_, Jiashen Cao, Matthew Merck, Arthur Siqueira, Qiusen Huang, Abhijeet Saraha,
+    Chunjun Jia, Bingyao Wang, Dongsuk Lim, Lixing Liu and Hyesoon Kim  
+    [LSAF @ ICRA'19](http://hparch.gatech.edu/papers/icra_workshop_2019.pptx)  
+    <sup>
+    [__[Slides]__](http://hparch.gatech.edu/papers/icra_workshop_2019.pptx)
+    [__[Paper]__](https://ramyadhadidi.github.io/files/hadidi-lsaf-icra19.pdf)
+    </sup>  
 
-  * __Collaborative Execution of Deep Neural Networks on Internet of Things Devices__
-    [__[Paper]__](https://arxiv.org/abs/1901.02537)    
-    _Ramyad Hadidi_, Jiashen Cao, Michael S. Ryoo, Hyesoon Kim  
-    arXiv preprint arXiv:1901.02537 (2019)
-
-
+<!-- --------------------------------------- -->
+<!-- --------------------------------------- -->
+<!-- --------------------------------------- -->
 ## 2018
-  * __Distributed Perception by Collaborative Robots__
-  [__[Paper-(RA-L)]__](https://ramyadhadidi.github.io/files/hadidi-ral-18.pdf)
-  [__[Paper-(IROS)]__](https://ramyadhadidi.github.io/files/hadidi-iros-18.pdf)
-  [__[Spotlight]__](https://ramyadhadidi.github.io/files/hadidi-iros-18-spotlight.pdf)
-  [__[Slides]__](https://ramyadhadidi.github.io/files/hadidi-iros-18-talk.pdf)  
-  _Ramyad Hadidi_, Jiashen Cao, Matthew Woodward, Michael S. Ryoo, Hyesoon Kim  
-  IEEE Robotics and Automation Letters (_RA-L_), Volume 3, Number 4, Pages 3709-3716, (October 2018), Acceptance Rate:_<30%_  
-  Invited for IEEE/RSJ International Conference on Intelligent Robots and Systems (_IROS'18_), Madrid, Spain (2018)
+  * __Distributed Perception by Collaborative Robots__  
+    _Ramyad Hadidi_, Jiashen Cao, Matthew Woodward, Michael S. Ryoo, Hyesoon Kim  
+    [RA-L & IROS'18](https://ramyadhadidi.github.io/files/hadidi-ral-18.pdf)  
+    <sup>
+    [__[Paper-(RA-L)]__](https://ramyadhadidi.github.io/files/hadidi-ral-18.pdf)
+    [__[Paper-(IROS)]__](https://ramyadhadidi.github.io/files/hadidi-iros-18.pdf)
+    [__[Spotlight]__](https://ramyadhadidi.github.io/files/hadidi-iros-18-spotlight.pdf)
+    [__[Slides]__](https://ramyadhadidi.github.io/files/hadidi-iros-18-talk.pdf)
+    [__[arXiv]__](https://arxiv.org/abs/1802.02138)
+    </sup>  
 
-  * __CODA: Enabling Co-location of Computation and Data for Near-Data Processing__
-  [__[Paper]__](https://ramyadhadidi.github.io/files/coda-taco18.pdf)  
-  Hyojong Kim, _Ramyad Hadidi_, Lifeng Nai, Hyesoon Kim, Nuwan Jayasena, Yasuko Eckert, Onur Kayiran, Gabriel H. Loh  
-  ACM Transactions on Architecture and Code Optimization (_TACO_). Volume 15, Issue 3, Article 32 (September 2018), 23 pages (2018)  Acceptance Rate: _<30%_
+  * __Performance Implications of NoCs on 3D-Stacked Memories: Insights from the Hybrid Memory Cube__  
+    _Ramyad Hadidi_, Bahar Asgari, Jeffrey Young, Burhan Ahmad Mudassar, Kartikay Garg, Tushar Krishna, Hyesoon Kim  
+    [ISPASS'18](https://ramyadhadidi.github.io/files/hadidi-ispass.pdf)  
+    <sup>
+    [__[Paper]__](https://ramyadhadidi.github.io/files/hadidi-ispass.pdf)
+    [__[Slides]__](https://ramyadhadidi.github.io/files/hadidi-ispass-slides.pdf)  
+    </sup>  
 
-  * __Real-Time Image Recognition Using Collaborative IoT Devices__
-  [__[Paper]__](https://ramyadhadidi.github.io/files/hadidi-request-asplos18.pdf)
-  [__[Slides]__](https://ramyadhadidi.github.io/files/hadidi-request-slides.pdf)  
-  _Ramyad Hadidi_, Jiashen Cao, Matthew Woodward, Michael S. Ryoo, Hyesoon Kim  
-  1st Reproducible Tournament on Pareto-efficient Image Classification (_ACM ReQuEST workshop_), co-located with ACM International Conference on Architectural Support for Programming Languages and Operating Systems (_ASPLOS_), Williamsburg, VA, USA (2018)
-
-  * __Musical Chair: Efficient Real-Time Recognition Using Collaborative IoT Devices__
-  [__[Paper]__](https://arxiv.org/abs/1802.02138)    
-  _Ramyad Hadidi_, Jiashen Cao, Matthew Woodward, Michael S. Ryoo, Hyesoon Kim  
-  arXiv preprint arXiv:1802.02138 (2018)
-
-  * __Performance Implications of NoCs on 3D-Stacked Memories: Insights from the Hybrid Memory Cube__
-  [__[Paper]__](https://ramyadhadidi.github.io/files/hadidi-ispass.pdf)
-  [__[Slides]__](https://ramyadhadidi.github.io/files/hadidi-ispass-slides.pdf)  
-  _Ramyad Hadidi_, Bahar Asgari, Jeffrey Young, Burhan Ahmad Mudassar, Kartikay Garg, Tushar Krishna, Hyesoon Kim  
-  IEEE International Symposium on Performance Analysis of Systems and Software (_ISPASS_), Belfast, Northern Ireland, UK  
-  <!-- Acceptance Rate: 21/67=_31%_ -->
-
-  * __CoolPIM: Thermal-Aware Source Throttling for Efficient PIM Instruction Offloading__
-  [__[Paper]__](https://ramyadhadidi.github.io/files/nai-coolpim.pdf)
-  [__[Slides]__](https://ramyadhadidi.github.io/files/nai-coolpim-slides.pdf)  
-Lifeng Nai, _Ramyad Hadidi_, He Xiao, Hyojong Kim, Jaewoong Sim, Hyesoon Kim.   
-IEEE International Parallel & Distributed Processing Symposium (_IPDPS’18_), Vancouver, Canada (2018)  
-<!-- Acceptance Rate: (First round acceptance) 38/461=_<8%_ -->
+  * __CoolPIM: Thermal-Aware Source Throttling for Efficient PIM Instruction Offloading__  
+    Lifeng Nai, _Ramyad Hadidi_, He Xiao, Hyojong Kim, Jaewoong Sim, Hyesoon Kim.   
+    [IPDPS’18](https://ramyadhadidi.github.io/files/nai-coolpim.pdf)  
+    <sup>
+    [__[Paper]__](https://ramyadhadidi.github.io/files/nai-coolpim.pdf)
+    [__[Slides]__](https://ramyadhadidi.github.io/files/nai-coolpim-slides.pdf)
+    </sup>  
 
 
+  * __CODA: Enabling Co-location of Computation and Data for Near-Data Processing__  
+    Hyojong Kim, _Ramyad Hadidi_, Lifeng Nai, Hyesoon Kim, Nuwan Jayasena, Yasuko Eckert, Onur Kayiran, Gabriel H. Loh  
+    [TACO](https://ramyadhadidi.github.io/files/coda-taco18.pdf)  
+    <sup>
+    [__[Paper]__](https://ramyadhadidi.github.io/files/coda-taco18.pdf)  
+    </sup>  
+
+  * __Real-Time Image Recognition Using Collaborative IoT Devices__  
+    _Ramyad Hadidi_, Jiashen Cao, Matthew Woodward, Michael S. Ryoo, Hyesoon Kim  
+    [ReQuEST @ ASPLOS'18](https://ramyadhadidi.github.io/files/hadidi-request-asplos18.pdf)  
+    <sup>
+    [__[Paper]__](https://ramyadhadidi.github.io/files/hadidi-request-asplos18.pdf)
+    [__[Slides]__](https://ramyadhadidi.github.io/files/hadidi-request-slides.pdf)
+    </sup>  
+
+
+<!-- --------------------------------------- -->
+<!-- --------------------------------------- -->
+<!-- --------------------------------------- -->
 ## 2017
-  *  __CAIRO: A Compiler-Assisted Technique for Enabling Instruction-Level Offloading of Processing-In-Memory__
-  [__[Paper]__](https://ramyadhadidi.github.io/files/a48-hadidi.pdf)  
-_Ramyad Hadidi_, Lifeng Nai, Hyojong Kim, Hyesoon Kim  
-ACM Transactions on Architecture and Code Optimization (_TACO_). Volume 14, Issue 4, Article 48 (December 2017), 25 pages (2017)  
-<!-- Acceptance Rate: _<30%_ -->
+  * __Demystifying the Characteristics of 3D-Stacked Memories: A Case Study for Hybrid Memory Cube__  
+    _Ramyad Hadidi_, Bahar Asgari, Burhan Ahmad Mudassar, Saibal Mukhopadhyay, Sudhakar Yalamanchili, Hyesoon Kim  
+    [IISWC'17](https://ramyadhadidi.github.io/files/hadidi-iiswc.pdf)  
+    <sup>
+    [__[Paper]__](https://ramyadhadidi.github.io/files/hadidi-iiswc.pdf)
+    [__[Slides]__](https://ramyadhadidi.github.io/files/hadidi-iiswc-slides.pdf)
+    </sup>  
 
-  * __Demystifying the Characteristics of 3D-Stacked Memories: A Case Study for Hybrid Memory Cube__
-  [__[Paper]__](https://ramyadhadidi.github.io/files/hadidi-iiswc.pdf) [__[Slides]__](https://ramyadhadidi.github.io/files/hadidi-iiswc-slides.pdf)
-  [__[CRNCH Poster]__](https://ramyadhadidi.github.io/files/hadidi-iiswc-poster.pdf)  
-_Ramyad Hadidi_, Bahar Asgari, Burhan Ahmad Mudassar, Saibal Mukhopadhyay, Sudhakar Yalamanchili, Hyesoon Kim  
-IEEE International Symposium on Workload Characterization (_IISWC_), Seattle, Washington (2017)  
-<!-- Acceptance Rate: 23/83=_27%_ -->
+  *  __CAIRO: A Compiler-Assisted Technique for Enabling Instruction-Level Offloading of Processing-In-Memory__  
+    _Ramyad Hadidi_, Lifeng Nai, Hyojong Kim, Hyesoon Kim  
+    [TACO](https://ramyadhadidi.github.io/files/a48-hadidi.pdf)  
+    <sup>
+    [__[Paper]__](https://ramyadhadidi.github.io/files/a48-hadidi.pdf)
+    </sup>  
 
-  * __GraphPIM: Enabling Instruction-Level PIM Offloading in Graph Computing Frameworks__
-  [__[Paper]__](https://ramyadhadidi.github.io/files/nai-graphpim.pdf) [__[Slides]__](https://ramyadhadidi.github.io/files/nai-graphpim-slides.pdf) [__[Lightning]__](https://ramyadhadidi.github.io/files/nai-graphpim-slides-light.pdf)  
-  Lifeng Nai, _Ramyad Hadidi_, Jaewoong Sim, Hyojong Kim, Pranith Kumar, Hyesoon Kim  
-  International Symposium on High Performance Computer Architecture (_HPCA_), Austin, Texas (2017)  
-  <!-- Acceptance Rate: 50/224=_22%_ -->
+  * __GraphPIM: Enabling Instruction-Level PIM Offloading in Graph Computing Frameworks__  
+    Lifeng Nai, _Ramyad Hadidi_, Jaewoong Sim, Hyojong Kim, Pranith Kumar, Hyesoon Kim  
+    [HPCA'17](https://ramyadhadidi.github.io/files/nai-graphpim.pdf)  
+    <sup>
+    [__[Paper]__](https://ramyadhadidi.github.io/files/nai-graphpim.pdf)
+    [__[Slides]__](https://ramyadhadidi.github.io/files/nai-graphpim-slides.pdf)
+    [__[Spotlight]__](https://ramyadhadidi.github.io/files/nai-graphpim-slides-light.pdf)
+    </sup>  
 
 
-> “It is one thing to stand on the comfortable ground of placid inaction and put forth words of cynical wisdom, and another to plunge into the work itself and through strenuous experience earn the right to express strong conclusions.” ― John D. Rockefeller`
+> “It is one thing to stand on the comfortable ground of placid inaction and put forth words of cynical wisdom,
+> and another to plunge into the work itself and through strenuous experience earn the right to express strong conclusions.” ― John D. Rockefeller`
