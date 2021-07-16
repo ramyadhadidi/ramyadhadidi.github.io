@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Ramyad's Website"
 excerpt: ""
 author_profile: true
 redirect_from:

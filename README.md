@@ -3,6 +3,13 @@
 - Font: _sass/_reset.scss
 - Font loading: assets/css/academicons.css
 - Colors and variable: assets/css/main.scss
+- Icons:
+    - Icons Drawing: assets/fonts/fontawesome-webfont.svg
+    - Icon CSS: _sass/vendor/font-awesome/_icons.scss
+    - Icon Drawing: assets/fonts/academicons.svg
+    - Icons CSS: assets/css/academicons.css
+    - Icon Usage per Class: _sass/vendor/font-awesome/_variables.scss
+    - Icon Classes: _sass/vendor/font-awesome/_icons.scss
 
 ## To run locally (not on GitHub Pages, to serve on your own computer)
 1. Clone the repository and made updates as detailed above

@@ -1,6 +1,6 @@
 ---
 permalink: /publications/
-title: "Publications"
+title: "Ramyad's Publications"
 author_profile: true
 ---
 
@@ -16,7 +16,7 @@ author_profile: true
     [__[Build Guide]__](https://ramyadhadidi.github.io/files/Drone-Build-Guide.pdf)
     </sup>  
 
-  * __Context-Aware Task Handling in Resource-Constrained Robots with Virtualization__
+  * __Context-Aware Task Handling in Resource-Constrained Robots with Virtualization__  
     _Ramyad Hadidi_, Nima Shoghi, Bahar Asgari, Hyesoon Kim  
     DAC'21<sup>WiP</sup>
 

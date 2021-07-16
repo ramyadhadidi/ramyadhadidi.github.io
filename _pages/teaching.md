@@ -1,6 +1,6 @@
 ---
 permalink: /teaching/
-title: "Teaching"
+title: "Ramyad's Teaching"
 author_profile: true
 ---
 I enjoy teaching, not from the prestige of the traditional teacher-student contract, but from the fact of an informal society of intellectuals who share a common interest in studying subjects.  
