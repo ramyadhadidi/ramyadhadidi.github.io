@@ -4,6 +4,19 @@
  *  Square icons designed to be used alongside Font Awesome square icons - https://fortawesome.github.io/Font-Awesome/
  *  Licenses - Font: SIL OFL 1.1, CSS: MIT License
  */
+ @font-face {
+	font-family: 'Ubuntu';
+	font-style: normal;
+	font-weight: 400;
+	src: url('../fonts/ubuntu-v15-latin-regular.eot');
+	src: local(''),
+		 url('../fonts/ubuntu-v15-latin-regular.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/ubuntu-v15-latin-regular.woff2') format('woff2'),
+		 url('../fonts/ubuntu-v15-latin-regular.woff') format('woff'),
+		 url('../fonts/ubuntu-v15-latin-regular.ttf') format('truetype'),
+		 url('../fonts/ubuntu-v15-latin-regular.svg#Ubuntu') format('svg');
+}
+
 @font-face {
     font-family: 'Academicons';
     font-style: normal;
