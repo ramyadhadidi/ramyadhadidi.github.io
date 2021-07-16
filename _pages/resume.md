@@ -23,6 +23,9 @@ author_profile: true
 
 
 ### Experience
+  * __Machine Learning Researcher__, CIS Product Development  
+    [SK hynix](https://www.skhynix.com/) |  Feb. 21 – Present
+
   * __Research Assistant__, [HPArch](http://hparch.gatech.edu/)  
     Georgia Tech |  Feb. 15 – Aug. 21
 
