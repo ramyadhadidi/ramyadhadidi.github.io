@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 ## 2021
+
   * __Quantifying the Design-Space Tradeoffs in Autonomous Drones__  
     _Ramyad Hadidi_, Bahar Asgari, Sam Jijina, Adriana Amyette, Nima Shoghi, Hyesoon Kim  
     [ASPLOS'21](https://ramyadhadidi.github.io/files/hadidi-asplos21-drone.pdf)  
@@ -27,6 +28,10 @@ author_profile: true
     [__[Paper]__](https://ramyadhadidi.github.io/files/asgari-hpca21.pdf)
     [__[Short Video]__](https://youtu.be/kPoT0_-fWMY)
     </sup>  
+
+  * __Copernicus: Characterizing the Performance Implications of Compression Formats Used in Sparse Workloads__  
+    Bahar Asgari, _Ramyad Hadidi_, Joshua Dierberge, Charlotte Steinichen, Amaan Marfatia, Hyesoon Kim  
+    IISWC'21  
 
   * __Efficiently Solving Partial Differential Equations in a Partially Reconfigurable Specialized Hardware__  
     Bahar Asgari, _Ramyad Hadidi_, Tushar Krishna, Hyesoon Kim, Sudhakar Yalamanchili  
