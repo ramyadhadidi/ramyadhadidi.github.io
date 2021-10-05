@@ -32,6 +32,9 @@ author_profile: true
   * __Copernicus: Characterizing the Performance Implications of Compression Formats Used in Sparse Workloads__  
     Bahar Asgari, _Ramyad Hadidi_, Joshua Dierberge, Charlotte Steinichen, Amaan Marfatia, Hyesoon Kim  
     IISWC'21  
+    <sup>
+    __[Best Paper Nominee]__
+    </sup>
 
   * __Efficiently Solving Partial Differential Equations in a Partially Reconfigurable Specialized Hardware__  
     Bahar Asgari, _Ramyad Hadidi_, Tushar Krishna, Hyesoon Kim, Sudhakar Yalamanchili  
