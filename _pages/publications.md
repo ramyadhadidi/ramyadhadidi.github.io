@@ -154,12 +154,6 @@ author_profile: true
     [__[arXiv]__](https://arxiv.org/abs/2003.06464)
     </sup>  
 
-  * __Copernicus: Characterizing the Performance Implications of Compression Formats Used in Sparse Workloads__  
-    Bahar Asgari, _Ramyad Hadidi_, Joshua Dierberger, Charlotte Steinichen, Hyesoon Kim  
-    <sup>
-    [__[arXiv]__](https://arxiv.org/abs/2011.10932)
-    </sup>  
-
   * __Secure Location-Aware Authentication and Communication for Intelligent Transportation Systems__  
     Nima Shoghi Ghalehshahi, _Ramyad Hadidi_, Lee Jaewon, Jun Chen, Arthur Siqueria, Rahul Rajan,
     Shaan Dhawan, Pooya Shoghi Ghalehshahi, Hyesoon Kim  
