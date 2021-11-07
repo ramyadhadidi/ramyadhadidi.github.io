@@ -38,28 +38,11 @@ author_profile: true
 
   * __Efficiently Solving Partial Differential Equations in a Partially Reconfigurable Specialized Hardware__  
     Bahar Asgari, _Ramyad Hadidi_, Tushar Krishna, Hyesoon Kim, Sudhakar Yalamanchili  
-    [Transactions on Computers]((https://ramyadhadidi.github.io/files/asgari-ToC21.pdf))  
+    [Transactions on Computers](https://ramyadhadidi.github.io/files/asgari-ToC21.pdf)  
     <sup>
     [__[Paper]__](https://ramyadhadidi.github.io/files/asgari-ToC21.pdf)
     </sup>  
 
-  * __Context-Aware Task Handling in Resource-Constrained Robots with Virtualization__  
-    _Ramyad Hadidi_, Nima Shoghi, Bahar Asgari, Hyesoon Kim  
-    <sup>
-    [__[arXiv]__](https://arxiv.org/abs/2104.04563)
-    </sup>  
-
-  * __THIA: Accelerating Video Analytics using Early Inference and Fine-Grained Query Planning__  
-    Jiashen Cao, _Ramyad Hadidi_, Joy Arulraj, Hyesoon Kim   
-    <sup>
-    [__[arXiv]__](https://arxiv.org/abs/2102.08481)
-    </sup>  
-
-  * __Creating Robust Deep Neural Networks With Coded Distributed Computing for IoT Systems__  
-    _Ramyad Hadidi_, Jiashen Cao, Hyesoon Kim  
-    <sup>
-    [__[arXiv]__](https://arxiv.org/abs/2104.04447)
-    </sup>  
 
 <!-- --------------------------------------- -->
 <!-- --------------------------------------- -->
@@ -140,25 +123,6 @@ author_profile: true
     [__[Slides]__](https://ramyadhadidi.github.io/files/jijina-cogarch20-drone.pdf)
     [__[Paper]__](https://ramyadhadidi.github.io/files/jijina-cogarch20.pdf)
     __[Mentored Undergraduate Work]__
-    </sup>  
-
-  * __Reducing Inference Latency with Concurrent Architectures for Image Recognition__  
-    _Ramyad Hadidi_, Jiashen Cao, Michael S. Ryoo, Hyesoon Kim  
-    <sup>
-    [__[arXiv]__](https://arxiv.org/abs/2011.07092)
-    </sup>  
-
-  * __LCP: A Low-Communication Parallelization Method for Fast Neural Network Inference in Image Recognition__  
-    _Ramyad Hadidi_, Bahar Asgari, Jiashen Cao, Younmin Bae, Da Eun Shim, Hyojong Kim, Sung-Kyu Lim, Michael S. Ryoo, Hyesoon Kim  
-    <sup>
-    [__[arXiv]__](https://arxiv.org/abs/2003.06464)
-    </sup>  
-
-  * __Secure Location-Aware Authentication and Communication for Intelligent Transportation Systems__  
-    Nima Shoghi Ghalehshahi, _Ramyad Hadidi_, Lee Jaewon, Jun Chen, Arthur Siqueria, Rahul Rajan,
-    Shaan Dhawan, Pooya Shoghi Ghalehshahi, Hyesoon Kim  
-    <sup>
-    [__[arXiv]__](https://arxiv.org/abs/2011.08936)  
     </sup>  
 
 
@@ -345,6 +309,52 @@ author_profile: true
     [__[Spotlight]__](https://ramyadhadidi.github.io/files/nai-graphpim-slides-light.pdf)
     </sup>  
 
+<!-- --------------------------------------- -->
+<!-- --------------------------------------- -->
+<!-- --------------------------------------- -->
+## Pre-Prints
+All arXiv pre-prints of the papers that has not been accepted yet.
+
+  * __Reducing Inference Latency with Concurrent Architectures for Image Recognition__  
+    _Ramyad Hadidi_, Jiashen Cao, Michael S. Ryoo, Hyesoon Kim  
+    <sup>
+    [__[arXiv]__](https://arxiv.org/abs/2011.07092)
+    </sup>  
+
+  * __LCP: A Low-Communication Parallelization Method for Fast Neural Network Inference in Image Recognition__  
+    _Ramyad Hadidi_, Bahar Asgari, Jiashen Cao, Younmin Bae, Da Eun Shim, Hyojong Kim, Sung-Kyu Lim, Michael S. Ryoo, Hyesoon Kim  
+    <sup>
+    [__[arXiv]__](https://arxiv.org/abs/2003.06464)
+    </sup>  
+
+  * __Secure Location-Aware Authentication and Communication for Intelligent Transportation Systems__  
+    Nima Shoghi Ghalehshahi, _Ramyad Hadidi_, Lee Jaewon, Jun Chen, Arthur Siqueria, Rahul Rajan,
+    Shaan Dhawan, Pooya Shoghi Ghalehshahi, Hyesoon Kim  
+    <sup>
+    [__[arXiv]__](https://arxiv.org/abs/2011.08936)  
+    </sup>  
+
+  * __Context-Aware Task Handling in Resource-Constrained Robots with Virtualization__  
+    _Ramyad Hadidi_, Nima Shoghi, Bahar Asgari, Hyesoon Kim  
+    <sup>
+    [__[arXiv]__](https://arxiv.org/abs/2104.04563)
+    </sup>  
+
+  * __THIA: Accelerating Video Analytics using Early Inference and Fine-Grained Query Planning__  
+    Jiashen Cao, _Ramyad Hadidi_, Joy Arulraj, Hyesoon Kim   
+    <sup>
+    [__[arXiv]__](https://arxiv.org/abs/2102.08481)
+    </sup>  
+
+  * __Creating Robust Deep Neural Networks With Coded Distributed Computing for IoT Systems__  
+    _Ramyad Hadidi_, Jiashen Cao, Hyesoon Kim  
+    <sup>
+    [__[arXiv]__](https://arxiv.org/abs/2104.04447)
+    </sup>  
+
+<!-- --------------------------------------- -->
+<!-- --------------------------------------- -->
+<!-- --------------------------------------- -->
 
 > “It is one thing to stand on the comfortable ground of placid inaction and put forth words of cynical wisdom,
 > and another to plunge into the work itself and through strenuous experience earn the right to express strong conclusions.” ― John D. Rockefeller`
