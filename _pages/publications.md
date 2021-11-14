@@ -158,7 +158,7 @@ author_profile: true
 
   * __Thermal-Aware Processing-in-memory Instruction Offloading__  
     Lifeng Nai, _Ramyad Hadidi_, He Xiao, Hyojong Kim, Jaewoong Sim, and Hyesoon Kim  
-    [Journal of Parallel and Distributed Computing](https://www.sciencedirect.com/science/article/pii/S0743731518305938)  
+    [JPDC'19](https://www.sciencedirect.com/science/article/pii/S0743731518305938)  
     <sup>
     [__[Paper]__](https://www.sciencedirect.com/science/article/pii/S0743731518305938)
     </sup>  
@@ -239,7 +239,7 @@ author_profile: true
 ## 2018
   * __Distributed Perception by Collaborative Robots__  
     _Ramyad Hadidi_, Jiashen Cao, Matthew Woodward, Michael S. Ryoo, Hyesoon Kim  
-    [RA-L & IROS'18](https://ramyadhadidi.github.io/files/hadidi-ral-18.pdf)  
+    [RA-L'18 & IROS'18](https://ramyadhadidi.github.io/files/hadidi-ral-18.pdf)  
     <sup>
     [__[Paper-(RA-L)]__](https://ramyadhadidi.github.io/files/hadidi-ral-18.pdf)
     [__[Paper-(IROS)]__](https://ramyadhadidi.github.io/files/hadidi-iros-18.pdf)
@@ -267,7 +267,7 @@ author_profile: true
 
   * __CODA: Enabling Co-location of Computation and Data for Near-Data Processing__  
     Hyojong Kim, _Ramyad Hadidi_, Lifeng Nai, Hyesoon Kim, Nuwan Jayasena, Yasuko Eckert, Onur Kayiran, Gabriel H. Loh  
-    [TACO](https://ramyadhadidi.github.io/files/coda-taco18.pdf)  
+    [TACO'18](https://ramyadhadidi.github.io/files/coda-taco18.pdf)  
     <sup>
     [__[Paper]__](https://ramyadhadidi.github.io/files/coda-taco18.pdf)  
     </sup>  
@@ -295,7 +295,7 @@ author_profile: true
 
   *  __CAIRO: A Compiler-Assisted Technique for Enabling Instruction-Level Offloading of Processing-In-Memory__  
     _Ramyad Hadidi_, Lifeng Nai, Hyojong Kim, Hyesoon Kim  
-    [TACO](https://ramyadhadidi.github.io/files/a48-hadidi.pdf)  
+    [TACO'17](https://ramyadhadidi.github.io/files/a48-hadidi.pdf)  
     <sup>
     [__[Paper]__](https://ramyadhadidi.github.io/files/a48-hadidi.pdf)
     </sup>  
