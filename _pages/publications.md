@@ -151,7 +151,7 @@ author_profile: true
 
   * __ERIDANUS: Efficiently Running Inference of DNNs Using Systolic Arrays__  
     Bahar Asgari, _Ramyad Hadidi_, Hyesoon Kim, Sudhakar Yalamanchili  
-    [IEEE Micro](https://ramyadhadidi.github.io/files/asgari-ieee-micro19.pdf)   
+    [IEEE Micro'19](https://ramyadhadidi.github.io/files/asgari-ieee-micro19.pdf)   
     <sup>
     [__[Paper]__](https://ramyadhadidi.github.io/files/asgari-ieee-micro19.pdf)
     </sup>  
