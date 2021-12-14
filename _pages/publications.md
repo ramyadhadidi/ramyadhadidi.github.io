@@ -4,6 +4,15 @@ title: "Ramyad's Publications"
 author_profile: true
 ---
 
+## 2022
+
+  * __FiGO: Fine-Grained Query Optimization in Video Analytics__  
+    Jiashen Cao, Karan Sarkar, _Ramyad Hadidi_, Joy Arulraj, Hyesoon Kim  
+    SIGMOD'22
+    
+<!-- --------------------------------------- -->
+<!-- --------------------------------------- -->
+<!-- --------------------------------------- -->
 ## 2021
 
   * __Quantifying the Design-Space Tradeoffs in Autonomous Drones__  
