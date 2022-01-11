@@ -28,7 +28,10 @@ author_profile: true
 
   * __Context-Aware Task Handling in Resource-Constrained Robots with Virtualization__  
     _Ramyad Hadidi_, Nima Shoghi, Bahar Asgari, Hyesoon Kim  
-    DAC'21<sup>WiP</sup>
+    DAC'21<sup>WiP</sup>  
+    <sup>
+    [__[Paper]__](https://arxiv.org/abs/2104.04563)
+    <sup>  
 
   * __FAFNIR: Accelerating Sparse Gathering by Using Efficient Near-Memory Intelligent Reduction__  
     Bahar Asgari, _Ramyad Hadidi_, Jiashen Cao, Da Eun Shim, Sung-Kyu Lim, Hyesoon Kim  
@@ -42,8 +45,9 @@ author_profile: true
     Bahar Asgari, _Ramyad Hadidi_, Joshua Dierberge, Charlotte Steinichen, Amaan Marfatia, Hyesoon Kim  
     IISWC'21  
     <sup>
+    [__[Paper]__](https://arxiv.org/abs/2011.10932)
     __[Best Paper Nominee]__
-    </sup>
+    </sup>  
 
   * __Efficiently Solving Partial Differential Equations in a Partially Reconfigurable Specialized Hardware__  
     Bahar Asgari, _Ramyad Hadidi_, Tushar Krishna, Hyesoon Kim, Sudhakar Yalamanchili  
@@ -321,6 +325,16 @@ author_profile: true
 <!-- --------------------------------------- -->
 <!-- --------------------------------------- -->
 <!-- --------------------------------------- -->
+## PhD Dissertation
+  * __Deploying Deep Neural Networks in Edge with Distribution__  
+    _Ramyad Hadidi_  
+    <sup>
+    ([__[GeorgiaTechLibrary]__]https://smartech.gatech.edu/handle/1853/64765)
+    <sup>  
+
+<!-- --------------------------------------- -->
+<!-- --------------------------------------- -->
+<!-- --------------------------------------- -->
 ## Pre-Prints
 All arXiv pre-prints of the papers that has not been accepted yet.
 
@@ -341,18 +355,6 @@ All arXiv pre-prints of the papers that has not been accepted yet.
     Shaan Dhawan, Pooya Shoghi Ghalehshahi, Hyesoon Kim  
     <sup>
     [__[arXiv]__](https://arxiv.org/abs/2011.08936)  
-    </sup>  
-
-  * __Context-Aware Task Handling in Resource-Constrained Robots with Virtualization__  
-    _Ramyad Hadidi_, Nima Shoghi, Bahar Asgari, Hyesoon Kim  
-    <sup>
-    [__[arXiv]__](https://arxiv.org/abs/2104.04563)
-    </sup>  
-
-  * __THIA: Accelerating Video Analytics using Early Inference and Fine-Grained Query Planning__  
-    Jiashen Cao, _Ramyad Hadidi_, Joy Arulraj, Hyesoon Kim   
-    <sup>
-    [__[arXiv]__](https://arxiv.org/abs/2102.08481)
     </sup>  
 
   * __Creating Robust Deep Neural Networks With Coded Distributed Computing for IoT Systems__  
