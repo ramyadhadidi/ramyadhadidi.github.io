@@ -329,7 +329,7 @@ author_profile: true
   * __Deploying Deep Neural Networks in Edge with Distribution__  
     _Ramyad Hadidi_  
     <sup>
-    ([__[GeorgiaTechLibrary]__]https://smartech.gatech.edu/handle/1853/64765)
+    ([__[Georgia Tech Library]__](https://smartech.gatech.edu/handle/1853/64765)
     <sup>  
 
 <!-- --------------------------------------- -->
