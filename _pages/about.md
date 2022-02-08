@@ -10,6 +10,10 @@ redirect_from:
 
 I am a machine learning researcher at [SK hynix](http://www.skhynix.com/). I work at the intersection of hardware, software, and edge devices, in all of which focusing on the efficient execution of deep learning algorithms.
 
+### Upcoming Talks
+&nbsp;&nbsp;&nbsp; [[2/14] USC](https://minghsiehece.usc.edu/event/?event=102812)  
+&nbsp;&nbsp;&nbsp; [[3/02] Princeton](https://ece.princeton.edu/events/dealing-data-deluge-edge-systems)
+
 ### More About Me!
 
 I got my Ph.D. in computer science at the Georgia Institute of Technology in 2021. I had the pleasure to work with Professor [Hyesoon Kim](https://www.cc.gatech.edu/~hyesoon/) at [HPArch](http://hparch.gatech.edu) lab. My area of research falls within computer architecture but I usually outreach to new areas. Specifically, I worked on processing in/near memory, edge devices, robotics, and deep learning. My [thesis](http://hdl.handle.net/1853/64765) focused on enabling edge and IoT devices (i.e., resource-constrained devices, robots, drones) to execute deep neural networks (DNNs) collaboratively, efficiently, securely, and reliably.  
