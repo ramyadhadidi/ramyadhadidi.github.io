@@ -20,7 +20,7 @@ I got my Ph.D. in computer science from the Georgia Institute of Technology in 2
 
 I received my bachelor's degree from the Sharif University of Technology in electrical engineering, and my master's degree from Georgia Tech in computer science. I spend most of my time in high school on astronomy, and ended up with couple of medals in national and international olympiads (two silvers and one gold). From astronomy to electronics and then computer science is a long road, but that is a story for another day.  
 
-I support Linux, open-source software, free Internet, and right to repair. I play all kinds of board and video games. I maintain my own car. I crave to play post-rock someday. I enjoy spending my time in nature. I play squash, tennis, ping pong, soccer, do rock climbing (bouldering specifically), and backpacking.
+I support Linux, open-source software, free Internet, and right to repair. I play all kinds of board and video games (mostly grand strategy games). I maintain my own car. I crave to play post-rock someday. I enjoy spending my time in nature. I play squash, tennis, ping pong, soccer, do rock climbing (bouldering specifically), skiing, and backpacking.
 
 
 <!-- ## News
