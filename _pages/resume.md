@@ -23,7 +23,7 @@ author_profile: true
 
 
 ### Experience
-  * __Machine Learning Researcher__, CIS Product Development  
+  * __Machine Learning Researcher__, CIS America R&D Team  
     [SK hynix](https://www.skhynix.com/) |  Feb. 21 – Present
 
   * __Research Assistant__, [HPArch](http://hparch.gatech.edu/)  
@@ -50,17 +50,17 @@ author_profile: true
   * National Physics Olympiad Finalist, Iran (Feb. 8)
 
 ### Collaborators
-  * [Tushar Krishna](https://tusharkrishna.ece.gatech.edu/) - Professor
-  * [Michael S. Ryoo](http://michaelryoo.com/) - Professor
-  * [Joy Arulraj](https://www.cc.gatech.edu/~jarulraj/) - Professor
-  * [Saibal Mukhopadhyay](https://www.ece.gatech.edu/faculty-staff-directory/saibal-mukhopadhyay) - Professor
+  * [Tushar Krishna](https://tusharkrishna.ece.gatech.edu/) - Professor (GATech)
+  * [Michael S. Ryoo](http://michaelryoo.com/) - Professor (Stony Brook)
+  * [Joy Arulraj](https://www.cc.gatech.edu/~jarulraj/) - Professor (GATech)
+  * [Saibal Mukhopadhyay](https://www.ece.gatech.edu/faculty-staff-directory/saibal-mukhopadhyay) - Professor (GATech)
   * [Sudhakar Yalamanchili](https://sudha-curr.ece.gatech.edu/) - Professor
-  * [Bahar Asgari](https://baharasg.github.io/) - Professor
+  * [Bahar Asgari](https://baharasg.github.io/) - Professor (UMD)
   * [Jeffrey Young](https://www.cc.gatech.edu/~jyoung9/) - Research Scientist
   * [Jiashen Cao](https://jiashenc.github.io/) - PhD Student
   * [Hyojong Kim](https://hyojongk.github.io/) - VMWare
   * [Lifeng Nai](http://nailifeng.org/) - Google
-  * [Jaewoong Sim](https://jaewoong.org/) - Intel
+  * [Jaewoong Sim](https://jaewoong.org/) - Professor (Seoul National University)
 
 
 
