@@ -10,9 +10,9 @@ redirect_from:
 
 I am a machine learning researcher at [SK hynix](http://www.skhynix.com/). I work at the intersection of hardware, software, and edge devices, in all of which focusing on the efficient execution of deep learning algorithms.
 
-### Talks
+<!-- ### Talks
 &nbsp;&nbsp;&nbsp; __\[February\]__ [USC](https://viterbi.usc.edu/calendar/?event=102812#user_options)  
-&nbsp;&nbsp;&nbsp; __\[March\]__ [Princeton](https://ece.princeton.edu/events/dealing-data-deluge-edge-systems); Johns Hopkins;  
+&nbsp;&nbsp;&nbsp; __\[March\]__ [Princeton](https://ece.princeton.edu/events/dealing-data-deluge-edge-systems); Johns Hopkins;   -->
 
 ### More About Me!
 
