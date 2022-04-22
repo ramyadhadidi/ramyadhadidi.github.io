@@ -9,7 +9,14 @@ author_profile: true
   * __FiGO: Fine-Grained Query Optimization in Video Analytics__  
     Jiashen Cao, Karan Sarkar, _Ramyad Hadidi_, Joy Arulraj, Hyesoon Kim  
     SIGMOD'22
-    
+
+  * __DynaaDCP: Dynamic Navigation of Autonomous Agents for Distributed Capture Processing__  
+    Sam Jijina, _Ramyad Hadidi_, Jun Chen, Zhen Jiang, Ashutosh Dhekne, Hyesoon Kim  
+    DOSSA-4<sup>@HPCA'22</sup>  
+    <sup>
+    [__[Paper]__](https://ramyadhadidi.github.io/files/DOSSA4-DynaaDCP.pdf)
+    [__[Slides]__](https://ramyadhadidi.github.io/files/DOSSA4-DynaaDCP-slides.pdf)
+    </sup>  
 <!-- --------------------------------------- -->
 <!-- --------------------------------------- -->
 <!-- --------------------------------------- -->
@@ -367,5 +374,5 @@ All arXiv pre-prints of the papers that has not been accepted yet.
 <!-- --------------------------------------- -->
 <!-- --------------------------------------- -->
 
-> “It is one thing to stand on the comfortable ground of placid inaction and put forth words of cynical wisdom,
-> and another to plunge into the work itself and through strenuous experience earn the right to express strong conclusions.” ― John D. Rockefeller`
+<!-- > “It is one thing to stand on the comfortable ground of placid inaction and put forth words of cynical wisdom,
+> and another to plunge into the work itself and through strenuous experience earn the right to express strong conclusions.” ― John D. Rockefeller` -->
