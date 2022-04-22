@@ -12,7 +12,7 @@ author_profile: true
 
   * __DynaaDCP: Dynamic Navigation of Autonomous Agents for Distributed Capture Processing__  
     Sam Jijina, _Ramyad Hadidi_, Jun Chen, Zhen Jiang, Ashutosh Dhekne, Hyesoon Kim  
-    DOSSA-4<sup>@HPCA'22</sup>  
+    [DOSSA-4](http://prism.sejong.ac.kr/dossa-4/)<sup>@HPCA'22</sup>  
     <sup>
     [__[Paper]__](https://ramyadhadidi.github.io/files/DOSSA4-DynaaDCP.pdf)
     [__[Slides]__](https://ramyadhadidi.github.io/files/DOSSA4-DynaaDCP-slides.pdf)
