@@ -6,11 +6,11 @@ author_profile: true
 
 Within computer science, my research gravitates towards handling data in edge systems. My research sets the roadmaps across the hardware-software trade-offs for the next generation of edge systems. To effectively maneuver the constraints of edge systems, my research develops novel machine learning techniques and exploits hardware-software synergy.
 
-<object data="https://ramyadhadidi.github.io/files/references-phd-overview.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://ramyadhadidi.github.io/files/references-phd-overview.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://ramyadhadidi.github.io/files/references-phd-overview.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+![Overview of my PhD Research](https://ramyadhadidi.github.io/files/overview-phd.jpg)
+<sup>
+[__[Overview of my PhD Research]__](https://ramyadhadidi.github.io/files/overview-phd.pdf)
+[__[References]__](https://ramyadhadidi.github.io/files/references-phd-overview.pdf)
+<sup>
 
 ## Invited Talks
   * [__Johns Hopkins University__](https://engineering.jhu.edu/ece/), Whiting School of Engineering  
