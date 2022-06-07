@@ -8,8 +8,8 @@ Within computer science, my research gravitates towards handling data in edge sy
 
 ![Overview of my PhD Research](https://ramyadhadidi.github.io/files/overview-phd.jpg)
 <sup>
-[__[Overview of my PhD Research]__](https://ramyadhadidi.github.io/files/overview-phd.pdf)
-[__[References]__](https://ramyadhadidi.github.io/files/references-phd-overview.pdf)
+[__[Overview of my PhD Research]__](https://ramyadhadidi.github.io/files/overview-website.pdf)
+[__[References]__](https://ramyadhadidi.github.io/files/references-phd-overviegiw.pdf)
 <sup>
 
 ## Invited Talks
