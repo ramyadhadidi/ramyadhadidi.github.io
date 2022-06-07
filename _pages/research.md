@@ -19,7 +19,7 @@ Within computer science, my research gravitates towards handling data in edge sy
   * [__Princeton University__](https://ece.princeton.edu/), Department of Electrical and Computer Engineering  
     "Dealing with Data Deluge in Edge Systems," Princeton, NJ, Mar. 2022
 
-  * [__University of Souther California (USC)__](https://minghsiehece.usc.edu/), Department of Electrical and Computer Engineering  
+  * [__University of Southern California (USC)__](https://minghsiehece.usc.edu/), Department of Electrical and Computer Engineering  
     "Dealing with Data Deluge in Edge Systems," Los Angeles, CA, Feb. 2022
 
   * [__Pennsylvania State University__](https://www.eecs.psu.edu/), Department of Electrical Engineering and Computer Science   
