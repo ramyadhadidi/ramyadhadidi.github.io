@@ -1,13 +1,7 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-
-  # - title: "Research"
-  #   url: /research/
+  - title: "Research"
+    url: /research/
 
   - title: "Teaching"
     url: /teaching/
-
-  - title: "Undergraduate Research"
-    url: http://hparch.gatech.edu/undergraduate_research/

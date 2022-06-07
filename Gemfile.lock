@@ -274,6 +274,7 @@ DEPENDENCIES
   github-pages
   jekyll-feed
   jekyll-sitemap
+  jemoji
 
 BUNDLED WITH
    1.17.2
