@@ -25,7 +25,7 @@ Within computer science, my research gravitates towards handling data in edge sy
   * [__Pennsylvania State University__](https://www.eecs.psu.edu/), Department of Electrical Engineering and Computer Science   
     "How to Deal with Heavy Computations in the Edge?," University Park, PA, Feb. 2021
 
-  * [__Georgia Institute of Technology__](https://www.cc.gatech.edu/) Department of Computer Science   
+  * [__Georgia Institute of Technology__](https://www.cc.gatech.edu/), Department of Computer Science   
     "How to Deal with Heavy Computations in the Edge?," Atlanta, GA, Feb. 2021
 
 <!-- --------------------------------------- -->
