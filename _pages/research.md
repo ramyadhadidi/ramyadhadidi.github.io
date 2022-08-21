@@ -42,3 +42,35 @@ I enjoyed working with our undergraduate students during my PhD. Our work has re
   [__[Spring'20-1]__](https://www.youtube.com/watch?v=-_pJuwXOrnw)
   [__[Spring'20-2]__](https://www.youtube.com/watch?v=sBywdcMniW4&t=1s)
   <sup>  
+
+  <!-- --------------------------------------- -->
+<!-- --------------------------------------- -->
+<!-- --------------------------------------- -->
+## Service
+
+__Reviewer__
+  * IEEE Transactions on Services Computing
+  * IEEE IoT Journal
+  * IEEE/ACM Transactions on Networking
+  * IEEE Transactions on Vehicular Technology
+  * IEEE Journal on Emerging and Selected Topics in Circuits and Systems IEEE Access
+  * IEEE Micro
+  * ACM Transactions on Architecture and Code Optimization (TACO)
+
+__Organization & Program Committee__
+  * MICRO Artifact Evaluation, 2022
+  * ISCA ERC, 2022
+  * ASPLOS ERC, 2022
+  * Georgia Tech ArchiTECH, 2016
+
+__Submission Co-Chair__
+  * MICRO Top Picks (IEEE/ACM), 2020
+  * MICRO-51 (IEEE/ACM), 2018
+
+__Judge__
+  * Honeywell STEM Challenge at Georgia Tech, 2019 & 2020
+  * Georgia Tech President’s Undergraduate Research Awards [(PURA)](https://undergradresearch.gatech.edu/content/presidents-undergraduate-research-awards), 2016, 2017, 2018, 2019 & 2020
+
+__Community__
+  * Student Volunteer for PACT’20 (IEEE/ACM), 2020
+  * Student Chaperone for PhD Visit Days (Georgia Tech), 2015

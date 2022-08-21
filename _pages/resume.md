@@ -9,6 +9,7 @@ author_profile: true
 * __Georgia Institute of Technology__  
   __Ph.D., Computer Science__ | Aug. 14 – Aug. 21  
   Adviser: [Hyesoon Kim](https://www.cc.gatech.edu/~hyesoon/), [HPArch](http://hparch.gatech.edu/)  
+  Thesis: Deploying Deep Neural Networks in Edge with Distribution  
   GPA: 4.00/4.00  
 
 * __Georgia Institute of Technology__  
@@ -23,7 +24,7 @@ author_profile: true
 
 
 ### Experience
-  * __Machine Learning Researcher__, CIS America R&D Team  
+  * __Machine Learning Researcher__, Advanced System Technology Team  
     [SK hynix](https://www.skhynix.com/) |  Feb. 21 – Present
 
   * __Research Assistant__, [HPArch](http://hparch.gatech.edu/)  
@@ -43,6 +44,7 @@ author_profile: true
 
 
 ### Honors
+  * DAC’20 Young Fellow Participant & Research Video Awardee (Aug. 20)
   * Ranked 3rd, Sharif University - B.Sc. in Electrical Engineering  (Sept. 9 -- Aug. 14)
   * Silver Medal Winner of 3rd IOAA (International Olympiad on Astrophysics) (Oct. 9)
   * Gold Medal Winner in National Astrophysics Olympiad, Iran (Aug. 8)
@@ -50,17 +52,17 @@ author_profile: true
   * National Physics Olympiad Finalist, Iran (Feb. 8)
 
 ### Collaborators
-  * [Tushar Krishna](https://tusharkrishna.ece.gatech.edu/) - Professor (GATech)
-  * [Michael S. Ryoo](http://michaelryoo.com/) - Professor (Stony Brook)
-  * [Joy Arulraj](https://www.cc.gatech.edu/~jarulraj/) - Professor (GATech)
-  * [Saibal Mukhopadhyay](https://www.ece.gatech.edu/faculty-staff-directory/saibal-mukhopadhyay) - Professor (GATech)
+  * [Tushar Krishna](https://tusharkrishna.ece.gatech.edu/) - Professor, Georgia Tech
+  * [Michael S. Ryoo](http://michaelryoo.com/) - Professor, Stony Brook
+  * [Joy Arulraj](https://www.cc.gatech.edu/~jarulraj/) - Professor, Georgia Tech
+  * [Saibal Mukhopadhyay](https://www.ece.gatech.edu/faculty-staff-directory/saibal-mukhopadhyay) - Professor Emeritus, Georgia Tech
   * [Sudhakar Yalamanchili](https://sudha-curr.ece.gatech.edu/) - Professor
-  * [Bahar Asgari](https://baharasg.github.io/) - Professor (UMD)
+  * [Bahar Asgari](https://baharasg.github.io/) - Professor, University of Maryland
   * [Jeffrey Young](https://www.cc.gatech.edu/~jyoung9/) - Research Scientist
   * [Jiashen Cao](https://jiashenc.github.io/) - PhD Student
   * [Hyojong Kim](https://hyojongk.github.io/) - VMWare
   * [Lifeng Nai](http://nailifeng.org/) - Google
-  * [Jaewoong Sim](https://jaewoong.org/) - Professor (Seoul National University)
+  * [Jaewoong Sim](https://jaewoong.org/) - Professor, Seoul National University
 
 
 
