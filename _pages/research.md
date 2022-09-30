@@ -48,6 +48,13 @@ I enjoyed working with our undergraduate students during my PhD. Our work has re
 <!-- --------------------------------------- -->
 ## Service
 
+__Organization & Program Committee__
+  * ISCA, Program Committee, 2023
+  * MICRO Artifact Evaluation, 2022
+  * ISCA ERC, 2022
+  * ASPLOS ERC, 2022
+  * Georgia Tech ArchiTECH, 2016
+
 __Reviewer__
   * IEEE Transactions on Services Computing
   * IEEE IoT Journal
@@ -56,13 +63,6 @@ __Reviewer__
   * IEEE Journal on Emerging and Selected Topics in Circuits and Systems IEEE Access
   * IEEE Micro
   * ACM Transactions on Architecture and Code Optimization (TACO)
-
-__Organization & Program Committee__
-  * ISCA, Program Committee, 2023
-  * MICRO Artifact Evaluation, 2022
-  * ISCA ERC, 2022
-  * ASPLOS ERC, 2022
-  * Georgia Tech ArchiTECH, 2016
 
 __Submission Co-Chair__
   * MICRO Top Picks (IEEE/ACM), 2020
