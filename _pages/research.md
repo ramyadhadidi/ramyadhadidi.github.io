@@ -58,6 +58,7 @@ __Reviewer__
   * ACM Transactions on Architecture and Code Optimization (TACO)
 
 __Organization & Program Committee__
+  * ISCA, Program Committee, 2023
   * MICRO Artifact Evaluation, 2022
   * ISCA ERC, 2022
   * ASPLOS ERC, 2022
