@@ -4,16 +4,6 @@ title: "Publications"
 author_profile: true
 ---
 
-<!-- --------------------------------------- -->
-<!-- --------------------------------------- -->
-<!-- --------------------------------------- -->
-
-## PhD Dissertation
-  * __Deploying Deep Neural Networks in Edge with Distribution__  
-    _Ramyad Hadidi_  
-    <sup>
-    [__[Georgia Tech Library]__](https://smartech.gatech.edu/handle/1853/64765)
-    <sup>  
 
 <!-- --------------------------------------- -->
 <!-- --------------------------------------- -->
@@ -32,11 +22,20 @@ author_profile: true
     [__[Paper]__](https://ramyadhadidi.github.io/files/DOSSA4-DynaaDCP.pdf)
     [__[Slides]__](https://ramyadhadidi.github.io/files/DOSSA4-DynaaDCP-slides.pdf)
     </sup>  
+
 <!-- --------------------------------------- -->
 <!-- --------------------------------------- -->
 <!-- --------------------------------------- -->
 
 ## 2021
+
+  * __Deploying Deep Neural Networks in Edge with Distribution__  
+    [PhD Dissertation](https://smartech.gatech.edu/handle/1853/64765)  
+    _Ramyad Hadidi_  
+    <sup>
+    [__[Georgia Tech Library]__](https://smartech.gatech.edu/handle/1853/64765)
+    <sup>  
+
 
   * __Quantifying the Design-Space Tradeoffs in Autonomous Drones__  
     _Ramyad Hadidi_, Bahar Asgari, Sam Jijina, Adriana Amyette, Nima Shoghi, Hyesoon Kim  
@@ -55,6 +54,12 @@ author_profile: true
     <sup>
     [__[Paper]__](https://arxiv.org/abs/2104.04563)
     <sup>  
+
+  * __Creating Robust Deep Neural Networks With Coded Distributed Computing for IoT Systems__  
+    _Ramyad Hadidi_, Jiashen Cao, Hyesoon Kim  
+    <sup>
+    [__[arXiv]__](https://arxiv.org/abs/2104.04447)
+    </sup>  
 
   * __FAFNIR: Accelerating Sparse Gathering by Using Efficient Near-Memory Intelligent Reduction__  
     Bahar Asgari, _Ramyad Hadidi_, Jiashen Cao, Da Eun Shim, Sung-Kyu Lim, Hyesoon Kim  
@@ -91,6 +96,18 @@ author_profile: true
     [__[Paper]__](https://ieeexplore.ieee.org/document/8985265/)
     [__[Author's Copy]__](https://ramyadhadidi.github.io/files/hadidi_JIOT.pdf)
     [__[arXiv]__](https://arxiv.org/abs/1901.02537)
+    </sup>  
+
+  * __LCP: A Low-Communication Parallelization Method for Fast Neural Network Inference in Image Recognition__  
+    _Ramyad Hadidi_, Bahar Asgari, Jiashen Cao, Younmin Bae, Da Eun Shim, Hyojong Kim, Sung-Kyu Lim, Michael S. Ryoo, Hyesoon Kim  
+    <sup>
+    [__[arXiv]__](https://arxiv.org/abs/2003.06464)
+    </sup>  
+
+  * __Reducing Inference Latency with Concurrent Architectures for Image Recognition__  
+    _Ramyad Hadidi_, Jiashen Cao, Michael S. Ryoo, Hyesoon Kim  
+    <sup>
+    [__[arXiv]__](https://arxiv.org/abs/2011.07092)
     </sup>  
 
   * __ALRESCHA: A Lightweight Reconfigurable Sparse-Computation Accelerator__  
@@ -133,6 +150,13 @@ author_profile: true
     <sup>
     [__[Slides]__](https://ramyadhadidi.github.io/files/asgari-slides-fccm20.pdf)
     [__[Video]__](https://youtu.be/UAKe5oDRKok)
+    </sup>  
+
+  * __Secure Location-Aware Authentication and Communication for Intelligent Transportation Systems__  
+    Nima Shoghi Ghalehshahi, _Ramyad Hadidi_, Lee Jaewon, Jun Chen, Arthur Siqueria, Rahul Rajan,
+    Shaan Dhawan, Pooya Shoghi Ghalehshahi, Hyesoon Kim  
+    <sup>
+    [__[arXiv]__](https://arxiv.org/abs/2011.08936)  
     </sup>  
 
   * __Batch-Aware Unified Memory Management in GPUs for Irregular Workloads__  
@@ -348,37 +372,6 @@ author_profile: true
 <!-- --------------------------------------- -->
 <!-- --------------------------------------- -->
 <!-- --------------------------------------- -->
-## Pre-Prints
-All arXiv pre-prints of the papers that has not been published yet.
 
-  * __Reducing Inference Latency with Concurrent Architectures for Image Recognition__  
-    _Ramyad Hadidi_, Jiashen Cao, Michael S. Ryoo, Hyesoon Kim  
-    <sup>
-    [__[arXiv]__](https://arxiv.org/abs/2011.07092)
-    </sup>  
-
-  * __LCP: A Low-Communication Parallelization Method for Fast Neural Network Inference in Image Recognition__  
-    _Ramyad Hadidi_, Bahar Asgari, Jiashen Cao, Younmin Bae, Da Eun Shim, Hyojong Kim, Sung-Kyu Lim, Michael S. Ryoo, Hyesoon Kim  
-    <sup>
-    [__[arXiv]__](https://arxiv.org/abs/2003.06464)
-    </sup>  
-
-  * __Secure Location-Aware Authentication and Communication for Intelligent Transportation Systems__  
-    Nima Shoghi Ghalehshahi, _Ramyad Hadidi_, Lee Jaewon, Jun Chen, Arthur Siqueria, Rahul Rajan,
-    Shaan Dhawan, Pooya Shoghi Ghalehshahi, Hyesoon Kim  
-    <sup>
-    [__[arXiv]__](https://arxiv.org/abs/2011.08936)  
-    </sup>  
-
-  * __Creating Robust Deep Neural Networks With Coded Distributed Computing for IoT Systems__  
-    _Ramyad Hadidi_, Jiashen Cao, Hyesoon Kim  
-    <sup>
-    [__[arXiv]__](https://arxiv.org/abs/2104.04447)
-    </sup>  
-
-<!-- --------------------------------------- -->
-<!-- --------------------------------------- -->
-<!-- --------------------------------------- -->
-
-> “It is one thing to stand on the comfortable ground of placid inaction and put forth words of cynical wisdom,
-> and another to plunge into the work itself and through strenuous experience earn the right to express strong conclusions.” ― John D. Rockefeller`
+<!-- > “It is one thing to stand on the comfortable ground of placid inaction and put forth words of cynical wisdom,
+> and another to plunge into the work itself and through strenuous experience earn the right to express strong conclusions.” ― John D. Rockefeller` -->
