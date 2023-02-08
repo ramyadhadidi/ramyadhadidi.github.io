@@ -13,7 +13,7 @@ author_profile: true
 
   * __FiGO: Fine-Grained Query Optimization in Video Analytics__  
     Jiashen Cao, Karan Sarkar, _Ramyad Hadidi_, Joy Arulraj, Hyesoon Kim  
-    SIGMOD'22
+    [SIGMOD'22](https://dl.acm.org/doi/10.1145/3514221.3517857)
 
   * __DynaaDCP: Dynamic Navigation of Autonomous Agents for Distributed Capture Processing__  
     Sam Jijina, _Ramyad Hadidi_, Jun Chen, Zhen Jiang, Ashutosh Dhekne, Hyesoon Kim  
