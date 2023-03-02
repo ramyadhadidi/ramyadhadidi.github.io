@@ -24,8 +24,11 @@ author_profile: true
 
 
 ### Experience
-  * __Machine Learning Researcher__, Advanced System Technology Team  
-    [SK hynix](https://www.skhynix.com/) |  Feb. 21 – Present
+  * __Applied Machine Learning Researcher__  
+    [Rain](https://rain.ai/) |  Mar. 23 – Present
+
+  * __Machine Learning Researcher__, Advanced Systems Technology Team  
+    [SK hynix](https://www.skhynix.com/) |  Feb. 21 – Feb. 23
 
   * __Research Assistant__, [HPArch](http://hparch.gatech.edu/)  
     Georgia Tech |  Feb. 15 – Aug. 21

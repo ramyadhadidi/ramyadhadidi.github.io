@@ -8,7 +8,7 @@ redirect_from:
 ---
 ### About Me
 
-I am a machine learning researcher at [SK hynix](http://www.skhynix.com/). I work at the intersection of hardware, software, and edge devices, in all of which focusing on the efficient execution of deep learning algorithms.
+I am an applied machine learning researcher at [Rain](https://rain.ai/) which enables robust, low-power training in addition to highly performant inference at the edge. I integrate and demonstrate Rain technology in a range of compelling applications.
 
 <!-- ### Talks
 &nbsp;&nbsp;&nbsp; __\[February\]__ [USC](https://viterbi.usc.edu/calendar/?event=102812#user_options)  
@@ -16,11 +16,13 @@ I am a machine learning researcher at [SK hynix](http://www.skhynix.com/). I wor
 
 ### More About Me!
 
-I got my Ph.D. in computer science from the Georgia Institute of Technology in 2021. I had the pleasure to work with Professor [Hyesoon Kim](https://www.cc.gatech.edu/~hyesoon/) at [HPArch](http://hparch.gatech.edu) lab. My area of research falls within computer architecture but I usually outreach to new areas. Specifically, I worked on processing in/near memory, edge devices, robotics, and deep learning. My [thesis](http://hdl.handle.net/1853/64765) focused on enabling edge and IoT devices (i.e., resource-constrained devices, robots, drones) to execute deep neural networks (DNNs) collaboratively, efficiently, securely, and reliably.  
+Before Rain, I was a machine learning researcher at [SK hynix](http://www.skhynix.com/). I worked at the intersection of hardware, software, and CMOS image sensors (CIS), focusing on the efficient execution of cutting-edge computer vision workloads. Later, at SK hynix, I worked on the implementation of novel algorithms in computational solid-state drives (SSD).
 
-I received my bachelor's degree from the Sharif University of Technology in electrical engineering, and my master's degree from Georgia Tech in computer science. I spend most of my time in high school on astronomy, and ended up with couple of medals in national and international olympiads (two silvers and one gold). From astronomy to electronics and then computer science is a long road, but that is a story for another day.  
+I got my Ph.D. in computer science from the Georgia Institute of Technology in 2021. I had the pleasure to work with Professor [Hyesoon Kim](https://www.cc.gatech.edu/~hyesoon/) at [HPArch](http://hparch.gatech.edu) lab. My area of research falls within computer architecture, but I usually reach out to new areas. Specifically, I worked on processing in and near memory, edge devices, robotics, and deep learning. My [thesis](http://hdl.handle.net/1853/64765) focused on enabling edge and IoT devices (i.e., resource-constrained devices, robots, and drones) to execute deep neural networks (DNNs) collaboratively, efficiently, securely, and reliably.
 
-I support Linux, open-source software, free Internet, and right to repair. I play all kinds of board and video games (mostly grand strategy games). I maintain my own car. I crave to play post-rock someday. I enjoy spending my time in nature. I play squash, tennis, ping pong, soccer, do rock climbing (bouldering specifically), cycling, skiing, and backpacking.
+I received my bachelor's degree from the Sharif University of Technology in electrical engineering and my master's degree from Georgia Tech in computer science. I spent most of my time in high school on astronomy and ended up with a couple of medals in national and international olympiads (two silvers and one gold). From astronomy to electronics and then to computer science is a long road, but that is a story for another day.
+
+I support Linux, open-source software, free internet, and the right to repair. I play all kinds of board and video games (mostly grand strategy games). I maintain my own car. I crave to play post-rock someday. I enjoy spending my time in nature. I play squash, tennis, ping pong, soccer, do rock climbing (bouldering specifically), cycling, skiing, and backpacking.
 
 
 <!-- ## News
