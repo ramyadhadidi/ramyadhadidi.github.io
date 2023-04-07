@@ -8,7 +8,7 @@ redirect_from:
 ---
 ### About Me
 
-I am an applied machine learning researcher at [Rain](https://rain.ai/) which enables robust, low-power training in addition to highly performant inference at the edge. I integrate and demonstrate Rain technology in a range of compelling applications.
+I am an applied machine learning researcher at [Rain](https://rain.ai/), a company that specializes in enabling robust, low-power training, as well as highly performant inference at the edge, with similar capabilities to artificial brains.
 
 <!-- ### Talks
 &nbsp;&nbsp;&nbsp; __\[February\]__ [USC](https://viterbi.usc.edu/calendar/?event=102812#user_options)  
@@ -16,13 +16,13 @@ I am an applied machine learning researcher at [Rain](https://rain.ai/) which en
 
 ### More About Me!
 
-Before Rain, I was a machine learning researcher at [SK hynix](http://www.skhynix.com/). I worked at the intersection of hardware, software, and CMOS image sensors (CIS), focusing on the efficient execution of cutting-edge computer vision workloads. Later, at SK hynix, I worked on the implementation of novel algorithms in computational solid-state drives (SSD).
+Before Rain, I worked as a machine learning researcher at [SK hynix](http://www.skhynix.com/), where I focused on the intersection of hardware, software, and CMOS image sensors (CIS) to enable efficient execution of cutting-edge computer vision workloads. Later, at SK hynix, I worked on the implementation of novel algorithms in computational solid-state drives (SSD).
 
-I got my Ph.D. in computer science from the Georgia Institute of Technology in 2021. I had the pleasure to work with Professor [Hyesoon Kim](https://www.cc.gatech.edu/~hyesoon/) at [HPArch](http://hparch.gatech.edu) lab. My area of research falls within computer architecture, but I usually reach out to new areas. Specifically, I worked on processing in and near memory, edge devices, robotics, and deep learning. My [thesis](http://hdl.handle.net/1853/64765) focused on enabling edge and IoT devices (i.e., resource-constrained devices, robots, and drones) to execute deep neural networks (DNNs) collaboratively, efficiently, securely, and reliably.
+I got my Ph.D. in computer science from the Georgia Institute of Technology in 2021. I had the pleasure to work with Professor [Hyesoon Kim](https://www.cc.gatech.edu/~hyesoon/) at [HPArch](http://hparch.gatech.edu) lab. My research interests lie within computer architecture, but I am always eager to explore new areas. Specifically, I have worked on processing in and near memory, edge devices, robotics, and deep learning. My [thesis](http://hdl.handle.net/1853/64765) focused on enabling edge and IoT devices (i.e., resource-constrained devices, robots, and drones) to execute deep neural networks (DNNs) collaboratively, efficiently, securely, and reliably. I am excited to continue this work in industry and explore new ways of pushing the boundaries of edge systems.
 
-I received my bachelor's degree from the Sharif University of Technology in electrical engineering and my master's degree from Georgia Tech in computer science. I spent most of my time in high school on astronomy and ended up with a couple of medals in national and international olympiads (two silvers and one gold). From astronomy to electronics and then to computer science is a long road, but that is a story for another day.
+I received my bachelor's degree in electrical engineering from the [Sharif University of Technology](https://en.wikipedia.org/wiki/Sharif_University_of_Technology), and my master's degree in computer science from Georgia Tech. During my high school years, I dedicated most of my time to astronomy and earned several medals in national and international olympiads ([IOAA](https://en.wikipedia.org/wiki/International_Olympiad_on_Astronomy_and_Astrophysics)), including two silvers and one gold. Although my journey from astronomy to electronics and then to computer science has been long, that's a story for another day.
 
-I support Linux, open-source software, free internet, and the right to repair. I play all kinds of board and video games (mostly grand strategy games). I maintain my own car. I crave to play post-rock someday. I enjoy spending my time in nature. I play squash, tennis, ping pong, soccer, do rock climbing (bouldering specifically), cycling, skiing, and backpacking.
+I support Linux, open-source software, free internet, and the right to repair. I play all kinds of board and video games, particularly grand strategy games from Paradox Interactive. I maintain my own car. I crave to play post-rock someday. I enjoy spending my time in nature. I play squash, tennis, ping pong, soccer, do rock climbing (bouldering specifically), cycling, skiing, and backpacking.
 
 
 <!-- ## News
