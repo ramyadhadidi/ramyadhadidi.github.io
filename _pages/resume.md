@@ -48,8 +48,8 @@ author_profile: true
 
 ### Honors
   * DAC’20 Young Fellow Participant & Research Video Awardee (Aug. 20)
-  * Ranked 3rd, Sharif University - B.Sc. in Electrical Engineering  (Sept. 9 -- Aug. 14)
-  * Silver Medal Winner of 3rd IOAA (International Olympiad on Astrophysics) (Oct. 9)
+  * Ranked 3rd, [Sharif University](https://en.wikipedia.org/wiki/Sharif_University_of_Technology) - B.Sc. in Electrical Engineering  (Sept. 9 -- Aug. 14)
+  * Silver Medal Winner of 3rd [IOAA](https://en.wikipedia.org/wiki/International_Olympiad_on_Astronomy_and_Astrophysics) (International Olympiad on Astrophysics) (Oct. 9)
   * Gold Medal Winner in National Astrophysics Olympiad, Iran (Aug. 8)
   * Silver Medal Winner in National Astrophysics Olympiad, Iran (Aug. 7)
   * National Physics Olympiad Finalist, Iran (Feb. 8)
@@ -60,7 +60,7 @@ author_profile: true
   * [Joy Arulraj](https://www.cc.gatech.edu/~jarulraj/) - Professor, Georgia Tech
   * [Saibal Mukhopadhyay](https://www.ece.gatech.edu/faculty-staff-directory/saibal-mukhopadhyay) - Professor Emeritus, Georgia Tech
   * [Sudhakar Yalamanchili](https://sudha-curr.ece.gatech.edu/) - Professor
-  * [Bahar Asgari](https://baharasg.github.io/) - Professor, University of Maryland
+  * [Bahar Asgari](https://www.cs.umd.edu/~bahar/) - Professor, University of Maryland
   * [Jeffrey Young](https://www.cc.gatech.edu/~jyoung9/) - Research Scientist
   * [Jiashen Cao](https://jiashenc.github.io/) - PhD Student
   * [Hyojong Kim](https://hyojongk.github.io/) - VMWare
