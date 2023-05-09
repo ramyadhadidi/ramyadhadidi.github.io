@@ -4,6 +4,32 @@ title: "Publications"
 author_profile: true
 ---
 
+<!-- --------------------------------------- -->
+<!-- --------------------------------------- -->
+<!-- --------------------------------------- -->
+
+##  2023
+
+  * __Reducing Inference Latency with Concurrent Architectures for Image Recognition at Edge__  
+      _Ramyad Hadidi_, Jiashen Cao, Michael S. Ryoo, Hyesoon Kim  
+      [IEEE Edge'23](https://conferences.computer.org/edge/2023/)  
+      <sup>
+      Accepted Full Paper (17%)
+      <sup>  
+
+  * __Creating Robust Deep Neural Networks With Coded Distributed Computing for IoT__  
+      _Ramyad Hadidi_, Jiashen Cao, Bahar Asgari, Hyesoon Kim  
+      [IEEE Edge'23](https://conferences.computer.org/edge/2023/)  
+      <sup>
+      Accepted Short Paper
+      <sup>  
+
+  * __Context-Aware Task Handling in Resource-Constrained Robots with Virtualization__  
+      _Ramyad Hadidi_, Nima Shoghi Ghalehshahi, Bahar Asgari, Hyesoon Kim  
+      [IEEE Edge'23](https://conferences.computer.org/edge/2023/)  
+      <sup>
+      Accepted Short Paper
+      <sup>  
 
 <!-- --------------------------------------- -->
 <!-- --------------------------------------- -->
