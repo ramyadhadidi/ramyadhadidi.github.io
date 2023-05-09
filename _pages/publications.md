@@ -39,7 +39,7 @@ author_profile: true
 
   * __FiGO: Fine-Grained Query Optimization in Video Analytics__  
     Jiashen Cao, Karan Sarkar, _Ramyad Hadidi_, Joy Arulraj, Hyesoon Kim  
-    [SIGMOD'22](https://2022.sigmod.org/)
+    [SIGMOD'22](https://2022.sigmod.org/)  
     <sup>
     [__[Paper]__](https://ramyadhadidi.github.io/files/cao-sigmod22.pdf)
     [__[ACM Version]__](https://dl.acm.org/doi/10.1145/3514221.3517857)
