@@ -80,16 +80,7 @@ author_profile: true
 
   * __Context-Aware Task Handling in Resource-Constrained Robots with Virtualization__  
     _Ramyad Hadidi_, Nima Shoghi, Bahar Asgari, Hyesoon Kim  
-    DAC'21<sup>WiP</sup>  
-    <sup>
-    [__[Paper]__](https://arxiv.org/abs/2104.04563)
-    <sup>  
-
-  * __Creating Robust Deep Neural Networks With Coded Distributed Computing for IoT Systems__  
-    _Ramyad Hadidi_, Jiashen Cao, Hyesoon Kim  
-    <sup>
-    [__[arXiv]__](https://arxiv.org/abs/2104.04447)
-    </sup>  
+    DAC'21<sup>LBR</sup>  
 
   * __FAFNIR: Accelerating Sparse Gathering by Using Efficient Near-Memory Intelligent Reduction__  
     Bahar Asgari, _Ramyad Hadidi_, Jiashen Cao, Da Eun Shim, Sung-Kyu Lim, Hyesoon Kim  
@@ -132,12 +123,6 @@ author_profile: true
     _Ramyad Hadidi_, Bahar Asgari, Jiashen Cao, Younmin Bae, Da Eun Shim, Hyojong Kim, Sung-Kyu Lim, Michael S. Ryoo, Hyesoon Kim  
     <sup>
     [__[arXiv]__](https://arxiv.org/abs/2003.06464)
-    </sup>  
-
-  * __Reducing Inference Latency with Concurrent Architectures for Image Recognition__  
-    _Ramyad Hadidi_, Jiashen Cao, Michael S. Ryoo, Hyesoon Kim  
-    <sup>
-    [__[arXiv]__](https://arxiv.org/abs/2011.07092)
     </sup>  
 
   * __ALRESCHA: A Lightweight Reconfigurable Sparse-Computation Accelerator__  
