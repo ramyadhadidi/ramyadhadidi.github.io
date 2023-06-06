@@ -15,6 +15,7 @@ author_profile: true
       [ICOMP'21](https://american-cse.org/csce2023/conferences-ICOMP)  
       <sup>
       Regular Research Paper (19% Acceptance Rate)
+      <!-- [__[arXiv]__](https://arxiv.org/abs/2003.06464) -->
       <sup>  
 
   * __Reducing Inference Latency with Concurrent Architectures for Image Recognition at Edge__  
@@ -124,12 +125,6 @@ author_profile: true
     [__[Paper]__](https://ieeexplore.ieee.org/document/8985265/)
     [__[Author's Copy]__](https://ramyadhadidi.github.io/files/hadidi_JIOT.pdf)
     [__[arXiv]__](https://arxiv.org/abs/1901.02537)
-    </sup>  
-
-  * __LCP: A Low-Communication Parallelization Method for Fast Neural Network Inference in Image Recognition__  
-    _Ramyad Hadidi_, Bahar Asgari, Jiashen Cao, Younmin Bae, Da Eun Shim, Hyojong Kim, Sung-Kyu Lim, Michael S. Ryoo, Hyesoon Kim  
-    <sup>
-    [__[arXiv]__](https://arxiv.org/abs/2003.06464)
     </sup>  
 
   * __ALRESCHA: A Lightweight Reconfigurable Sparse-Computation Accelerator__  
