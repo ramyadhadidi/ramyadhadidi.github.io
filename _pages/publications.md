@@ -10,11 +10,18 @@ author_profile: true
 
 ##  2023
 
+  * __LCP: A Low-Communication Parallelization Method for Fast Neural Network Inference for IoT__  
+      _Ramyad Hadidi_, Jiashen Cao, Younmin Bae, Da Eun Shim, Hyojong Kim, Bahar Asgari, Sung-Kyu Lim, Michael S. Ryoo, Hyesoon Kim  
+      [ICOMP'21](https://american-cse.org/csce2023/conferences-ICOMP)  
+      <sup>
+      Regular Research Paper (19% Acceptance Rate)
+      <sup>  
+
   * __Reducing Inference Latency with Concurrent Architectures for Image Recognition at Edge__  
       _Ramyad Hadidi_, Jiashen Cao, Michael S. Ryoo, Hyesoon Kim  
       [IEEE Edge'23](https://conferences.computer.org/edge/2023/)  
       <sup>
-      Accepted Full Paper (17%)
+      Full Paper (17% Acceptance Rate)
       <sup>  
 
   * __Creating Robust Deep Neural Networks With Coded Distributed Computing for IoT__  
