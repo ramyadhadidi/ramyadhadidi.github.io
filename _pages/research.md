@@ -12,6 +12,9 @@ Within computer science, my research gravitates towards handling data in edge sy
 <sup>
 
 ## Invited Talks
+  * [__University of Illinois Urbana-Champaign__](https://cs.illinois.edu/), Department of Computer Science  
+    "Harnessing the Power of Edge Systems in a Data-Driven World," Urbana, IL, May 2023
+
   * [__Johns Hopkins University__](https://engineering.jhu.edu/ece/), Whiting School of Engineering  
     "Dealing with Data Deluge in Edge Systems," Baltimore, MD, Mar. 2022
 
