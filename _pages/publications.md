@@ -23,8 +23,8 @@ author_profile: true
       [IEEE Edge'23](https://conferences.computer.org/edge/2023/)  
       <sup>
       [__[Paper]__](https://ramyadhadidi.github.io/files/hadidi-Edge-2023-ConcurrentNNs.pdf)
-      [__[Slides]__](https://ramyadhadidi.github.io/files/hadidi-Edge-2023-ConcurrentNNs-slides.pdf)    
-      Full Paper (17% Acceptance Rate)
+      [__[Slides]__](https://ramyadhadidi.github.io/files/hadidi-Edge-2023-ConcurrentNNs-slides.pdf)
+      [17% Acceptance Rate]
       <sup>  
 
   * __Creating Robust Deep Neural Networks With Coded Distributed Computing for IoT__  
@@ -33,7 +33,6 @@ author_profile: true
       <sup>
       [__[Paper]__](https://ramyadhadidi.github.io/files/hadidi-Edge-2023-RobustNN-With-CDC.pdf)
       [__[Slides]__](https://ramyadhadidi.github.io/files/hadidi-Edge-2023-RobustNN-With-CDC-slides.pdf)  
-      Short Paper
       <sup>  
 
   * __Context-Aware Task Handling in Resource-Constrained Robots with Virtualization__  
@@ -43,7 +42,6 @@ author_profile: true
       [__[Paper]__](https://ramyadhadidi.github.io/files/hadidi-Edge-2023-Context-Aware-Robots.pdf)
       [__[Slides]__](https://ramyadhadidi.github.io/files/hadidi-Edge-2023-Context-Aware-Robots-slides.pdf)
       [__[Demo]__](https://ramyadhadidi.github.io/files/hadidi-Edge-2023-Context-Aware-Drone-Example-Video.mp4)  
-      Short Paper
       <sup>  
 
 <!-- --------------------------------------- -->
