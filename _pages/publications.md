@@ -22,6 +22,9 @@ author_profile: true
       _Ramyad Hadidi_, Jiashen Cao, Michael S. Ryoo, Hyesoon Kim  
       [IEEE Edge'23](https://conferences.computer.org/edge/2023/)  
       <sup>
+      [__[Paper]__](https://ramyadhadidi.github.io/files/hadidi-Edge-2023-ConcurrentNNs)
+      <sup>  
+      <sup>
       Full Paper (17% Acceptance Rate)
       <sup>  
 
@@ -29,14 +32,20 @@ author_profile: true
       _Ramyad Hadidi_, Jiashen Cao, Bahar Asgari, Hyesoon Kim  
       [IEEE Edge'23](https://conferences.computer.org/edge/2023/)  
       <sup>
-      Accepted Short Paper
+      [__[Paper]__](https://ramyadhadidi.github.io/files/hadidi-Edge-2023-RobustNN-With-CDC.pdf)
+      <sup>  
+      <sup>
+      Short Paper
       <sup>  
 
   * __Context-Aware Task Handling in Resource-Constrained Robots with Virtualization__  
       _Ramyad Hadidi_, Nima Shoghi Ghalehshahi, Bahar Asgari, Hyesoon Kim  
       [IEEE Edge'23](https://conferences.computer.org/edge/2023/)  
       <sup>
-      Accepted Short Paper
+      [__[Paper]__](https://ramyadhadidi.github.io/files/hadidi-Edge-2023-Context-Aware-Robots.pdf)
+      <sup>  
+      <sup>
+      Short Paper
       <sup>  
 
 <!-- --------------------------------------- -->
