@@ -12,4 +12,4 @@ With a breadth of knowledge spanning a multitude of related domains, I thrive on
 
 Currently, I am shaping the future of edge computing at [Rain](https://rain.ai/), a company that harnesses low-power, robust training, and high-performing inference capabilities akin to artificial brains.
 
-You can read more about me [here](/more_about_me/).
+You can read more about me [here]({% link _pages/more_about_me.md %}).
