@@ -1,9 +1,9 @@
 ---
-permalink: /resume/
-title: "Ramyad's Resume"
+permalink: /cv/
+title: "Ramyad's CV"
 author_profile: true
 ---
-
+<sub>My single-page CV<sub>
 
 ### Education
 * __Georgia Institute of Technology__  

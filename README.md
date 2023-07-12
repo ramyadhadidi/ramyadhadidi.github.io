@@ -1,5 +1,7 @@
 ## My Guide
 
+Feel free to use this modified template!
+
 - Font: _sass/_reset.scss
 - Font loading: assets/css/academicons.css
 - Colors and variable: assets/css/main.scss
