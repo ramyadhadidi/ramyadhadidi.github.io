@@ -1,7 +1,6 @@
 ---
 permalink: /more_about_me
 title: "More About Me"
-author_profile: true
 ---
 
 ### More About Me!

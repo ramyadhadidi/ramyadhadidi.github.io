@@ -1,7 +1,8 @@
 ---
 permalink: /cv/
 title: "Ramyad's CV"
-author_profile: true
+redirect_from:
+  - /resume
 ---
 <sub>My single-page CV<sub>
 
