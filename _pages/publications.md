@@ -13,8 +13,9 @@ title: "Publications"
       _Ramyad Hadidi_, Jiashen Cao, Younmin Bae, Da Eun Shim, Hyojong Kim, Bahar Asgari, Sung-Kyu Lim, Michael S. Ryoo, Hyesoon Kim  
       [CSCE'23](https://american-cse.org/csce2023/conferences-ICOMP)  
       <sup>
-      Regular Research Paper (19% Acceptance Rate)
-      <!-- [__[arXiv]__](https://arxiv.org/abs/2003.06464) -->
+      [__[Paper]__](https://ramyadhadidi.github.io/files/hadidi_csce_icomp23_lcp.pdf)
+      [__[arXiv]__](https://arxiv.org/abs/2003.06464)
+      [19% Acceptance Rate]
       <sup>  
 
   * __Reducing Inference Latency with Concurrent Architectures for Image Recognition at Edge__  
