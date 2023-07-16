@@ -206,9 +206,9 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _writings
+  # _entries
   - scope:
-      path: "writings"
+      path: "entries"
       type: pages
     values:
       layout: single

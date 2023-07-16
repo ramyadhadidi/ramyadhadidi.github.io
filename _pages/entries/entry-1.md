@@ -1,7 +1,7 @@
 ---
 title: 'Blog Post number 1'
 date: 2023-07-13
-permalink: /writings/writing-1/
+permalink: /entries/entry-1/
 author_profile: false
 ---
 

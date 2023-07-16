@@ -12,12 +12,12 @@ With a breadth of knowledge spanning a multitude of related domains, I thrive on
 Currently, I am shaping the future of edge computing at [Rain](https://rain.ai/), a company that harnesses low-power, robust training, and high-performing inference capabilities akin to artificial brains. [[...more]]({% link _pages/more_about_me.md %})
 
 
-<!-- ### [Writings]({% link _pages/writings.md %})
+<!-- ### [Entries]({% link _pages/entries.md %})
 
 <ul id="recent-posts" style="list-style-type: none; padding-left: 0">
 {% assign sorted_pages = site.pages | sort: 'date' | reverse %}
 {% for page in sorted_pages limit:3 %}
-    {% if page.path contains 'writings' and page.name != 'writings.md' %}
+    {% if page.path contains 'entries' and page.name != 'entries.md' %}
     <li>
       <span style="color: gray;">{{ page.date | date: "%m.%Y" }}</span> - <a href="{{ page.url | relative_url }}">{{ page.title }}</a>
     </li>
