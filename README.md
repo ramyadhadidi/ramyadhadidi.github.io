@@ -4,7 +4,7 @@ Feel free to use this modified template!
 
 - Font: _sass/_reset.scss
 - Font loading: assets/css/academicons.css
-- Colors and variable: assets/css/main.scss
+- Colors and variable: assets/css/main.scss + _sass/_variables.scss
 - Icons:
     - Icons Drawing: assets/fonts/fontawesome-webfont.svg
     - Icon CSS: _sass/vendor/font-awesome/_icons.scss

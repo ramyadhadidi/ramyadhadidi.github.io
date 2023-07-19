@@ -6,5 +6,5 @@ main:
   - title: "Academia"
     url: /academia/
 
-  # - title: "Entries"
-  #   url: /entries/
+  - title: "Entries"
+    url: /entries/
