@@ -14,7 +14,6 @@ title: "Publications"
       [CSCE'23](https://american-cse.org/csce2023/conferences-ICOMP)  
       <sup>
       [__[Paper]__](https://ramyadhadidi.github.io/files/hadidi_csce_icomp23_lcp.pdf)
-      [__[arXiv]__](https://arxiv.org/abs/2003.06464)
       [19% Acceptance Rate]
       <sup>  
 
