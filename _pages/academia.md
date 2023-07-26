@@ -88,26 +88,41 @@ I enjoyed working closely with our talented undergraduate students during my PhD
 
 # Service {#service}
 
-| Organization & Program Committee | Reviewer                              |
-|---------------------------------|--------------------------------------|
-| [HPCA 2024](https://hpca-conf.org/2024/), Program Committee | IEEE Transactions on Services Computing |
-| [ISCA 2023](https://iscaconf.org/isca2023/), Program Committee | IEEE IoT Journal |
-| [MICRO 2022](https://microarch.org/micro55/index.php), Artifact Evaluation | IEEE/ACM Transactions on Networking |
-| [ISCA 2022](https://iscaconf.org/isca2022/), External Review Committee | IEEE Transactions on Vehicular Technology |
-| [ASPLOS 2022](https://asplos-conference.org/asplos2022/index.html), External Review Committee | IEEE Journal on Emerging and Selected Topics in Circuits and Systems |
-| Georgia Tech ArchiTECH 2016, Organization Committee | IEEE Access |
-|                                   | IEEE Micro                           |
-|                                   | ACM Transactions on Architecture and Code Optimization (TACO) |
+| Organization & Program Committee |
+|----------------------------------|
+| [HPCA 2024](https://hpca-conf.org/2024/), Program Committee |
+| [ISCA 2023](https://iscaconf.org/isca2023/), Program Committee |
+| [MICRO 2022](https://microarch.org/micro55/index.php), Artifact Evaluation |
+| [ISCA 2022](https://iscaconf.org/isca2022/), External Review Committee |
+| [ASPLOS 2022](https://asplos-conference.org/asplos2022/index.html), External Review Committee |
+| Georgia Tech ArchiTECH 2016, Organization Committee |
 
-| Submission Co-Chair | Judge |
-|---------------------|-------|
-| [MICRO Top Picks 2020](https://ieeexplore.ieee.org/document/9441012) | Honeywell STEM Challenge at Georgia Tech, 2019 & 2020 |
-| [MICRO 2018](https://microarch.org/micro51/)| Georgia Tech President’s Undergraduate Research Awards [(PURA)](https://undergradresearch.gatech.edu/content/presidents-undergraduate-research-awards), 2016, 2017, 2018, 2019 & 2020 |
+| Reviewer |
+|----------|
+| IEEE Transactions on Services Computing |
+| IEEE IoT Journal |
+| IEEE/ACM Transactions on Networking |
+| IEEE Transactions on Vehicular Technology |
+| IEEE Journal on Emerging and Selected Topics in Circuits and Systems |
+| IEEE Access |
+| IEEE Micro |
+| ACM Transactions on Architecture and Code Optimization (TACO) |
+
+| Submission Co-Chair |
+|---------------------|
+| [MICRO Top Picks 2020](https://ieeexplore.ieee.org/document/9441012) |
+| [MICRO 2018](https://microarch.org/micro51/) |
+
+| Judge |
+|-------|
+| Honeywell STEM Challenge at Georgia Tech, 2019 & 2020 |
+| Georgia Tech President’s Undergraduate Research Awards [(PURA)](https://undergradresearch.gatech.edu/content/presidents-undergraduate-research-awards), 2016, 2017, 2018, 2019 & 2020 |
 
 | Community |
 |-----------|
 | Student Volunteer for PACT’20 (IEEE/ACM), 2020 |
 | Student Chaperone for PhD Visit Days (Georgia Tech), 2015 |
+
 
 
 <!-- --------------------------------------- -->
