@@ -13,7 +13,8 @@ title: "Publications"
       _Ramyad Hadidi_, Bahar Asgari, Jiashen Cao, Younmin Bae, Da Eun Shim, Hyojong Kim, Sung-Kyu Lim, Michael S. Ryoo, Hyesoon Kim  
       [CSCE'23](https://american-cse.org/csce2023/conferences-ICOMP)  
       <sup>
-      [__[Paper]__](https://ramyadhadidi.github.io/files/hadidi_csce_icomp23_lcp.pdf)
+      [__[Paper]__](https://ramyadhadidi.github.io/files/hadidi-csce23-LCP.pdf)
+      [__[Slides]__](https://ramyadhadidi.github.io/files/hadidi-csce23-LCP-slides.pdf)
       [19% Acceptance Rate]
       <sup>  
 
