@@ -16,7 +16,7 @@ Currently, I am shaping the future of edge computing at [Rain](https://rain.ai/)
 
 <ul id="recent-posts" style="list-style-type: none; padding-left: 0">
 {% assign sorted_pages = site.pages | sort: 'date' | reverse %}
-{% for page in sorted_pages limit:3 %}
+{% for page in sorted_pages limit:5 %}
     {% if page.path contains 'entries' and page.name != 'entries.md' %}
     <li>
       <span style="color: gray;">{{ page.date | date: "%m.%Y" }}</span> - <a href="{{ page.url | relative_url }}">{{ page.title }}</a>
