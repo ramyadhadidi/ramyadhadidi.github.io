@@ -11,7 +11,7 @@ title: "Publications"
 
   * __LCP: A Low-Communication Parallelization Method for Fast Neural Network Inference for IoT__  
       _Ramyad Hadidi_, Bahar Asgari, Jiashen Cao, Younmin Bae, Da Eun Shim, Hyojong Kim, Sung-Kyu Lim, Michael S. Ryoo, Hyesoon Kim  
-      [CSCE'23](https://american-cse.org/csce2023/conferences-ICOMP)  
+      [CSCE'23](https://american-cse.org/csce2023/)  
       <sup>
       [__[Paper]__](https://ramyadhadidi.github.io/files/hadidi-csce23-LCP.pdf)
       [__[Slides]__](https://ramyadhadidi.github.io/files/hadidi-csce23-LCP-slides.pdf)
