@@ -34,7 +34,7 @@ During my PhD studies, my research primarily focused on the field of computer sc
 # Invited Talks {#invited-talks}
 
   *  [__DARPA ERI 2.0 Summit__](https://eri-summit.darpa.mil/), Novel Architectures for Neuro-Symbolic Computation Workshop,  
-    "Towards Intelligent Edge Devices," Seattle, WA, Aug 2024
+    "Towards Intelligent Edge Devices," Seattle, WA, Aug 2023
   * [__University of Illinois Urbana-Champaign__](https://cs.illinois.edu/), Department of Computer Science,  
     "Harnessing the Power of Edge Systems in a Data-Driven World," Urbana, IL, May 2023
   * [__Johns Hopkins University__](https://engineering.jhu.edu/ece/), Whiting School of Engineering,  
