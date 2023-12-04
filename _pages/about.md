@@ -7,9 +7,7 @@ redirect_from:
 ---
 ### About Me
 
-With a breadth of knowledge spanning a multitude of related domains, I thrive on understanding the big picture and deconstruct complex systems. My approach involves intricately weaving the threads of distinct fields to build comprehensive and innovative solutions.
-
-Currently, I am shaping the future of edge computing at [Rain](https://rain.ai/), a company that harnesses low-power, robust training, and high-performing inference capabilities akin to artificial brains. [[...more]]({% link _pages/more_about_me.md %})
+I am passionate about unraveling and mastering the complexities of diverse domains. My approach is holistic, integrating various disciplines to craft innovative and comprehensive solutions. At [Rain](https://rain.ai/), I am at the forefront of edge computing, contributing to the development of artificial brain-like systems characterized by low-power usage, efficient training, and high-performance inference capabilities. Learn more about my journey [[...here]]({% link _pages/more_about_me.md %}) 
 
 
 ### [Entries]({% link _pages/entries.md %})

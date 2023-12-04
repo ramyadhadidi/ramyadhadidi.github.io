@@ -74,6 +74,7 @@ I enjoyed working closely with our talented undergraduate students during my PhD
 
 | Organization & Program Committee | Reviewer                              |
 |---------------------------------|--------------------------------------|
+| [DAC 2024](https://www.dac.com/Conference/2024-Call-for-Contributions), Program Committee | [Springer Journal of Supercomputing](https://www.springer.com/journal/11227) |
 | [HPCA 2024](https://hpca-conf.org/2024/), Program Committee | IEEE Transactions on Services Computing |
 | [ISCA 2023](https://iscaconf.org/isca2023/), Program Committee | IEEE IoT Journal |
 | [MICRO 2022](https://microarch.org/micro55/index.php), Artifact Evaluation | IEEE/ACM Transactions on Networking |
