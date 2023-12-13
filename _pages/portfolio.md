@@ -75,11 +75,11 @@ I enjoyed working closely with our talented undergraduate students during my PhD
 | Organization & Program Committee | Reviewer                              |
 |---------------------------------|--------------------------------------|
 | [DAC 2024](https://www.dac.com/Conference/2024-Call-for-Contributions), Program Committee | [Springer Journal of Supercomputing](https://www.springer.com/journal/11227) |
-| [HPCA 2024](https://hpca-conf.org/2024/), Program Committee | IEEE Transactions on Services Computing |
-| [ISCA 2023](https://iscaconf.org/isca2023/), Program Committee | IEEE IoT Journal |
-| [MICRO 2022](https://microarch.org/micro55/index.php), Artifact Evaluation | IEEE/ACM Transactions on Networking |
-| [ISCA 2022](https://iscaconf.org/isca2022/), External Review Committee | IEEE Transactions on Vehicular Technology |
-| [ASPLOS 2022](https://asplos-conference.org/asplos2022/index.html), External Review Committee | IEEE Journal on Emerging and Selected Topics in Circuits and Systems |
+| [HPCA 2024](https://hpca-conf.org/2024/), Program Committee | [IEEE Transactions on Services Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4629386) |
+| [ISCA 2023](https://iscaconf.org/isca2023/), Program Committee | [IEEE IoT Journal](https://ieee-iotj.org/) |
+| [MICRO 2022](https://microarch.org/micro55/index.php), Artifact Evaluation | [IEEE/ACM Transactions on Networking](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=90) |
+| [ISCA 2022](https://iscaconf.org/isca2022/), External Review Committee | [IEEE Transactions on Vehicular Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=25) |
+| [ASPLOS 2022](https://asplos-conference.org/asplos2022/index.html), External Review Committee | [IEEE Journal on Emerging and Selected Topics in Circuits and Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5503868) |
 | Georgia Tech ArchiTECH 2016, Organization Committee | IEEE Access |
 |                                   | IEEE Micro                           |
 |                                   | ACM Transactions on Architecture and Code Optimization (TACO) |
