@@ -34,17 +34,17 @@ redirect_from:
   * __Research Assistant__, [HPArch](http://hparch.gatech.edu/)  
     Georgia Tech |  Feb. 15 – Aug. 21
 
-  * __Instructor__, [CS4290](http://hparch.gatech.edu/courses/summer20/cs4290/)  
+  * __Instructor__, Advanced Computer Organization [CS4290](http://hparch.gatech.edu/courses/summer20/cs4290/)  
     Georgia Tech | May. 20 – Aug. 20
 
-  * __Instructor__, [CS4290](http://hparch.gatech.edu/courses/summer19/cs4290/)  
+  * __Instructor__, Advanced Computer Organization [CS4290](http://hparch.gatech.edu/courses/summer19/cs4290/)  
     Georgia Tech | May. 19 – Aug. 19
 
   * __SWE Intern__, [Video Understanding Team](https://research.google.com/youtube8m/people.html)  
     Google | May. 18 – Aug. 18
 
-  * Coordinator and Administrator, [Microlab](http://ee.sharif.edu/~microlab_t/MicroLab.html)  
-    Microprocessor Systems Lab, Sharif University of Technology | May 13 -- May 14
+  * Coordinator and Administrator, Microprocessor Systems Lab,  
+    Sharif University of Technology | May 13 -- May 14
 
 
 ### Honors
@@ -55,7 +55,7 @@ redirect_from:
   * Silver Medal Winner in National Astrophysics Olympiad, Iran (Aug. 7)
   * National Physics Olympiad Finalist, Iran (Feb. 8)
 
-### Collaborators
+<!-- ### Collaborators
   * [Tushar Krishna](https://tusharkrishna.ece.gatech.edu/) - Professor, Georgia Tech
   * [Michael S. Ryoo](http://michaelryoo.com/) - Professor, Stony Brook
   * [Joy Arulraj](https://www.cc.gatech.edu/~jarulraj/) - Professor, Georgia Tech
@@ -66,10 +66,8 @@ redirect_from:
   * [Jiashen Cao](https://jiashenc.github.io/) - PhD Student
   * [Hyojong Kim](https://hyojongk.github.io/) - VMWare
   * [Lifeng Nai](http://nailifeng.org/) - Google
-  * [Jaewoong Sim](https://jaewoong.org/) - Professor, Seoul National University
-
-
+  * [Jaewoong Sim](https://jaewoong.org/) - Professor, Seoul National University -->
 
 ### Mentoring & Teaching Experience
-  * Mentoring: [/undergraduate_research](http://hparch.gatech.edu/undergraduate_research/)
-  * Teaching: [/teaching](https://ramyadhadidi.github.io/teaching/)
+  * Mentoring: [/undergraduate_research](https://ramyadhadidi.github.io/portfolio/)
+  * Teaching: [/teaching](https://ramyadhadidi.github.io/portfolio/)
