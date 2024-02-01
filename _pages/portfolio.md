@@ -22,7 +22,7 @@ During my PhD studies, my research primarily focused on the field of computer sc
 ![Overview of my PhD Research](https://ramyadhadidi.github.io/files/overview-website.jpg)
 <sup>
 [__[Overview of my PhD Research]__](https://ramyadhadidi.github.io/files/overview-website.pdf)
-[Last updated Dec. 2022]
+[Last updated Jan. 2024]
 <sup>
 
 <!-- --------------------------------------- -->
