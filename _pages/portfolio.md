@@ -79,7 +79,7 @@ I enjoyed working closely with our talented undergraduate students during my PhD
 | [ISCA 2024](https://iscaconf.org/isca2024/), Industry Track Program Committee |[Springer Journal of Supercomputing](https://www.springer.com/journal/11227) |
 | [DAC 2024](https://www.dac.com/Conference/2024-Call-for-Contributions), Program Committee | [IEEE Transactions on Services Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4629386) |
 | [HPCA 2024](https://hpca-conf.org/2024/), Program Committee | [IEEE IoT Journal](https://ieee-iotj.org/) |
-|[DeLTA 2024](https://delta.scitevents.org/), Program Committee|[ACM Transactions on Architecture and Code Optimization (TACO)](https://dl.acm.org/journal/taco) |
+| [DeLTA 2024](https://delta.scitevents.org/), Program Committee |[ACM Transactions on Architecture and Code Optimization (TACO)](https://dl.acm.org/journal/taco) |
 | [ISCA 2023](https://iscaconf.org/isca2023/), Program Committee | [IEEE/ACM Transactions on Networking](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=90) |
 | [MICRO 2022](https://microarch.org/micro55/index.php), Artifact Evaluation | [IEEE Transactions on Vehicular Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=25) |
 | [ISCA 2022](https://iscaconf.org/isca2022/), External Review Committee | [IEEE Journal on Emerging and Selected Topics in Circuits and Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5503868)] |
