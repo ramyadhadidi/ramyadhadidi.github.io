@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: "Ramyad's Website"
-excerpt: ""
 redirect_from:
   - /about
 ---
