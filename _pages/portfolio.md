@@ -85,6 +85,9 @@ I enjoyed working closely with our talented undergraduate students during my PhD
 | [ISCA 2022](https://iscaconf.org/isca2022/), External Review Committee | [IEEE Journal on Emerging and Selected Topics in Circuits and Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5503868)] |
 | [ASPLOS 2022](https://asplos-conference.org/asplos2022/index.html), External Review Committee | [IEEE Access](https://ieeeaccess.ieee.org/) |
 | Georgia Tech ArchiTECH 2016, Organization Committee | [IEEE Micro](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=40) |
+| | [IEEE Transactions on Computers](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12) |
+| | [ACM Transactions on Architecture and Code Optimization](https://dl.acm.org/journal/taco) | 
+| | [ScienceDirect Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence) |
 
 | Submission Co-Chair | Judge |
 |---------------------|-------|
