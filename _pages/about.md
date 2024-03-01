@@ -16,7 +16,7 @@ Currently, at [Rain.ai](https://rain.ai/), I am at the forefront of edge computi
 {% assign sorted_pages = site.pages | sort: 'date' | reverse %}
 {% for page in sorted_pages limit:3 %}
     {% if page.path contains 'entries' and page.name != 'entries.md' %}
-      | <span style="color: gray;">{{ page.date | date: "%m.%Y" }}</span> - <a href="{{ page.url | relative_url }}">{{ page.title }} </a>
+      <li><span style="color: gray;">{{ page.date | date: "%m.%Y" }}</span> - <a href="{{ page.url | relative_url }}">{{ page.title }} </a></li>
     {% endif %}
 {% endfor %}
 </ul>
