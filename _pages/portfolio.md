@@ -76,16 +76,16 @@ I enjoyed working closely with our talented undergraduate students during my PhD
 
 | Organization & Program Committee | Reviewer                              |
 |---------------------------------|--------------------------------------|
-| [ISCA 2024](https://iscaconf.org/isca2024/), Industry Track Program Committee |[Springer Journal of Supercomputing](https://www.springer.com/journal/11227) |
-| [DAC 2024](https://www.dac.com/Conference/2024-Call-for-Contributions), Program Committee | [IEEE Transactions on Services Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4629386) |
-| [HPCA 2024](https://hpca-conf.org/2024/), Program Committee | [IEEE IoT Journal](https://ieee-iotj.org/) |
-| [DeLTA 2024](https://delta.scitevents.org/), Program Committee |[ACM Transactions on Architecture and Code Optimization](https://dl.acm.org/journal/taco) |
-| [ISCA 2023](https://iscaconf.org/isca2023/), Program Committee | [IEEE/ACM Transactions on Networking](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=90) |
-| [MICRO 2022](https://microarch.org/micro55/index.php), Artifact Evaluation | [IEEE Transactions on Vehicular Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=25) |
-| [ISCA 2022](https://iscaconf.org/isca2022/), External Review Committee | [IEEE Journal on Emerging and Selected Topics in Circuits and Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5503868)] |
-| [ASPLOS 2022](https://asplos-conference.org/asplos2022/index.html), External Review Committee | [IEEE Access](https://ieeeaccess.ieee.org/) |
-| Georgia Tech ArchiTECH 2016, Organization Committee | [IEEE Micro](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=40) |
-| | [IEEE Transactions on Computers](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12) |
+| [MICRO 2024](https://microarch.org/micro57/), External Review Committee |[Springer Journal of Supercomputing](https://www.springer.com/journal/11227) |
+| [ISCA 2024](https://iscaconf.org/isca2024/), Industry Track Program Committee | [IEEE Transactions on Services Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4629386) |
+| [DAC 2024](https://www.dac.com/Conference/2024-Call-for-Contributions), Program Committee | [IEEE IoT Journal](https://ieee-iotj.org/) |
+| [HPCA 2024](https://hpca-conf.org/2024/), Program Committee | [ACM Transactions on Architecture and Code Optimization](https://dl.acm.org/journal/taco) |
+| [DeLTA 2024](https://delta.scitevents.org/), Program Committee | [IEEE/ACM Transactions on Networking](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=90) |
+| [ISCA 2023](https://iscaconf.org/isca2023/), Program Committee  | [IEEE Transactions on Vehicular Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=25) |
+| [MICRO 2022](https://microarch.org/micro55/index.php), Artifact Evaluation | [IEEE Journal on Emerging and Selected Topics in Circuits and Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5503868)] |
+| [ISCA 2022](https://iscaconf.org/isca2022/), External Review Committee | [IEEE Access](https://ieeeaccess.ieee.org/) |
+| [ASPLOS 2022](https://asplos-conference.org/asplos2022/index.html), External Review Committee | [IEEE Micro](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=40) |
+| Georgia Tech ArchiTECH 2016, Organization Committee | [IEEE Transactions on Computers](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12) |
 | | [ScienceDirect Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence) |
 
 | Submission Co-Chair | Judge |
