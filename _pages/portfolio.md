@@ -95,6 +95,7 @@ I enjoyed working closely with our talented undergraduate students during my PhD
 
 | Community |
 |-----------|
+| Mentor Portfolio Project, AI4ALL, 2024 |
 | Student Volunteer for PACT’20 (IEEE/ACM), 2020 |
 | Student Chaperone for PhD Visit Days (Georgia Tech), 2015 |
 
