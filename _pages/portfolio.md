@@ -76,7 +76,7 @@ I enjoyed working closely with our talented undergraduate students during my PhD
 
 | Organization & Program Committee | Reviewer                              |
 |---------------------------------|--------------------------------------|
-| [MICRO 2024](https://microarch.org/micro57/), External Review Committee |[Springer Journal of Supercomputing](https://www.springer.com/journal/11227) |
+| [MICRO 2024](https://microarch.org/micro57/), External Review Committee | [Springer Journal of Supercomputing](https://www.springer.com/journal/11227) |
 | [ISCA 2024](https://iscaconf.org/isca2024/), Industry Track Program Committee | [IEEE Transactions on Services Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4629386) |
 | [DAC 2024](https://www.dac.com/Conference/2024-Call-for-Contributions), Program Committee | [IEEE IoT Journal](https://ieee-iotj.org/) |
 | [HPCA 2024](https://hpca-conf.org/2024/), Program Committee | [ACM Transactions on Architecture and Code Optimization](https://dl.acm.org/journal/taco) |
