@@ -48,7 +48,9 @@ redirect_from:
 
 
 ### Honors
+  * Best Paper Nominee, IISWC’21 (Nov. 21)
   * DAC’20 Young Fellow Participant & Research Video Awardee (Aug. 20)
+  * Best Paper Nominee, IISWC’19 (Nov. 18)
   * Ranked 3rd, [Sharif University](https://en.wikipedia.org/wiki/Sharif_University_of_Technology) - B.Sc. in Electrical Engineering  (Sept. 9 -- Aug. 14)
   * Silver Medal Winner of 3rd [IOAA](https://en.wikipedia.org/wiki/International_Olympiad_on_Astronomy_and_Astrophysics) (International Olympiad on Astrophysics) (Oct. 9)
   * Gold Medal Winner in National Astrophysics Olympiad, Iran (Aug. 8)
@@ -71,3 +73,33 @@ redirect_from:
 ### Mentoring & Teaching Experience
   * Mentoring: [/undergraduate_research](https://ramyadhadidi.github.io/portfolio/)
   * Teaching: [/teaching](https://ramyadhadidi.github.io/portfolio/)
+
+### Skills/Expertise
+<sub>While I believe the essence of a PhD is mastering the ability to learn rather than focusing on transient skills, here are my key competencies!<sub>
+
+**Core Expertise:**
+- Applied Machine Learning & Deep Neural Networks
+- Edge AI & Internet of Things (IoT) Solutions
+- Computer Architecture & Systems Design
+- Robotics, Drones & Autonomous Vehicles
+- Hardware/Software Co-Design for Machine Learning
+- In/Near Memory Compute Technologies
+- AI Hardware Development & Optimization
+- Distributed Computing & Parallelization Techniques
+- FPGA and ASIC Chip Design
+- High-Performance Computing (HPC) & GPUs
+- 3D-Stacked Architectures & Processing in Memory
+- Video Understanding & Image Recognition
+- Neural Network Inference & Training at the Edge
+- Data Science & Big Data Analytics
+- Patent Development & Intellectual Property Strategy
+- Public Speaking & Technical Communication
+- Hardware Profiling for Competitive Analysis, Market Fit, and Demos
+
+**Technical Skills:**
+- **Languages:** C, C++, Python, Bash, Verilog, TCL, MATLAB
+- **Frameworks:** PyTorch, TensorFlow, TensorRT, TensorFlow Lite, ONNX, Kera
+- **Tools & Platforms:** Vivado, ModelSim, Docker, Git, Jupyter Notebooks, Linux, Windows, ROS
+- **Data & Visualization:** Pandas, NumPy/SciPy, Matplotlib/Seaborn, Plotly
+- **Edge AI & IoT:** NVIDIA Jetsons, Raspberry Pi, Arduino, ARM, Qualcomm
+- **HDL & HPC:** UVM, CUDA/OpenCL, MPI, OpenMP
