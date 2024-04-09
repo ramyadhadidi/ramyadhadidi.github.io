@@ -4,9 +4,9 @@ title: "Ramyad's CV"
 redirect_from:
   - /resume
 ---
-<sub>My single-page CV<sub>
+My single-page CV
 
-### Education
+## Education
 * __Georgia Institute of Technology__  
   __Ph.D., Computer Science__ | Aug. 14 – Aug. 21  
   Adviser: [Hyesoon Kim](https://www.cc.gatech.edu/~hyesoon/), [HPArch](http://hparch.gatech.edu/)  
@@ -24,7 +24,7 @@ redirect_from:
   Major GPA: 4.00/4.00  
 
 
-### Experience
+## Experience
   * __Applied Machine Learning Researcher__  
     [Rain](https://rain.ai/) |  Mar. 23 – Present
 
@@ -47,7 +47,7 @@ redirect_from:
     Sharif University of Technology | May 13 -- May 14
 
 
-### Honors
+## Honors
   * Best Paper Nominee, IISWC’21 (Nov. 21)
   * DAC’20 Young Fellow Participant & Research Video Awardee (Aug. 20)
   * Best Paper Nominee, IISWC’19 (Nov. 18)
@@ -70,14 +70,14 @@ redirect_from:
   * [Lifeng Nai](http://nailifeng.org/) - Google
   * [Jaewoong Sim](https://jaewoong.org/) - Professor, Seoul National University -->
 
-### Mentoring & Teaching Experience
+## Mentoring & Teaching Experience
   * Mentoring: [/undergraduate_research](https://ramyadhadidi.github.io/portfolio/)
   * Teaching: [/teaching](https://ramyadhadidi.github.io/portfolio/)
 
-### Skills/Expertise
+## Skills/Expertise
 <sub>While I believe the essence of a PhD is mastering the ability to learn rather than focusing on transient skills, here are my key competencies!<sub>
 
-**Core Expertise:**
+### Core Expertise
 - Applied Machine Learning & Deep Neural Networks
 - Edge AI & Internet of Things (IoT) Solutions
 - Computer Architecture & Systems Design
@@ -96,7 +96,7 @@ redirect_from:
 - Public Speaking & Technical Communication
 - Hardware Profiling for Competitive Analysis, Market Fit, and Demos
 
-**Technical Skills:**
+### Technical Skills
 - **Languages:** C, C++, Python, Bash, Verilog, TCL, MATLAB
 - **Frameworks:** PyTorch, TensorFlow, TensorRT, TensorFlow Lite, ONNX, Kera
 - **Tools & Platforms:** Vivado, ModelSim, Docker, Git, Jupyter Notebooks, Linux, Windows, ROS
