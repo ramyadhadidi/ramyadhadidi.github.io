@@ -65,27 +65,29 @@ My single-page CV
 
 ### Core Expertise
 - Applied Machine Learning & Deep Neural Networks
-- Edge AI & Internet of Things (IoT) Solutions
-- Computer Architecture & Systems Design
+- Edge AI & Internet of Things (IoT)
+- Computer Architecture
+- In/Near Memory Computation & 3D-Stacked Architectures
+- CPU and GPU Microarchitecture & Optimizations
 - Robotics, Drones & Autonomous Vehicles
+- Desing-Space Exploration for Hardware Accelerators
 - Hardware/Software Co-Design for Machine Learning
-- In/Near Memory Compute Technologies
+- Hardware Optimized for Sparsity (ML and Scientific Computation)
+- Hardware for Recommendation Systems
+- Hardware for Large Language Models & Transformers
 - AI Hardware Development & Optimization
 - Distributed Computing & Parallelization Techniques
-- FPGA and ASIC Chip Design
-- High-Performance Computing (HPC) & GPUs
-- 3D-Stacked Architectures & Processing in Memory
-- Video Understanding & Image Recognition
-- Neural Network Inference & Training at the Edge
-- Data Science & Big Data Analytics
+- FPGA Development and Deployment (Verilog & HDL)
+- High-Performance Computing (HPC), Graph Processing & GPUs
+- Video Understanding & Computer Vision
 - Patent Development & Intellectual Property Strategy
 - Public Speaking & Technical Communication
-- Hardware Profiling for Competitive Analysis, Market Fit, and Demos
+- Production Hardware Profiling for Competitive Analysis
 
 ### Technical Skills
-- **Languages:** C, C++, Python, Bash, Verilog, TCL, HLS, MATLAB
+- **Languages:** C, C++, Python, Bash, Verilog, TCL, HLS, MATLAB, CUDA
 - **Frameworks:** PyTorch, TensorFlow, TensorRT, TensorFlow Lite, ONNX, Keras
 - **Tools & Platforms:** Vivado, ModelSim, Docker, Git, Jupyter Notebooks, Linux, Windows, ROS
-- **Data & Visualization:** Pandas, NumPy/SciPy, Matplotlib/Seaborn, Plotly
+- **Data & Visualization:** Pandas, NumPy/SciPy, Matplotlib/Seaborn, Plotly, OpenGL
 - **Edge AI & IoT:** NVIDIA Jetsons, Raspberry Pi, Arduino, ARM, Qualcomm
 - **HDL & HPC:** UVM, CUDA/OpenCL, MPI, OpenMP
