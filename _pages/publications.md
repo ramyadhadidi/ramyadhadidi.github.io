@@ -6,6 +6,13 @@ title: "Publications"
 <!-- --------------------------------------- -->
 <!-- --------------------------------------- -->
 <!-- --------------------------------------- -->
+##  2024
+
+  * __Network Architecture Search of X-Ray Based Scientific Applications__  
+      Adarsha Balaji, _Ramyad Hadidi_, Gregory Kollmer, Mohammed E. Fouda, Prasanna Balaprakash  
+      <sup>
+      [__[Paper]__](https://arxiv.org/abs/2404.10689)
+      <sup>  
 
 ##  2023
 
