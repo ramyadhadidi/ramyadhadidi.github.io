@@ -33,6 +33,8 @@ During my PhD studies, my research primarily focused on the field of computer sc
 
 # Invited Talks {#invited-talks}
 
+  *  [__UCI IAP Workshop__](https://www.industry-academia.org/uci-2024.html), UC Irvine Industry-Academia Partnership Workshop,  
+    "On-Device Computing: Rain AI’s Mission for Energy-Efficient AI Hardware," Irvine, CA, May 2024
   * [__AMD__](https://www.amd.com/en.html), AMD Tech Talk,  
     "Harnessing the Power of Edge Systems in a Data-Driven World," Feb. 2024
   *  [__DARPA ERI 2.0 Summit__](https://eri-summit.darpa.mil/), Novel Architectures for Neuro-Symbolic Computation Workshop,  
