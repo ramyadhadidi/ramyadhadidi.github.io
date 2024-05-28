@@ -25,7 +25,7 @@ My single-page CV
 
 
 ## Experience
-  * __Applied Machine Learning Researcher__  
+  * __Senior Research Scientist__  
     [Rain](https://rain.ai/) |  Mar. 23 – Present
 
   * __Machine Learning Researcher__, Advanced Systems Technology Team  
