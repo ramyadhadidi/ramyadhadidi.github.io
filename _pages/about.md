@@ -8,7 +8,7 @@ redirect_from:
 
 I am passionate about unraveling and mastering the complexities of diverse domains. My approach is holistic, integrating various disciplines to craft innovative and comprehensive solutions.  
 
-Currently, at [Rain.ai](https://rain.ai/), I am at the forefront of edge computing, contributing to the development of artificial brain-like systems characterized by low-power usage, efficient training, and high-performance inference capabilities. Learn more about my journey [[here...]]({% link _pages/more_about_me.md %})  
+Currently, at [Rain.ai](https://rain.ai/), I am at the forefront of AI on hardware, contributing to the development of artificial brain-like systems characterized by low-power usage, efficient training, and high-performance inference capabilities from LLMs to CNNs. Learn more about me [[here.]]({% link _pages/more_about_me.md %})  
 
 
 ### [Last Entries]({% link _pages/entries.md %})
