@@ -78,6 +78,7 @@ I enjoyed working closely with our talented undergraduate students during my PhD
 
 | Organization & Program Committee | Reviewer                              |
 |---------------------------------|--------------------------------------|
+| [HPCA 2025](https://hpca-conf.org/2025/), Program Committee | |
 | [ICCD 2024](https://www.iccd-conf.com/Home.html), Program Committee | [Springer Journal of Supercomputing](https://www.springer.com/journal/11227) |
 | [MICRO 2024](https://microarch.org/micro57/), External Review Committee | [IEEE Transactions on Services Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4629386) |
 | [ISCA 2024](https://iscaconf.org/isca2024/), Industry Track Program Committee | [IEEE IoT Journal](https://ieee-iotj.org/) |
@@ -97,7 +98,7 @@ I enjoyed working closely with our talented undergraduate students during my PhD
 
 | Community |
 |-----------|
-| Mentor Portfolio Project, AI4ALL, 2024 |
+| Mentor Portfolio Project, [AI4ALL](https://ai-4-all.org/), 2024 |
 | Student Volunteer for PACT’20 (IEEE/ACM), 2020 |
 | Student Chaperone for PhD Visit Days (Georgia Tech), 2015 |
 
