@@ -60,7 +60,7 @@ During my PhD studies, my research primarily focused on the field of computer sc
 
 # Undergraduate Research {#undergraduate-research}
 
-I enjoyed working closely with our talented undergraduate students during my PhD. Together, we achieved significant milestones and our collaborative efforts resulted in several publications. You can find the main website here, [HPArch Undergraduate Research](http://hparch.gatech.edu/undergraduate_research/), although please note that it is no longer actively maintained. Feel free to explore the exciting final demos from our one or two semesters of hard work: 
+I enjoyed working closely with our talented undergraduate students during my PhD. Together, we achieved significant milestones and our collaborative efforts resulted in several publications. You can find the main website here, [HPArch Undergraduate Research](https://sites.gatech.edu/hparch/undergraduate-research/), although please note that it is no longer actively maintained. Feel free to explore the exciting final demos from our one or two semesters of hard work: 
 [[SysML'19]](https://hparch.gatech.edu/sysml)
 [[FPL'19]](https://hparch.gatech.edu/fpl19/)
 [[Summer'19]](https://photos.google.com/share/AF1QipPNdPhg9Qt0h07SJiktzPoYjvCSOcMX14fIt4m8AwveYUKsK2nHhYzdHQCWOf_WcA?key=M3JVWHJmUEVuajE2UWFqa0pVVDl1UDlsYlhiZ2ln)
