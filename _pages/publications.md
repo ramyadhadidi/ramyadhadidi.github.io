@@ -8,6 +8,12 @@ title: "Publications"
 <!-- --------------------------------------- -->
 ##  2024
 
+  * __Endor: Hardware-Friendly Sparse Format for Offloaded LLM Inference__  
+      Donghyeon Joo, _Ramyad Hadidi_, Soheil Feizi, Bahar Asgari  
+      <sup>
+      [__[Paper]__](https://arxiv.org/abs/2406.11674)
+      <sup>  
+
   * __Network Architecture Search of X-Ray Based Scientific Applications__  
       Adarsha Balaji, _Ramyad Hadidi_, Gregory Kollmer, Mohammed E. Fouda, Prasanna Balaprakash  
       <sup>
