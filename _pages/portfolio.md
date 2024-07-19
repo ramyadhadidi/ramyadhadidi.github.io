@@ -33,7 +33,7 @@ During my PhD studies, my research primarily focused on the field of computer sc
 
 # Invited Talks {#invited-talks}
 
-  *  [__DOSSA-6 @ ISCA'24__](http://prism.sejong.ac.kr/dossa-6/), Sixth International Workshop on Domain Specific System Architecture,  
+  *  [__DOSSA-6 @ ISCA'24__](http://prism.sejong.ac.kr/dossa-6/), Sixth International Workshop on Domain Specific System Architecture In conjunction with ISCA 2024,  
       "On-Device Computing: Rain AI’s Mission for Energy-Efficient AI Hardware," Buenos Aires, Argentina, June 2024
   *  [__UCI IAP Workshop__](https://www.industry-academia.org/uci-2024.html), UC Irvine Industry-Academia Partnership Workshop,  
     "On-Device Computing: Rain AI’s Mission for Energy-Efficient AI Hardware," Irvine, CA, May 2024
