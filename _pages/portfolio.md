@@ -80,10 +80,11 @@ I enjoyed working closely with our talented undergraduate students during my PhD
 
 | Organization & Program Committee | Reviewer                              |
 |---------------------------------|--------------------------------------|
-| [HPCA 2025](https://hpca-conf.org/2025/), Program Committee | |
+| | [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755) |
+| [HPCA 2025](https://hpca-conf.org/2025/), Program Committee | [IEEE Internet of Things Journal](https://ieee-iotj.org/) |
 | [ICCD 2024](https://www.iccd-conf.com/Home.html), Program Committee | [Springer Journal of Supercomputing](https://www.springer.com/journal/11227) |
 | [MICRO 2024](https://microarch.org/micro57/), External Review Committee | [IEEE Transactions on Services Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4629386) |
-| [ISCA 2024](https://iscaconf.org/isca2024/), Industry Track Program Committee | [IEEE IoT Journal](https://ieee-iotj.org/) |
+| [ISCA 2024](https://iscaconf.org/isca2024/), Industry Track Program Committee | [IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43) |
 | [DAC 2024](https://www.dac.com/Conference/2024-Call-for-Contributions), Program Committee | [ACM Transactions on Architecture and Code Optimization](https://dl.acm.org/journal/taco) |
 | [HPCA 2024](https://hpca-conf.org/2024/), Program Committee | [IEEE/ACM Transactions on Networking](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=90) |
 | [DeLTA 2024](https://delta.scitevents.org/), Program Committee | [IEEE Transactions on Vehicular Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=25) |
