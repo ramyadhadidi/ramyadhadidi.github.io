@@ -7,23 +7,41 @@ redirect_from:
   - /academia
 ---
 
-[Academic Research](#academic-research) \| [Invited Talks](#invited-talks) \| [Undergraduate Research](#undergraduate-research) \| [Service](#service) \| [Teaching](#teaching)
+[Service](#service) \| [Invited Talks](#invited-talks) \| [Academic Research](#academic-research) \|  [Undergraduate Research](#undergraduate-research) \|  [Teaching](#teaching)
 
 <!-- --------------------------------------- -->
 <!-- --------------------------------------- -->
 <!-- --------------------------------------- -->
 
-<hr>
+# Service {#service}
 
-# Academic Research {#academic-research}
+| Organization & Program Committee | Reviewer                              |
+|---------------------------------|--------------------------------------|
+| [ISCA 2025](https://iscaconf.org/isca2025/), Industry Track Program Committee | [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755) |
+| [HPCA 2025](https://hpca-conf.org/2025/), Program Committee | [IEEE Internet of Things Journal](https://ieee-iotj.org/) |
+| [ICCD 2024](https://www.iccd-conf.com/Home.html), Program Committee | [Springer Journal of Supercomputing](https://www.springer.com/journal/11227) |
+| [MICRO 2024](https://microarch.org/micro57/), External Review Committee | [IEEE Transactions on Services Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4629386) |
+| [ISCA 2024](https://iscaconf.org/isca2024/), Industry Track Program Committee | [IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43) |
+| [DAC 2024](https://www.dac.com/Conference/2024-Call-for-Contributions), Program Committee | [ACM Transactions on Architecture and Code Optimization](https://dl.acm.org/journal/taco) |
+| [HPCA 2024](https://hpca-conf.org/2024/), Program Committee | [IEEE/ACM Transactions on Networking](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=90) |
+| [DeLTA 2024](https://delta.scitevents.org/), Program Committee | [IEEE Transactions on Vehicular Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=25) |
+| [ISCA 2023](https://iscaconf.org/isca2023/), Program Committee | [IEEE Journal on Emerging and Selected Topics in Circuits and Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5503868)] |
+| [MICRO 2022](https://microarch.org/micro55/index.php), Artifact Evaluation | [IEEE Access](https://ieeeaccess.ieee.org/) |
+| [ISCA 2022](https://iscaconf.org/isca2022/), External Review Committee | [IEEE Micro](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=40) |
+| [ASPLOS 2022](https://asplos-conference.org/asplos2022/index.html), External Review Committee | [IEEE Transactions on Computers](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12) |
+| Georgia Tech ArchiTECH 2016, Organization Committee | [ScienceDirect Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence) |
 
-During my PhD studies, my research primarily focused on the field of computer science, with a particular emphasis on managing data in edge systems. I strived to establish guidelines that navigate the trade-offs between hardware and software for the next generation of these systems. To effectively address the unique constraints presented by edge systems, my work involved the development of innovative machine learning techniques and the exploitation of hardware-software synergy.
+| Submission Co-Chair | Judge |
+|---------------------|-------|
+| [MICRO Top Picks 2020](https://ieeexplore.ieee.org/document/9441012) | Honeywell STEM Challenge at Georgia Tech, 2019 & 2020 |
+| [MICRO 2018](https://microarch.org/micro51/)| Georgia Tech President’s Undergraduate Research Awards [(PURA)](https://undergradresearch.gatech.edu/content/presidents-undergraduate-research-awards), 2016, 2017, 2018, 2019 & 2020 |
 
-![Overview of my PhD Research](https://ramyadhadidi.github.io/files/overview-website.jpg)
-<sup>
-[__[Overview of my PhD Research]__](https://ramyadhadidi.github.io/files/overview-website.pdf)
-[Last updated Jan. 2024]
-<sup>
+| Community |
+|-----------|
+| Mentor Portfolio Project, [AI4ALL](https://ai-4-all.org/), 2024 |
+| Student Volunteer for PACT’20 (IEEE/ACM), 2020 |
+| Student Chaperone for PhD Visit Days (Georgia Tech), 2015 |
+
 
 <!-- --------------------------------------- -->
 <!-- --------------------------------------- -->
@@ -60,6 +78,22 @@ During my PhD studies, my research primarily focused on the field of computer sc
 
 <hr>
 
+# Academic Research {#academic-research}
+
+During my PhD studies, my research primarily focused on the field of computer science, with a particular emphasis on managing data in edge systems. I strived to establish guidelines that navigate the trade-offs between hardware and software for the next generation of these systems. To effectively address the unique constraints presented by edge systems, my work involved the development of innovative machine learning techniques and the exploitation of hardware-software synergy.
+
+![Overview of my PhD Research](https://ramyadhadidi.github.io/files/overview-website.jpg)
+<sup>
+[__[Overview of my PhD Research]__](https://ramyadhadidi.github.io/files/overview-website.pdf)
+[Last updated Jan. 2024]
+<sup>
+
+<!-- --------------------------------------- -->
+<!-- --------------------------------------- -->
+<!-- --------------------------------------- -->
+
+<hr>
+
 # Undergraduate Research {#undergraduate-research}
 
 I enjoyed working closely with our talented undergraduate students during my PhD. Together, we achieved significant milestones and our collaborative efforts resulted in several publications. You can find the main website here, [HPArch Undergraduate Research](https://sites.gatech.edu/hparch/undergraduate-research/), although please note that it is no longer actively maintained. Feel free to explore the exciting final demos from our one or two semesters of hard work: 
@@ -68,42 +102,6 @@ I enjoyed working closely with our talented undergraduate students during my PhD
 [[Summer'19]](https://photos.google.com/share/AF1QipPNdPhg9Qt0h07SJiktzPoYjvCSOcMX14fIt4m8AwveYUKsK2nHhYzdHQCWOf_WcA?key=M3JVWHJmUEVuajE2UWFqa0pVVDl1UDlsYlhiZ2ln)
 [[Spring'20-1]](https://www.youtube.com/watch?v=-_pJuwXOrnw)
 [[Spring'20-2]](https://www.youtube.com/watch?v=sBywdcMniW4&t=1s)
-
-
-<!-- --------------------------------------- -->
-<!-- --------------------------------------- -->
-<!-- --------------------------------------- -->
-
-<hr>
-
-# Service {#service}
-
-| Organization & Program Committee | Reviewer                              |
-|---------------------------------|--------------------------------------|
-| | [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755) |
-| [HPCA 2025](https://hpca-conf.org/2025/), Program Committee | [IEEE Internet of Things Journal](https://ieee-iotj.org/) |
-| [ICCD 2024](https://www.iccd-conf.com/Home.html), Program Committee | [Springer Journal of Supercomputing](https://www.springer.com/journal/11227) |
-| [MICRO 2024](https://microarch.org/micro57/), External Review Committee | [IEEE Transactions on Services Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4629386) |
-| [ISCA 2024](https://iscaconf.org/isca2024/), Industry Track Program Committee | [IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43) |
-| [DAC 2024](https://www.dac.com/Conference/2024-Call-for-Contributions), Program Committee | [ACM Transactions on Architecture and Code Optimization](https://dl.acm.org/journal/taco) |
-| [HPCA 2024](https://hpca-conf.org/2024/), Program Committee | [IEEE/ACM Transactions on Networking](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=90) |
-| [DeLTA 2024](https://delta.scitevents.org/), Program Committee | [IEEE Transactions on Vehicular Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=25) |
-| [ISCA 2023](https://iscaconf.org/isca2023/), Program Committee | [IEEE Journal on Emerging and Selected Topics in Circuits and Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5503868)] |
-| [MICRO 2022](https://microarch.org/micro55/index.php), Artifact Evaluation | [IEEE Access](https://ieeeaccess.ieee.org/) |
-| [ISCA 2022](https://iscaconf.org/isca2022/), External Review Committee | [IEEE Micro](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=40) |
-| [ASPLOS 2022](https://asplos-conference.org/asplos2022/index.html), External Review Committee | [IEEE Transactions on Computers](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12) |
-| Georgia Tech ArchiTECH 2016, Organization Committee | [ScienceDirect Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence) |
-
-| Submission Co-Chair | Judge |
-|---------------------|-------|
-| [MICRO Top Picks 2020](https://ieeexplore.ieee.org/document/9441012) | Honeywell STEM Challenge at Georgia Tech, 2019 & 2020 |
-| [MICRO 2018](https://microarch.org/micro51/)| Georgia Tech President’s Undergraduate Research Awards [(PURA)](https://undergradresearch.gatech.edu/content/presidents-undergraduate-research-awards), 2016, 2017, 2018, 2019 & 2020 |
-
-| Community |
-|-----------|
-| Mentor Portfolio Project, [AI4ALL](https://ai-4-all.org/), 2024 |
-| Student Volunteer for PACT’20 (IEEE/ACM), 2020 |
-| Student Chaperone for PhD Visit Days (Georgia Tech), 2015 |
 
 
 <!-- --------------------------------------- -->
