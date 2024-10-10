@@ -64,11 +64,12 @@ My single-page CV
 ## Skills/Expertise
 
 ### Core Expertise
-- Applied Machine Learning & Deep Neural Networks
-- Edge AI & Internet of Things (IoT)
 - Computer Architecture
+- Applied Machine Learning
+- Deep Neural Networks (LLMs and CNNs)
 - In/Near Memory Computation & 3D-Stacked Architectures
 - CPU and GPU Microarchitecture & Optimizations
+- Edge AI & Internet of Things (IoT)
 - Robotics, Drones & Autonomous Vehicles
 - Desing-Space Exploration for Hardware Accelerators
 - Hardware/Software Co-Design for Machine Learning
@@ -77,6 +78,7 @@ My single-page CV
 - Hardware for Large Language Models & Transformers
 - AI Hardware Development & Optimization
 - Distributed Computing & Parallelization Techniques
+- Hardware-Aware Quantization and Pruning
 - FPGA Development and Deployment (Verilog & HDL)
 - High-Performance Computing (HPC), Graph Processing & GPUs
 - Video Understanding & Computer Vision
@@ -85,7 +87,7 @@ My single-page CV
 - Production Hardware Profiling for Competitive Analysis
 
 ### Technical Skills
-- **Languages:** C, C++, Python, Bash, Verilog, TCL, HLS, MATLAB, CUDA
+- **Languages:** C, C++, Python, CUDA, Bash, Verilog, TCL, HLS, MATLAB
 - **Frameworks:** PyTorch, TensorFlow, TensorRT, TensorFlow Lite, ONNX, Keras
 - **Tools & Platforms:** Vivado, ModelSim, Docker, Git, Jupyter Notebooks, Linux, Windows, ROS
 - **Data & Visualization:** Pandas, NumPy/SciPy, Matplotlib/Seaborn, Plotly, OpenGL
