@@ -6,9 +6,9 @@ redirect_from:
 ---
 ### [About Me]({% link _pages/about.md %})
 
-At [Rain AI](https://rain.ai/), building LLM hardware optimized for the lowest total cost of ownership (TCO), I'm leading workload analysis/benchmarking, high-level SoC analysis, and efficient attention and GEMM mapping techniques on compute units.
+At [Rain AI](https://rain.ai/), where we build LLM hardware optimized for the lowest total cost of ownership (TCO), I’m leading workload analysis and benchmarking, high-level SoC analysis, and efficient attention and GEMM mapping techniques on compute units.
 
-I'm a computer architect at heart, but I am ceaselessly intrigued by adjacent areas. I'd the opportunity to work or publish on topics such as processing in and near memory, GPU and CPU architecture, hardware accelerators for \[machine learning, recommendation systems, sparse problems, and scientitic problmes\], collaborative edge devices, drones, CMOS image sensors, SSDs, and, finally, LLMs. My PhD thesis focused on distributing ML workloads on edge and IoT devices.
+I’m a computer architect at heart, but I am ceaselessly intrigued by adjacent areas. I’d like the opportunity to work on or publish about topics such as processing in and near memory, GPU and CPU architecture, hardware accelerators for machine learning, recommendation systems, sparse problems, and scientific problems, collaborative edge devices, drones, CMOS image sensors, SSDs, and, finally, LLMs. My PhD thesis focused on distributing ML workloads on edge and IoT devices.
 
 Learn more about me [[here.]]({% link _pages/more_about_me.md %})  
 
