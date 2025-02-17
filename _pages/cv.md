@@ -25,10 +25,13 @@ My single-page CV
 
 
 ## Experience
-  * __Senior Research Scientist__  
+  * __Senior Scientist__, Architecture Team  
     [Rain](https://rain.ai/) |  Mar. 23 – Present
 
-  * __Machine Learning Researcher__, Advanced Systems Technology Team  
+  * __Applied ML Researcher__, Product & Applied Research Teams  
+    [Rain](https://rain.ai/) |  Mar. 23 – Apr. 24
+
+  * __Staff Engineer -- ML Researcher__, Advanced Systems Technology Team  
     [SK hynix](https://www.skhynix.com/) |  Feb. 21 – Feb. 23
 
   * __Research Assistant__, [HPArch](http://hparch.gatech.edu/)  
