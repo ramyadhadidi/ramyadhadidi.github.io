@@ -6,7 +6,7 @@ redirect_from:
 ---
 ### [About Me]({% link _pages/about.md %})
 
-At [Rain AI](https://rain.ai/), where we build datacenter custom ASICs for LLM inference with the lowest total cost of ownership (TCO), I’m leading workload analysis and benchmarking, high-level SoC analysis, and efficient attention and GEMM mapping techniques on compute units.
+At [Rain AI](https://rain.ai/), where we build datacenter custom ASICs for LLM inference with the lowest total cost of ownership (TCO), I am leading workload analysis and benchmarking, high-level SoC analysis, and efficient attention and GEMM mapping techniques on compute units.
 
 I’m a computer architect at heart, but I am ceaselessly intrigued by adjacent areas. I had the opportunity to work on or publish about topics such as processing in and near memory, GPU and CPU architecture, hardware accelerators for machine learning, recommendation systems, sparse problems, and scientific problems, collaborative edge devices, drones, CMOS image sensors, SSDs, and, finally, LLMs. My PhD thesis focused on distributing ML workloads on edge and IoT devices.
 
