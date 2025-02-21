@@ -54,7 +54,6 @@ My single-page CV
   * Best Paper Nominee, IISWC’21 (Nov. 21)
   * DAC’20 Young Fellow Participant & Research Video Awardee (Aug. 20)
   * Best Paper Nominee, IISWC’19 (Nov. 18)
-  * Ranked 3rd, [Sharif University](https://en.wikipedia.org/wiki/Sharif_University_of_Technology) - B.Sc. in Electrical Engineering  (Sept. 9 -- Aug. 14)
   * Silver Medal Winner of 3rd [IOAA](https://en.wikipedia.org/wiki/International_Olympiad_on_Astronomy_and_Astrophysics) (International Olympiad on Astrophysics) (Oct. 9)
   * Gold Medal Winner in National Astrophysics Olympiad, Iran (Aug. 8)
   * Silver Medal Winner in National Astrophysics Olympiad, Iran (Aug. 7)
