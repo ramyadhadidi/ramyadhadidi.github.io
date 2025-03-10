@@ -17,6 +17,7 @@ redirect_from:
 
 | Organization & Program Committee | Reviewer                              |
 |---------------------------------|--------------------------------------|
+| [MICRO 2025](https://microarch.org/micro58/), Program Committee |  |
 | [ISCA 2025](https://iscaconf.org/isca2025/), Industry Track Program Committee | [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755) |
 | [HPCA 2025](https://hpca-conf.org/2025/), Program Committee | [IEEE Internet of Things Journal](https://ieee-iotj.org/) |
 | [ICCD 2024](https://www.iccd-conf.com/Home.html), Program Committee | [Springer Journal of Supercomputing](https://www.springer.com/journal/11227) |

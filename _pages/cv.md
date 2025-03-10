@@ -89,9 +89,12 @@ My single-page CV
 - Production Hardware Profiling for Competitive Analysis
 
 ### Technical Skills
-- **Languages:** C, C++, Python, CUDA, Bash, Verilog, TCL, HLS, MATLAB
-- **Frameworks:** PyTorch, TensorFlow, TensorRT, TensorFlow Lite, ONNX, Keras
-- **Tools & Platforms:** Vivado, ModelSim, Docker, Git, Jupyter Notebooks, Linux, Windows, ROS
-- **Data & Visualization:** Pandas, NumPy/SciPy, Matplotlib/Seaborn, Plotly, OpenGL
+- **Languages:** C, C++, Python, Bash, MATLAB
+- **Hardware & HDL:** Verilog, HLS, TCL, UVM, TCL
+- **HPC:** CUDA, MPI, OpenMP, Kubernetes
+- **Frameworks:** PyTorch, TensorFlow, TensorRT, TensorFlow Lite, ONNX, Keras, LLVM
+- **Architecture Specific:** RISC-V, Synopsys Platfrom Architect, Synopsys VCS, GEM5, SST, GPGPU-SIM, MACSIM
+- **Tools / Platforms:** Vivado, ModelSim, Docker, Git , Linux, Windows, ROS
+- **Data / Visualization:** Pandas, NumPy/SciPy, Matplotlib/Seaborn, Plotly, OpenGL
 - **Edge AI & IoT:** NVIDIA Jetsons, Raspberry Pi, Arduino, ARM, Qualcomm
-- **HDL & HPC:** UVM, CUDA/OpenCL, MPI, OpenMP
+
