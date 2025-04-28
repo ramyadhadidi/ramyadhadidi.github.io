@@ -95,7 +95,7 @@ My single-page CV
 
 ### Technical Skills
 - **Languages:** C, C++, Python, Bash, MATLAB
-- **Hardware & HDL:** Verilog, HLS, TCL, UVM, TCL
+- **Hardware & HDL:** Verilog, HLS, TCL, UVM
 - **HPC:** CUDA, MPI, OpenMP, Kubernetes
 - **Frameworks:** PyTorch, TensorFlow, TensorRT, TensorFlow Lite, ONNX, Keras, LLVM
 - **Architecture Specific:** RISC-V, Synopsys Platfrom Architect, Synopsys VCS, GEM5, SST, GPGPU-SIM, MACSIM
