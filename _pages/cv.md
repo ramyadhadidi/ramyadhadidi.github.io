@@ -69,15 +69,12 @@ My single-page CV
 ## Skills/Expertise
 
 ### Core Expertise
-<<<<<<< HEAD
 - Hardware-Software Co-Design for Machine Learning
 - Hardware Optimized for Sparsity (ML and Scientific Computation)
 - Hardware for Recommendation Systems
 - Hardware for Large Language Models & Transformers
 - Applied Machine Learning & Deep Neural Networks
 - Edge AI & Internet of Things (IoT)
-=======
->>>>>>> 2581c90e534dd362d2e9357546bbc6306ed9944e
 - Computer Architecture
 - Applied Machine Learning
 - Deep Neural Networks (LLMs and CNNs)
