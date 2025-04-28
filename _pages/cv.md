@@ -25,10 +25,16 @@ My single-page CV
 
 
 ## Experience
-  * __Senior Research Scientist__  
-    [Rain](https://rain.ai/) |  Mar. 23 – Present
+  * __Senior Staff, ML Computer Architect__  
+    [d-Matrix](https://www.d-matrix.ai/) |  Apr. 25 – Present
 
-  * __Machine Learning Researcher__, Advanced Systems Technology Team  
+  * __Senior Research Scientist__  
+    [Rain AI](https://rain.ai/) |  Apr. 24 – Apr. 25
+
+  * __Applied ML Researcher__  
+    [Rain AI](https://rain.ai/) |  Mar. 23 – Apr. 24
+
+  * __Staff, Machine Learning Researcher__, Advanced Systems Technology Team  
     [SK hynix](https://www.skhynix.com/) |  Feb. 21 – Feb. 23
 
   * __Research Assistant__, [HPArch](http://hparch.gatech.edu/)  
@@ -64,17 +70,17 @@ My single-page CV
 ## Skills/Expertise
 
 ### Core Expertise
+- Hardware-Software Co-Design for Machine Learning
+- Hardware Optimized for Sparsity (ML and Scientific Computation)
+- Hardware for Recommendation Systems
+- Hardware for Large Language Models & Transformers
 - Applied Machine Learning & Deep Neural Networks
 - Edge AI & Internet of Things (IoT)
 - Computer Architecture
 - In/Near Memory Computation & 3D-Stacked Architectures
 - CPU and GPU Microarchitecture & Optimizations
 - Robotics, Drones & Autonomous Vehicles
-- Desing-Space Exploration for Hardware Accelerators
-- Hardware/Software Co-Design for Machine Learning
-- Hardware Optimized for Sparsity (ML and Scientific Computation)
-- Hardware for Recommendation Systems
-- Hardware for Large Language Models & Transformers
+- Design-Space Exploration for Hardware Accelerators
 - AI Hardware Development & Optimization
 - Distributed Computing & Parallelization Techniques
 - FPGA Development and Deployment (Verilog & HDL)
