@@ -6,6 +6,11 @@ title: "Publications"
 <!-- --------------------------------------- -->
 <!-- --------------------------------------- -->
 <!-- --------------------------------------- -->
+##  2025
+  * __La Superba: Leveraging a Self-Comparison Method to Understand the Performance Benefits of Sparse Accelerator Optimizations__  
+      Nebil Ozer, Gregory Kollmer, _Ramyad Hadidi_, Bahar Asgari  
+      [ISPASS'25](https://ispass.org/ispass2025/)  
+
 ##  2024
 
   * __Endor: Hardware-Friendly Sparse Format for Offloaded LLM Inference__  
