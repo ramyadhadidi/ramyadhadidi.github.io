@@ -57,7 +57,6 @@ My single-page CV
   * Best Paper Nominee, IISWC’21 (Nov. 21)
   * DAC’20 Young Fellow Participant & Research Video Awardee (Aug. 20)
   * Best Paper Nominee, IISWC’19 (Nov. 18)
-  * Ranked 3rd, [Sharif University](https://en.wikipedia.org/wiki/Sharif_University_of_Technology) - B.Sc. in Electrical Engineering  (Sept. 9 -- Aug. 14)
   * Silver Medal Winner of 3rd [IOAA](https://en.wikipedia.org/wiki/International_Olympiad_on_Astronomy_and_Astrophysics) (International Olympiad on Astrophysics) (Oct. 9)
   * Gold Medal Winner in National Astrophysics Olympiad, Iran (Aug. 8)
   * Silver Medal Winner in National Astrophysics Olympiad, Iran (Aug. 7)
@@ -70,19 +69,26 @@ My single-page CV
 ## Skills/Expertise
 
 ### Core Expertise
+<<<<<<< HEAD
 - Hardware-Software Co-Design for Machine Learning
 - Hardware Optimized for Sparsity (ML and Scientific Computation)
 - Hardware for Recommendation Systems
 - Hardware for Large Language Models & Transformers
 - Applied Machine Learning & Deep Neural Networks
 - Edge AI & Internet of Things (IoT)
+=======
+>>>>>>> 2581c90e534dd362d2e9357546bbc6306ed9944e
 - Computer Architecture
+- Applied Machine Learning
+- Deep Neural Networks (LLMs and CNNs)
 - In/Near Memory Computation & 3D-Stacked Architectures
 - CPU and GPU Microarchitecture & Optimizations
+- Edge AI & Internet of Things (IoT)
 - Robotics, Drones & Autonomous Vehicles
 - Design-Space Exploration for Hardware Accelerators
 - AI Hardware Development & Optimization
 - Distributed Computing & Parallelization Techniques
+- Hardware-Aware Quantization and Pruning
 - FPGA Development and Deployment (Verilog & HDL)
 - High-Performance Computing (HPC), Graph Processing & GPUs
 - Video Understanding & Computer Vision
@@ -91,9 +97,12 @@ My single-page CV
 - Production Hardware Profiling for Competitive Analysis
 
 ### Technical Skills
-- **Languages:** C, C++, Python, Bash, Verilog, TCL, HLS, MATLAB, CUDA
-- **Frameworks:** PyTorch, TensorFlow, TensorRT, TensorFlow Lite, ONNX, Keras
-- **Tools & Platforms:** Vivado, ModelSim, Docker, Git, Jupyter Notebooks, Linux, Windows, ROS
-- **Data & Visualization:** Pandas, NumPy/SciPy, Matplotlib/Seaborn, Plotly, OpenGL
+- **Languages:** C, C++, Python, Bash, MATLAB
+- **Hardware & HDL:** Verilog, HLS, TCL, UVM, TCL
+- **HPC:** CUDA, MPI, OpenMP, Kubernetes
+- **Frameworks:** PyTorch, TensorFlow, TensorRT, TensorFlow Lite, ONNX, Keras, LLVM
+- **Architecture Specific:** RISC-V, Synopsys Platfrom Architect, Synopsys VCS, GEM5, SST, GPGPU-SIM, MACSIM
+- **Tools / Platforms:** Vivado, ModelSim, Docker, Git , Linux, Windows, ROS
+- **Data / Visualization:** Pandas, NumPy/SciPy, Matplotlib/Seaborn, Plotly, OpenGL
 - **Edge AI & IoT:** NVIDIA Jetsons, Raspberry Pi, Arduino, ARM, Qualcomm
-- **HDL & HPC:** UVM, CUDA/OpenCL, MPI, OpenMP
+
