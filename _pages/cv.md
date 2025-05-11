@@ -46,7 +46,7 @@ My single-page CV
   * __Instructor__, Advanced Computer Organization [CS4290](http://hparch.gatech.edu/courses/summer19/cs4290/)  
     Georgia Tech | May. 19 – Aug. 19
 
-  * __SWE Intern__, [Video Understanding Team](https://research.google.com/youtube8m/people.html)  
+  * __SWE Intern__, [Video Understanding Team](https://research.google.com/youtube8m/)  
     Google | May. 18 – Aug. 18
 
   * Coordinator and Administrator, Microprocessor Systems Lab,  
