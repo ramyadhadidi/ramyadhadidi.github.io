@@ -38,19 +38,19 @@ My single-page CV
     [SK hynix](https://www.skhynix.com/) |  Feb. 21 – Feb. 23
 
   * __Research Assistant__, [HPArch](http://hparch.gatech.edu/)  
-    Georgia Tech |  Feb. 15 – Aug. 21
+    [Georgia Tech](https://www.gatech.edu/) |  Feb. 15 – Aug. 21
 
   * __Instructor__, Advanced Computer Organization [CS4290](http://hparch.gatech.edu/courses/summer20/cs4290/)  
-    Georgia Tech | May. 20 – Aug. 20
+    [Georgia Tech](https://www.gatech.edu/) | May. 20 – Aug. 20
 
   * __Instructor__, Advanced Computer Organization [CS4290](http://hparch.gatech.edu/courses/summer19/cs4290/)  
-    Georgia Tech | May. 19 – Aug. 19
+    [Georgia Tech](https://www.gatech.edu/) | May. 19 – Aug. 19
 
   * __SWE Intern__, [Video Understanding Team](https://research.google.com/youtube8m/)  
-    Google | May. 18 – Aug. 18
+    [Google](https://www.google.com/) | May. 18 – Aug. 18
 
   * Coordinator and Administrator, Microprocessor Systems Lab,  
-    Sharif University of Technology | May 13 -- May 14
+    [Sharif University of Technology](https://www.en.sharif.ir/) | May 13 -- May 14
 
 
 ## Honors
