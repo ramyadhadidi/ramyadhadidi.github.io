@@ -21,7 +21,7 @@ Currently, at [d-Matrix](https://www.d-matrix.ai/), I am part of the architectur
 {% endfor %}
 </ul> -->
 
-Project examples
+<!-- Project examples
 - Talk UIAP
 - Academic Package + slides
 - Drone Talk
@@ -29,4 +29,4 @@ Project examples
 - Demos ()
   - https://hparch.gatech.edu/fpl19/)
   - https://hparch.gatech.edu//sysml
-  - https://ramyadhadidi.github.io/files/hadidi-Edge-2023-Context-Aware-Drone-Example-Video.mp4
+  - https://ramyadhadidi.github.io/files/hadidi-Edge-2023-Context-Aware-Drone-Example-Video.mp4 -->

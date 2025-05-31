@@ -27,7 +27,7 @@ redirect_from:
 | [DAC 2024](https://www.dac.com/Conference/2024-Call-for-Contributions), Program Committee | [ACM Transactions on Architecture and Code Optimization](https://dl.acm.org/journal/taco) |
 | [HPCA 2024](https://hpca-conf.org/2024/), Program Committee | [IEEE/ACM Transactions on Networking](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=90) |
 | [DeLTA 2024](https://delta.scitevents.org/), Program Committee | [IEEE Transactions on Vehicular Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=25) |
-| [ISCA 2023](https://iscaconf.org/isca2023/), Program Committee | [IEEE Journal on Emerging and Selected Topics in Circuits and Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5503868)] |
+| [ISCA 2023](https://iscaconf.org/isca2023/), Program Committee | [IEEE Journal on Emerging and Selected Topics in Circuits and Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5503868) |
 | [MICRO 2022](https://microarch.org/micro55/index.php), Artifact Evaluation | [IEEE Access](https://ieeeaccess.ieee.org/) |
 | [ISCA 2022](https://iscaconf.org/isca2022/), External Review Committee | [IEEE Micro](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=40) |
 | [ASPLOS 2022](https://asplos-conference.org/asplos2022/index.html), External Review Committee | [IEEE Transactions on Computers](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12) |
