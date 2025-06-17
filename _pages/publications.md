@@ -9,8 +9,10 @@ title: "Publications"
 ##  2025
   * __Mustafar: Promoting Unstructured Sparsity for KV Cache Pruning in LLM Inference__  
       Donghyeon Joo, Helya Hosseini, _Ramyad Hadidi_, Bahar Asgari  
-      [arXiv](https://www.arxiv.org/abs/2505.22913)
-      [Repo](https://github.com/dhjoo98/mustafar)  
+      <sup>
+      [__[arXiv]__](https://www.arxiv.org/abs/2505.22913)
+      [__[Repo]__](https://github.com/dhjoo98/mustafar)
+      <sup>  
 
   * __La Superba: Leveraging a Self-Comparison Method to Understand the Performance Benefits of Sparse Accelerator Optimizations__  
       Nebil Ozer, Gregory Kollmer, _Ramyad Hadidi_, Bahar Asgari  
