@@ -10,7 +10,7 @@ title: "Publications"
   * __Mustafar: Promoting Unstructured Sparsity for KV Cache Pruning in LLM Inference__  
       Donghyeon Joo, Helya Hosseini, _Ramyad Hadidi_, Bahar Asgari  
       <sup>
-      [__[arXiv]__](https://www.arxiv.org/abs/2505.22913)
+      [__[Paper]__](https://www.arxiv.org/abs/2505.22913)
       [__[Repo]__](https://github.com/dhjoo98/mustafar)
       <sup>  
 
