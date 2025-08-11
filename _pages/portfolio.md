@@ -17,6 +17,7 @@ redirect_from:
 
 | Organization & Program Committee | Reviewer                              |
 |---------------------------------|--------------------------------------|
+| [Spice'25@MICRO](https://spice.cs.umd.edu/), Co-Chair| |
 | [HPCA 2026](https://hpca-conf.org/2026/), Program Committee |  |
 | [MICRO 2025](https://microarch.org/micro58/), Program Committee | [IEEE Transactions on Parallel and Distributed Systems](https://dl.acm.org/journal/tpds) |
 | [ISCA 2025](https://iscaconf.org/isca2025/), Industry Track Program Committee | [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755) |

@@ -52,6 +52,9 @@ My single-page CV
   * Coordinator and Administrator, Microprocessor Systems Lab,  
     [Sharif University of Technology](https://www.en.sharif.ir/) | May 13 -- May 14
 
+## Publications & Patents
+  * 45+ Publications at top tier architecture, systems, and robotic venues, see [/publications](https://ramyadhadidi.github.io/publications/)
+  * Author of 9 Provisional patents at Rain AI
 
 ## Honors
   * Best Paper Nominee, IISWC’21 (Nov. 21)
@@ -63,8 +66,9 @@ My single-page CV
   * National Physics Olympiad Finalist, Iran (Feb. 8)
 
 ## Mentoring & Teaching Experience
-  * Mentoring: [/undergraduate_research](https://ramyadhadidi.github.io/portfolio/)
-  * Teaching: [/teaching](https://ramyadhadidi.github.io/portfolio/)
+  * Mentoring, 4+ interns & engineer during industry experiences
+  * Mentoring, 40+ bachelor’s & master’s students during PhD, see [/undergraduate_research](https://ramyadhadidi.github.io/portfolio/)
+  * Teaching, two graduate-level courses, see [/teaching](https://ramyadhadidi.github.io/portfolio/)
 
 ## Skills/Expertise
 
