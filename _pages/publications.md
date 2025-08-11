@@ -8,7 +8,7 @@ title: "Publications"
 <!-- --------------------------------------- -->
 ##  2025
   * __Coruscant: Co-Designing GPU Kernel and Sparse Tensor Core to Advocate Unstructured Sparsity in Efficient LLM Inference__  
-      Donghyeon Joo, Helia Hosseini, _Ramyad Hadidi_, and Bahar Asgari
+      Donghyeon Joo, Helia Hosseini, _Ramyad Hadidi_, and Bahar Asgari  
       [MICRO'25](https://microarch.org/micro58/)
 
   * __Mustafar: Promoting Unstructured Sparsity for KV Cache Pruning in LLM Inference__  
