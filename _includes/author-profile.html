@@ -34,6 +34,9 @@
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fa fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
+      {% if author.resume %}
+        <li><a href="{{ author.resume }}"><i class="ai ai-cv ai-fw" aria-hidden="true"></i> CV</a></li>
+      {% endif %}
       {% if author.googlescholar %}
       <li><a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar ai-fw"></i> Google Scholar</a></li>
       {% endif %}
@@ -114,9 +117,6 @@
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> Wikipedia</a></li>
-      {% endif %}
-      {% if author.resume %}
-        <li><a href="{{ author.resume }}"><i class="ai ai-cv ai-fw" aria-hidden="true"></i> CV</a></li>
       {% endif %}
     </ul>
   </div>
