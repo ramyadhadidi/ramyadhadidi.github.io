@@ -25,16 +25,16 @@ My single-page CV
 
 
 ## Experience
-  * __Senior Staff, ML Computer Architect__  
+  * __Senior Staff, ML Computer Architect__, Performance Architecture  
     [d-Matrix](https://www.d-matrix.ai/) |  Apr. 25 – Present
 
-  * __Senior Research Scientist__  
+  * __Senior Research Scientist__, Architecture  
     [Rain AI](https://rain.ai/) |  Apr. 24 – Apr. 25
 
-  * __Applied ML Researcher__  
+  * __Applied ML Researcher__, Product & Applied Research  
     [Rain AI](https://rain.ai/) |  Mar. 23 – Apr. 24
 
-  * __Staff, Machine Learning Researcher__, Advanced Systems Technology Team  
+  * __Staff, Machine Learning Researcher__, Advanced Systems Technology  
     [SK hynix](https://www.skhynix.com/) |  Feb. 21 – Feb. 23
 
   * __Research Assistant__, [HPArch](http://hparch.gatech.edu/)  
