@@ -6,24 +6,6 @@ redirect_from:
 ---
 My single-page CV
 
-## Education
-* __Georgia Institute of Technology__  
-  __Ph.D., Computer Science__ | Aug. 14 – Aug. 21  
-  Adviser: [Hyesoon Kim](https://www.cc.gatech.edu/~hyesoon/), [HPArch](http://hparch.gatech.edu/)  
-  Thesis: Deploying Deep Neural Networks in Edge with Distribution  
-  GPA: 4.00/4.00  
-
-* __Georgia Institute of Technology__  
-  __M.Sc., Computer Science__ | Aug. 14 – May. 18  
-  Computing System Specialization  
-  GPA: 4.00/4.00  
-
-* __Sharif University of Technology__  
-  __B.Sc., Electrical Engineering__ | Sept. 9 – Aug. 14  
-  Major in Digital Systems  
-  Major GPA: 4.00/4.00  
-
-
 ## Experience
   * __Senior Staff, ML Computer Architect__, Performance Architecture  
     [d-Matrix](https://www.d-matrix.ai/) |  Apr. 25 – Present
@@ -51,6 +33,23 @@ My single-page CV
 
   * Coordinator and Administrator, Microprocessor Systems Lab,  
     [Sharif University of Technology](https://www.en.sharif.ir/) | May 13 -- May 14
+
+## Education
+* __Georgia Institute of Technology__  
+  __Ph.D., Computer Science__ | Aug. 14 – Aug. 21  
+  Adviser: [Hyesoon Kim](https://www.cc.gatech.edu/~hyesoon/), [HPArch](http://hparch.gatech.edu/)  
+  Thesis: Deploying Deep Neural Networks in Edge with Distribution  
+  GPA: 4.00/4.00  
+
+* __Georgia Institute of Technology__  
+  __M.Sc., Computer Science__ | Aug. 14 – May. 18  
+  Computing System Specialization  
+  GPA: 4.00/4.00  
+
+* __Sharif University of Technology__  
+  __B.Sc., Electrical Engineering__ | Sept. 9 – Aug. 14  
+  Major in Digital Systems  
+  Major GPA: 4.00/4.00  
 
 ## Publications & Patents
   * 45+ Publications at top tier architecture, systems, and robotic venues, see [/publications](https://ramyadhadidi.github.io/publications/)
