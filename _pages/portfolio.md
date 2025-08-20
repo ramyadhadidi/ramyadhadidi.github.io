@@ -115,13 +115,11 @@ I enjoyed working closely with our talented undergraduate students during my PhD
 
 # Teaching {#teaching}
 
-I derive my enjoyment in teaching not from the prestige that comes with the traditional teacher-student paradigm, but rather from the intellectual camaraderie shared among those with a common interest in certain subjects.  
+My teaching journey began in high school, where seniors passed on knowledge for the astronomy Olympiad, covering integrals, advanced calculus, differential equations, astrophysics, cosmology, thermodynamics, and much of the undergraduate physics curriculum.
 
-My teaching journey began in high school where I taught a range of topics from calculating planetary trajectories to cosmology. We had a self-funded tradition where seniors passed on knowledge to their juniors in the same way they were taught. This was primarily due to the fact that even the basic concepts required for our astronomy Olympiad (unlike those in mathematics or chemistry) were not covered in most high school curriculums. (To this day, I believe [elliptic integrals](https://mathworld.wolfram.com/EllipticIntegral.html) may still be an unfamiliar concept to many!)  
+During my undergraduate studies in electrical engineering, I served as a teaching assistant (TA) for 12 courses, mainly in computer architecture. In my senior year, I managed the Microprocessor Systems Laboratory at Sharif, the only resource available to undergraduates for Altera and Xilinx FPGA boards, MCUs, and processors faster than [8051](https://en.wikipedia.org/wiki/Intel_8051).  
 
-During my undergraduate years, I served as a teaching assistant (TA) for 12 courses, predominantly in the field of computer architecture. In my senior year, I managed our Microprocessor Systems Laboratory at Sharif, which was the only resource for undergraduates seeking FPGA boards, MCUs, and processors faster than the basic [8051](https://en.wikipedia.org/wiki/Intel_8051).  
-
-While pursuing my PhD at Georgia Tech, I worked as a TA for 3 courses and taught an advanced course in computer organization (a senior-level course in computer architecture) as the primary instructor for two consecutive summers. Below are the websites of these courses.  
+While pursuing my PhD at Georgia Tech, I served as a TA for three courses and taught an advanced senior-level course in computer architecture as the primary instructor for two consecutive summers. The websites for these courses are listed below.  
 
   * Summer 2020: __Instructor__, Georgia Tech, [CS4290 Advanced Computer Organization](http://hparch.gatech.edu/courses/summer20/cs4290/)
   * Summer 2019: __Instructor__, Georgia Tech, [CS4290 Advanced Computer Organization](http://hparch.gatech.edu/courses/summer19/cs4290/)
