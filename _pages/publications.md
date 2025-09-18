@@ -138,7 +138,7 @@ title: "Publications"
 
   * __Copernicus: Characterizing the Performance Implications of Compression Formats Used in Sparse Workloads__  
     Bahar Asgari, _Ramyad Hadidi_, Joshua Dierberge, Charlotte Steinichen, Amaan Marfatia, Hyesoon Kim  
-    IISWC'21  
+    [IISWC'21](https://iiswc.org/iiswc2021/)  
     <sup>
     [__[Paper]__](https://arxiv.org/abs/2011.10932)
     __[Best Paper Nominee]__
