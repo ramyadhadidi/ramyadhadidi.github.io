@@ -7,20 +7,24 @@ title: "Publications"
 <!-- --------------------------------------- -->
 <!-- --------------------------------------- -->
 ##  2025
-  * __Coruscant: Co-Designing GPU Kernel and Sparse Tensor Core to Advocate Unstructured Sparsity in Efficient LLM Inference__  
-      Donghyeon Joo, Helia Hosseini, _Ramyad Hadidi_, and Bahar Asgari  
-      [MICRO'25](https://microarch.org/micro58/)
-
   * __Mustafar: Promoting Unstructured Sparsity for KV Cache Pruning in LLM Inference__  
       Donghyeon Joo, Helya Hosseini, _Ramyad Hadidi_, Bahar Asgari  
+      [NeurIPS'25](https://neurips.cc/).  
       <sup>
       [__[Paper]__](https://www.arxiv.org/abs/2505.22913)
       [__[Repo]__](https://github.com/dhjoo98/mustafar)
       <sup>  
 
+  * __Coruscant: Co-Designing GPU Kernel and Sparse Tensor Core to Advocate Unstructured Sparsity in Efficient LLM Inference__  
+      Donghyeon Joo, Helia Hosseini, _Ramyad Hadidi_, and Bahar Asgari  
+      [MICRO'25](https://microarch.org/micro58/)
+
   * __La Superba: Leveraging a Self-Comparison Method to Understand the Performance Benefits of Sparse Accelerator Optimizations__  
       Nebil Ozer, Gregory Kollmer, _Ramyad Hadidi_, Bahar Asgari  
       [ISPASS'25](https://ispass.org/ispass2025/)  
+      <sup>
+      [__[Paper]__](https://ramyadhadidi.github.io/files/ISPASS25_Sparse_Accelerator_Optimizations.pdf)
+      <sup>  
 
 ##  2024
 
