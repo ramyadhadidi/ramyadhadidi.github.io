@@ -9,7 +9,7 @@ title: "Publications"
 ##  2025
   * __Mustafar: Promoting Unstructured Sparsity for KV Cache Pruning in LLM Inference__  
       Donghyeon Joo, Helya Hosseini, _Ramyad Hadidi_, Bahar Asgari  
-      [NeurIPS'25](https://neurips.cc/).  
+      [NeurIPS'25](https://neurips.cc/)  
       <sup>
       [__[Paper]__](https://www.arxiv.org/abs/2505.22913)
       [__[Repo]__](https://github.com/dhjoo98/mustafar)
