@@ -69,6 +69,23 @@ During my PhD studies, my research primarily focused on the field of computer sc
 
 <hr>
 
+# Teaching {#teaching}
+
+My teaching journey began in high school, where seniors passed on knowledge for the astronomy Olympiad, covering integrals, advanced calculus, differential equations, astrophysics, cosmology, thermodynamics, and much of the undergraduate physics curriculum.
+
+During my undergraduate studies in electrical engineering, I served as **TA for 12 courses**, mainly in computer architecture. In my senior year, I **managed the Microprocessor Systems Laboratory at Sharif**, the only resource available to undergraduates for Altera and Xilinx FPGA boards, MCUs, and processors faster than [8051](https://en.wikipedia.org/wiki/Intel_8051).  
+
+While pursuing my PhD at Georgia Tech, I served as **TA for 3 courses** and as **primary instructor for 2 consecutive summers** for an advanced senior-level course in computer architecture. The websites for these courses are listed below.  
+
+  * Summer 2020: __Instructor__, Georgia Tech, [CS4290 Advanced Computer Organization](http://hparch.gatech.edu/courses/summer20/cs4290/)
+  * Summer 2019: __Instructor__, Georgia Tech, [CS4290 Advanced Computer Organization](http://hparch.gatech.edu/courses/summer19/cs4290/)
+
+<!-- --------------------------------------- -->
+<!-- --------------------------------------- -->
+<!-- --------------------------------------- -->
+
+<hr>
+
 # Undergraduate Research {#undergraduate-research}
 
 I enjoyed working closely with **more then 40** of our talented undergraduate students during my PhD. Together, we achieved significant milestones and our collaborative efforts resulted in several publications. You can find the main website here, [HPArch Undergraduate Research](https://sites.gatech.edu/hparch/undergraduate-research/), although please note that it is no longer actively maintained. Feel free to explore the exciting final demos from our one or two semesters of hard work: 
@@ -77,24 +94,6 @@ I enjoyed working closely with **more then 40** of our talented undergraduate st
 [[Summer'19]](https://photos.google.com/share/AF1QipPNdPhg9Qt0h07SJiktzPoYjvCSOcMX14fIt4m8AwveYUKsK2nHhYzdHQCWOf_WcA?key=M3JVWHJmUEVuajE2UWFqa0pVVDl1UDlsYlhiZ2ln)
 [[Spring'20-1]](https://www.youtube.com/watch?v=-_pJuwXOrnw)
 [[Spring'20-2]](https://www.youtube.com/watch?v=sBywdcMniW4&t=1s)
-
-
-<!-- --------------------------------------- -->
-<!-- --------------------------------------- -->
-<!-- --------------------------------------- -->
-
-<hr>
-
-# Teaching {#teaching}
-
-My teaching journey began in high school, where seniors passed on knowledge for the astronomy Olympiad, covering integrals, advanced calculus, differential equations, astrophysics, cosmology, thermodynamics, and much of the undergraduate physics curriculum.
-
-During my undergraduate studies in electrical engineering, I served as a teaching assistant (TA) for 12 courses, mainly in computer architecture. In my senior year, I managed the Microprocessor Systems Laboratory at Sharif, the only resource available to undergraduates for Altera and Xilinx FPGA boards, MCUs, and processors faster than [8051](https://en.wikipedia.org/wiki/Intel_8051).  
-
-While pursuing my PhD at Georgia Tech, I served as a TA for three courses and taught an advanced senior-level course in computer architecture as the primary instructor for two consecutive summers. The websites for these courses are listed below.  
-
-  * Summer 2020: __Instructor__, Georgia Tech, [CS4290 Advanced Computer Organization](http://hparch.gatech.edu/courses/summer20/cs4290/)
-  * Summer 2019: __Instructor__, Georgia Tech, [CS4290 Advanced Computer Organization](http://hparch.gatech.edu/courses/summer19/cs4290/)
 
 
 <!-- --------------------------------------- -->
