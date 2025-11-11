@@ -12,12 +12,17 @@ title: "Publications"
       [NeurIPS'25](https://neurips.cc/)  
       <sup>
       [__[Paper]__](https://www.arxiv.org/abs/2505.22913)
-      [__[Repo]__](https://github.com/dhjoo98/mustafar)
+      [__[Slides]__](https://ramyadhadidi.github.io/files/mustafar_NeurIPS25.pdf)
+      [__[Code]__](https://github.com/dhjoo98/mustafar)
       <sup>  
 
   * __Coruscant: Co-Designing GPU Kernel and Sparse Tensor Core to Advocate Unstructured Sparsity in Efficient LLM Inference__  
       Donghyeon Joo, Helia Hosseini, _Ramyad Hadidi_, and Bahar Asgari  
       [MICRO'25](https://microarch.org/micro58/)
+      <sup>
+      [__[Paper]__](https://dl.acm.org/doi/10.1145/3725843.3756065)
+      [__[Code]__](https://github.com/dhjoo98/coruscant)
+      <sup>  
 
   * __La Superba: Leveraging a Self-Comparison Method to Understand the Performance Benefits of Sparse Accelerator Optimizations__  
       Nebil Ozer, Gregory Kollmer, _Ramyad Hadidi_, Bahar Asgari  
@@ -48,7 +53,6 @@ title: "Publications"
       <sup>
       [__[Paper]__](https://ramyadhadidi.github.io/files/hadidi-csce23-LCP.pdf)
       [__[Slides]__](https://ramyadhadidi.github.io/files/hadidi-csce23-LCP-slides.pdf)
-      [19% Acceptance Rate]
       <sup>  
 
   * __Reducing Inference Latency with Concurrent Architectures for Image Recognition at Edge__  
@@ -57,7 +61,6 @@ title: "Publications"
       <sup>
       [__[Paper]__](https://ramyadhadidi.github.io/files/hadidi-Edge-2023-ConcurrentNNs.pdf)
       [__[Slides]__](https://ramyadhadidi.github.io/files/hadidi-Edge-2023-ConcurrentNNs-slides.pdf)
-      [17% Acceptance Rate]
       <sup>  
 
   * __Creating Robust Deep Neural Networks With Coded Distributed Computing for IoT__  
