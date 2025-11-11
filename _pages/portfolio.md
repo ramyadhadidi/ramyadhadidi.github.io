@@ -7,14 +7,11 @@ redirect_from:
   - /academia
 ---
 
-[🏛️ Service](#service) | [🎤 Invited Talks](#invited-talks) | [🧠 Academic Research](#academic-research) | [👩‍🔬 Undergraduate Research](#undergraduate-research) | [📚 Teaching](#teaching)
-
-
 <!-- --------------------------------------- -->
 <!-- --------------------------------------- -->
 <!-- --------------------------------------- -->
 
-# 🏛️ Service {#service}
+# Service {#service}
 
 | Organization Committee |
 |----------------------|
@@ -79,7 +76,7 @@ redirect_from:
 
 <hr>
 
-# 🎤 Invited Talks {#invited-talks}
+# Invited Talks {#invited-talks}
 
 * [__ReLAMP @ MICRO'25__](https://freddygabbay.github.io/ReLAMP-MICRO/), Efficient Microarchitectures for Resilient Large Model Processing Workshop in conjunction with MICRO 2025,  
   “From KV Caches to Tensor Cores: Practical Unstructured Sparsity for LLM Inference.” Seoul, South Korea, October 2025.
@@ -120,7 +117,7 @@ redirect_from:
 
 <hr>
 
-# 🧠 Academic Research {#academic-research}
+# Academic Research {#academic-research}
 
 During my PhD studies, my research primarily focused on the field of computer science, with a particular emphasis on managing data in edge systems. I strived to establish guidelines that navigate the trade-offs between hardware and software for the next generation of these systems. To effectively address the unique constraints presented by edge systems, my work involved the development of innovative machine learning techniques and the exploitation of hardware-software synergy.
 
@@ -136,7 +133,7 @@ During my PhD studies, my research primarily focused on the field of computer sc
 
 <hr>
 
-# 👩‍🔬 Undergraduate Research {#undergraduate-research}
+# Undergraduate Research {#undergraduate-research}
 
 I enjoyed working closely with **more then 40** of our talented undergraduate students during my PhD. Together, we achieved significant milestones and our collaborative efforts resulted in several publications. You can find the main website here, [HPArch Undergraduate Research](https://sites.gatech.edu/hparch/undergraduate-research/), although please note that it is no longer actively maintained. Feel free to explore the exciting final demos from our one or two semesters of hard work: 
 [[SysML'19]](https://hparch.gatech.edu/sysml)
@@ -152,7 +149,7 @@ I enjoyed working closely with **more then 40** of our talented undergraduate st
 
 <hr>
 
-# 📚 Teaching {#teaching}
+# Teaching {#teaching}
 
 My teaching journey began in high school, where seniors passed on knowledge for the astronomy Olympiad, covering integrals, advanced calculus, differential equations, astrophysics, cosmology, thermodynamics, and much of the undergraduate physics curriculum.
 
