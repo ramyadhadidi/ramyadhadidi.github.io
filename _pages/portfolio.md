@@ -7,75 +7,10 @@ redirect_from:
   - /academia
 ---
 
-<!-- --------------------------------------- -->
-<!-- --------------------------------------- -->
-<!-- --------------------------------------- -->
-
-# Service {#service}
-
-| Organization Committee |
-|----------------------|
-| [Spice'25@MICRO](https://spice.cs.umd.edu/), Co-Chair |
-
-| Session Chairs |
-|----------------------|
-| [MICRO 2025](https://microarch.org/micro58/), Session Systems for AI (LLMs) |
-| [MICRO 2024](https://microarch.org/micro57/), Session GPU Synchronization/Concurrency |
-
-| Program Committee |
-|----------------------|
-| [ISCA 2026](https://iscaconf.org/isca2026/), Program Committee |
-| [HPCA 2026](https://hpca-conf.org/2026/), Program Committee |
-| [MICRO 2025](https://microarch.org/micro58/), Program Committee |
-| [ISCA 2025](https://iscaconf.org/isca2025/), Industry Track Program Committee |
-| [HPCA 2025](https://hpca-conf.org/2025/), Program Committee |
-| [ICCD 2024](https://www.iccd-conf.com/Home.html), Program Committee |
-| [MICRO 2024](https://microarch.org/micro57/), External Review Committee |
-| [ISCA 2024](https://iscaconf.org/isca2024/), Industry Track Program Committee |
-| [DAC 2024](https://www.dac.com/Conference/2024-Call-for-Contributions), Program Committee |
-| [HPCA 2024](https://hpca-conf.org/2024/), Program Committee |
-| [DeLTA 2024](https://delta.scitevents.org/), Program Committee |
-| [ISCA 2023](https://iscaconf.org/isca2023/), Program Committee |
-| [MICRO 2022](https://microarch.org/micro55/index.php), Artifact Evaluation |
-| [ISCA 2022](https://iscaconf.org/isca2022/), External Review Committee |
-| [ASPLOS 2022](https://asplos-conference.org/asplos2022/index.html), External Review Committee |
-| Georgia Tech ArchiTECH 2016, Organization Committee |
-
-| Journal Reviewer |
-|------------------------|
-| [IEEE Transactions on Parallel and Distributed Systems](https://dl.acm.org/journal/tpds) |
-| [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755) |
-| [IEEE Internet of Things Journal](https://ieee-iotj.org/) |
-| [Springer Journal of Supercomputing](https://www.springer.com/journal/11227) |
-| [IEEE Transactions on Services Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4629386) |
-| [IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43) |
-| [ACM Transactions on Architecture and Code Optimization](https://dl.acm.org/journal/taco) |
-| [IEEE/ACM Transactions on Networking](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=90) |
-| [IEEE Transactions on Vehicular Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=25) |
-| [IEEE Journal on Emerging and Selected Topics in Circuits and Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5503868) |
-| [IEEE Access](https://ieeeaccess.ieee.org/) |
-| [IEEE Micro](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=40) |
-| [IEEE Transactions on Computers](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12) |
-| [ScienceDirect Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence) |
-
-| Submission Co-Chair |
-|----------|
-| [MICRO Top Picks 2020](https://ieeexplore.ieee.org/document/9441012) |
-| [MICRO 2018](https://microarch.org/micro51/) |
-
-
-| Community |
-|-----------|
-| Mentor Portfolio Project, [AI4ALL](https://ai-4-all.org/), 2024 |
-| Student Volunteer for PACT’20 (IEEE/ACM), 2020 |
-| Student Chaperone for PhD Visit Days (Georgia Tech), 2015 |
-
 
 <!-- --------------------------------------- -->
 <!-- --------------------------------------- -->
 <!-- --------------------------------------- -->
-
-<hr>
 
 # Invited Talks {#invited-talks}
 
@@ -160,3 +95,62 @@ While pursuing my PhD at Georgia Tech, I served as a TA for three courses and ta
 
   * Summer 2020: __Instructor__, Georgia Tech, [CS4290 Advanced Computer Organization](http://hparch.gatech.edu/courses/summer20/cs4290/)
   * Summer 2019: __Instructor__, Georgia Tech, [CS4290 Advanced Computer Organization](http://hparch.gatech.edu/courses/summer19/cs4290/)
+
+
+<!-- --------------------------------------- -->
+<!-- --------------------------------------- -->
+<!-- --------------------------------------- -->
+
+<hr>
+
+# Service {#service}
+
+### Organization Committee
+- [Spice'25@MICRO](https://spice.cs.umd.edu/), Co-Chair
+
+### Session Chair
+- [MICRO 2025](https://microarch.org/micro58/), Session Systems for AI (LLMs)
+- [MICRO 2024](https://microarch.org/micro57/), Session GPU Synchronization/Concurrency
+
+### Program Committees
+- [ISCA 2026](https://iscaconf.org/isca2026/), Program Committee
+- [HPCA 2026](https://hpca-conf.org/2026/), Program Committee
+- [MICRO 2025](https://microarch.org/micro58/), Program Committee
+- [ISCA 2025](https://iscaconf.org/isca2025/), Industry Track Program Committee
+- [HPCA 2025](https://hpca-conf.org/2025/), Program Committee
+- [ICCD 2024](https://www.iccd-conf.com/Home.html), Program Committee
+- [MICRO 2024](https://microarch.org/micro57/), External Review Committee
+- [ISCA 2024](https://iscaconf.org/isca2024/), Industry Track Program Committee
+- [DAC 2024](https://www.dac.com/Conference/2024-Call-for-Contributions), Program Committee
+- [HPCA 2024](https://hpca-conf.org/2024/), Program Committee
+- [DeLTA 2024](https://delta.scitevents.org/), Program Committee
+- [ISCA 2023](https://iscaconf.org/isca2023/), Program Committee
+- [MICRO 2022](https://microarch.org/micro55/index.php), Artifact Evaluation
+- [ISCA 2022](https://iscaconf.org/isca2022/), External Review Committee
+- [ASPLOS 2022](https://asplos-conference.org/asplos2022/index.html), External Review Committee
+- Georgia Tech ArchiTECH 2016, Organization Committee
+
+### Journal Reviewer
+- [IEEE Transactions on Parallel and Distributed Systems](https://dl.acm.org/journal/tpds)
+- [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)
+- [IEEE Internet of Things Journal](https://ieee-iotj.org/)
+- [Springer Journal of Supercomputing](https://www.springer.com/journal/11227)
+- [IEEE Transactions on Services Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4629386)
+- [IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43)
+- [ACM Transactions on Architecture and Code Optimization](https://dl.acm.org/journal/taco)
+- [IEEE/ACM Transactions on Networking](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=90)
+- [IEEE Transactions on Vehicular Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=25)
+- [IEEE Journal on Emerging and Selected Topics in Circuits and Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5503868)
+- [IEEE Access](https://ieeeaccess.ieee.org/)
+- [IEEE Micro](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=40)
+- [IEEE Transactions on Computers](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12)
+- [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)
+
+### Submission Co-Chair
+- [MICRO Top Picks 2020](https://ieeexplore.ieee.org/document/9441012)
+- [MICRO 2018](https://microarch.org/micro51/)
+
+### Community
+- Mentor, Portfolio Project, [AI4ALL](https://ai-4-all.org/), 2024
+- Student Volunteer, PACT’20 (IEEE/ACM), 2020
+- Student Chaperone, PhD Visit Days (Georgia Tech), 2015
