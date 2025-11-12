@@ -12,7 +12,7 @@ title: "Publications"
       [NeurIPS'25](https://neurips.cc/)  
       <sup>
       [__[Paper]__](https://www.arxiv.org/abs/2505.22913)
-      [__[Slides]__](https://ramyadhadidi.github.io/files/mustafar_NeurIPS25.pdf)
+      [__[Slides]__](https://ramyadhadidi.github.io/files/Mustafar_NeurIPS.pdf)
       [__[Code]__](https://github.com/dhjoo98/mustafar)
       </sup>  
 
@@ -21,6 +21,7 @@ title: "Publications"
       [MICRO'25](https://microarch.org/micro58/)  
       <sup>
       [__[Paper]__](https://dl.acm.org/doi/10.1145/3725843.3756065)
+      [__[Slides]__](https://ramyadhadidi.github.io/files/Coruscant_MICRO.pdf)
       [__[Code]__](https://github.com/dhjoo98/coruscant)
       </sup>  
 
