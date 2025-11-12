@@ -14,6 +14,7 @@ title: "Publications"
       [__[Paper]__](https://www.arxiv.org/abs/2505.22913)
       [__[Slides]__](https://ramyadhadidi.github.io/files/Mustafar_NeurIPS.pdf)
       [__[Code]__](https://github.com/dhjoo98/mustafar)
+      [__[Talk]__](https://recorder-v3.slideslive.com/?share=106688&s=b2e3c1eb-6746-4cf5-a0be-909f6407b78b)
       </sup>  
 
   * __Coruscant: Co-Designing GPU Kernel and Sparse Tensor Core to Advocate Unstructured Sparsity in Efficient LLM Inference__  
@@ -23,6 +24,7 @@ title: "Publications"
       [__[Paper]__](https://dl.acm.org/doi/10.1145/3725843.3756065)
       [__[Slides]__](https://ramyadhadidi.github.io/files/Coruscant_MICRO.pdf)
       [__[Code]__](https://github.com/dhjoo98/coruscant)
+      [__[Talk]__](https://drive.google.com/file/d/1qXV01O6wB8EhNk1DXY_oobhGTuInSMgP/view?usp=sharing)
       </sup>  
 
   * __La Superba: Leveraging a Self-Comparison Method to Understand the Performance Benefits of Sparse Accelerator Optimizations__  
