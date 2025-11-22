@@ -1,23 +1,74 @@
-## My Guide
+# ramyadhadidi.github.io
 
-Feel free to use this modified template!
+My personal site is built with [Jekyll](https://jekyllrb.com/) on top of the Minimal Mistakes / Academic Pages theme. This document captures everything you need to reproduce the GitHub Pages build locally so changes can be previewed before pushing to `master`.
 
-- Font: _sass/_reset.scss
-- Font loading: assets/css/academicons.css
-- Colors and variable: assets/css/main.scss + _sass/_variables.scss
-- Icons:
-    - Icons Drawing: assets/fonts/fontawesome-webfont.svg
-    - Icon CSS: _sass/vendor/font-awesome/_icons.scss
-    - Icon Drawing: assets/fonts/academicons.svg
-    - Icons CSS: assets/css/academicons.css
-    - Icon Usage per Class: _sass/vendor/font-awesome/_variables.scss
-    - Icon Classes: _sass/vendor/font-awesome/_icons.scss
+## Tech stack
 
-## To run locally (not on GitHub Pages, to serve on your own computer)
-1. Clone the repository and made updates as detailed above
-1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
-1. Run `bundle clean` to clean up the directory (no need to run `--force`)
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `bundle exec jekyll serve` to generate the HTML and serve it from localhost:4000
+- Ruby + Bundler + `github-pages` gem (mirrors the GitHub Pages environment)
+- Node.js/npm for the legacy JS bundling scripts (`npm run build:js`)
+- SCSS pipeline handled by Jekyll/Minimal Mistakes
 
-See more info at https://academicpages.github.io/
+## Prerequisites
+
+Install the following on your development machine (macOS instructions assume Homebrew):
+
+1. **Ruby** that matches GitHub Pages (currently 3.3.x). `brew install ruby` or manage via rbenv/asdf.
+2. **Bundler**: `gem install bundler` (Bundler 2.5+ recommended).
+3. **Node.js 18+**: `brew install node` (needed only if you plan to rebuild/minify custom JS).
+4. **GNU make / build essentials** (already available on macOS once Command Line Tools are installed).
+
+> Tip: run `ruby -v`, `bundler -v`, and `node -v` to confirm everything before continuing.
+
+## First-time setup
+
+```bash
+git clone git@github.com:ramyadhadidi/ramyadhadidi.github.io.git
+cd ramyadhadidi.github.io
+
+# Install Ruby gems (matches GitHub Pages build)
+bundle install --path vendor/bundle   # keeps gems out of the system directories
+
+# Install optional Node dependencies for JS bundling
+npm install
+```
+
+If Bundler warns about missing platforms, you can record the lockfile platform locally with `bundle lock --add-platform ruby`. This keeps your environment aligned with GitHub Pages.
+
+## Running the site locally
+
+Use the default production config plus the development overrides to disable analytics and enable expanded Sass output:
+
+```bash
+bundle exec jekyll serve --livereload --config _config.yml,_config.dev.yml
+```
+
+The site will be available at `http://localhost:4000/` (as defined in `_config.dev.yml`). `Ctrl+C` stops the server.
+
+## Building for production
+
+```bash
+bundle exec jekyll build --config _config.yml
+```
+
+The generated site will be written to `_site/`. GitHub Pages performs the same command automatically on every push to `master`.
+
+## JavaScript bundling (optional)
+
+If you edit files under `assets/js`, rebuild the minified bundle before committing:
+
+```bash
+npm run build:js   # Uses UglifyJS to regenerate assets/js/main.min.js
+```
+
+You can watch for changes with `npm run watch:js` while iterating locally.
+
+## Useful troubleshooting commands
+
+- `bundle exec github-pages versions` – see the exact gem/toolchain versions GitHub Pages expects.
+- `bundle update github-pages` – sync to the latest GitHub Pages gem (run sparingly and test).
+- `bundle exec jekyll doctor` – catch common configuration pitfalls.
+
+## Credit / references
+
+- Theme foundation: [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/)
+- Academic Pages starter: https://academicpages.github.io/
