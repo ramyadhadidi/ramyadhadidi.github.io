@@ -28,6 +28,10 @@ cd ramyadhadidi.github.io
 # Install Ruby gems (matches GitHub Pages build)
 bundle install --path vendor/bundle   # keeps gems out of the system directories
 
+# Capture the resolved gem set so GitHub Pages matches your local env
+bundle lock --add-platform ruby
+git add Gemfile.lock   # commit whenever the lock file changes
+
 # Install optional Node dependencies for JS bundling
 npm install
 ```
