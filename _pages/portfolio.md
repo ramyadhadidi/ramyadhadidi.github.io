@@ -4,7 +4,6 @@ title: "Portfolio"
 redirect_from:
   - /research
   - /teaching
-  - /academia
 ---
 
 
@@ -21,7 +20,7 @@ redirect_from:
   “On-Device Computing: Rain AI’s Mission for Energy-Efficient AI Hardware.” Buenos Aires, Argentina, June 2024.
 
 * [__UCI IAP Workshop__](https://www.industry-academia.org/uci-2024.html), UC Irvine Industry-Academia Partnership Workshop,  
-  “On-Device Computing: Rain AI’s Mission for Energy-Efficient AI Hardware.” Irvine, CA, May 2024.
+  “On-Device Computing: Rain AI’s Mission for Energy-Efficient AI Hardware.” Irvine, CA, May 2024. [[video]](https://vimeo.com/showcase/10699125?video=943465496)
 
 * [__AMD__](https://www.amd.com/en.html), AMD Tech Talk,  
   “Harnessing the Power of Edge Systems in a Data-Driven World.” February 2024.
