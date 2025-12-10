@@ -60,7 +60,8 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : /images/profile2.jpg  # Open Graph/Twitter default site image
+og_image                 : profile2.jpg  # Open Graph/Twitter default site image
+keywords                 : ["Computer Architecture", "AI Accelerators", "Compute-in-Memory", "Hardware/Software Co-design", "Georgia Tech", "Ramyad Hadidi"]
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
