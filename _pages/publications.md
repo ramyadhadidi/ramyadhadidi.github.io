@@ -32,7 +32,7 @@ title: "Publications"
       [ISPASS'25](https://ispass.org/ispass2025/)  
       <sup>
       [__[Paper]__](https://ramyadhadidi.github.io/files/ISPASS25_Sparse_Accelerator_Optimizations.pdf)
-      <sup>  
+      </sup>  
 
 ##  2024
 
@@ -40,7 +40,7 @@ title: "Publications"
       Donghyeon Joo, _Ramyad Hadidi_, Soheil Feizi, Bahar Asgari  
       <sup>
       [__[Paper]__](https://arxiv.org/abs/2406.11674)
-      <sup>  
+      </sup>  
 
   * __Network Architecture Search of X-Ray Based Scientific Applications__  
       Adarsha Balaji, _Ramyad Hadidi_, Gregory Kollmer, Mohammed E. Fouda, Prasanna Balaprakash  
