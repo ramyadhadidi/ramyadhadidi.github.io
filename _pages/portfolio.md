@@ -116,11 +116,11 @@ I enjoyed working closely with **more then 40** of our talented undergraduate st
 - [MICRO 2025](https://microarch.org/micro58/), Program Committee
 - [ISCA 2025](https://iscaconf.org/isca2025/), Industry Track Program Committee
 - [HPCA 2025](https://hpca-conf.org/2025/), Program Committee
-- [ICCD 2024](https://www.iccd-conf.com/Home.html), Program Committee
+- [ICCD 2024](https://iccd-conf.com/2024/Home.html), Program Committee
 - [MICRO 2024](https://microarch.org/micro57/), External Review Committee
 - [ISCA 2024](https://iscaconf.org/isca2024/), Industry Track Program Committee
 - [DAC 2024](https://www.dac.com/Conference/2024-Call-for-Contributions), Program Committee
-- [HPCA 2024](https://hpca-conf.org/2024/), Program Committee
+- [HPCA 2024](https://www.hpca-conf.org/2024/committees/pc.php), Program Committee
 - [DeLTA 2024](https://delta.scitevents.org/), Program Committee
 - [ISCA 2023](https://iscaconf.org/isca2023/), Program Committee
 - [MICRO 2022](https://microarch.org/micro55/index.php), Artifact Evaluation
