@@ -10,7 +10,7 @@ My single-page CV
   * __Senior Staff, ML Computer Architect__, Performance Architecture  
     [d-Matrix](https://www.d-matrix.ai/) |  Apr. 25 – Present
 
-  * __Senior Research Scientist__, Architecture  
+  * __Senior Scientist__, Architecture  
     [Rain AI](https://rain.ai/) |  Apr. 24 – Apr. 25
 
   * __Applied ML Researcher__, Product & Applied Research  
