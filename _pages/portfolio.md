@@ -111,6 +111,7 @@ I enjoyed working closely with **more then 40** of our talented undergraduate st
 - [MICRO 2024](https://microarch.org/micro57/), Session GPU Synchronization/Concurrency
 
 ### Program Committees
+- [MICRO 2026](https://microarch.org/micro59/), Program Committee
 - [ISCA 2026](https://iscaconf.org/isca2026/), Program Committee
 - [HPCA 2026](https://hpca-conf.org/2026/), Program Committee
 - [MICRO 2025](https://microarch.org/micro58/), Program Committee
@@ -129,6 +130,7 @@ I enjoyed working closely with **more then 40** of our talented undergraduate st
 - Georgia Tech ArchiTECH 2016, Organization Committee
 
 ### Journal Reviewer
+- [IEEE Transactions on Cloud Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6245519)
 - [IEEE Transactions on Parallel and Distributed Systems](https://dl.acm.org/journal/tpds)
 - [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)
 - [IEEE Internet of Things Journal](https://ieee-iotj.org/)
