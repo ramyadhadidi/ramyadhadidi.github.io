@@ -105,19 +105,30 @@ title: "Publications"
     [__[Slides]__](https://ramyadhadidi.github.io/files/DOSSA4-DynaaDCP-slides.pdf)
     </sup>  
 
+
+<!-- --------------------------------------- -->
+<!-- --------------------------------------- -->
+<!-- --------------------------------------- -->
+
+# PhD Dissertation
+
+  * __Deploying Deep Neural Networks in Edge with Distribution__  
+      [PhD Dissertation](http://hdl.handle.net/1853/64765)  
+      _Ramyad Hadidi_  
+      <sup>
+      [__[Georgia Tech Library]__](http://hdl.handle.net/1853/64765)
+      </sup>  
+      <sup> 
+      \* Blends my IROS'18, IISWC'19, DAC'19, IoTJ'20, and CSCE'23 Papers.  
+      \* Most of my PhD research work never ended up in my thesis.
+      </sup> 
+
+
 <!-- --------------------------------------- -->
 <!-- --------------------------------------- -->
 <!-- --------------------------------------- -->
 
 ## 2021
-
-  * __Deploying Deep Neural Networks in Edge with Distribution__  
-    [PhD Dissertation](https://smartech.gatech.edu/handle/1853/64765)  
-    _Ramyad Hadidi_  
-    <sup>
-    [__[Georgia Tech Library]__](https://smartech.gatech.edu/handle/1853/64765)
-    <sup>  
-
 
   * __Quantifying the Design-Space Tradeoffs in Autonomous Drones__  
     _Ramyad Hadidi_, Bahar Asgari, Sam Jijina, Adriana Amyette, Nima Shoghi, Hyesoon Kim  
