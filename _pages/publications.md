@@ -110,7 +110,7 @@ title: "Publications"
 <!-- --------------------------------------- -->
 <!-- --------------------------------------- -->
 
-# PhD Dissertation
+## PhD Dissertation
 
   * __Deploying Deep Neural Networks in Edge with Distribution__  
       [PhD Dissertation](http://hdl.handle.net/1853/64765)  
