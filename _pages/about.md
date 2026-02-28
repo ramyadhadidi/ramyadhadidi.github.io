@@ -43,5 +43,5 @@ Currently, at [d-Matrix](https://www.d-matrix.ai/), I am part of the architectur
 </ul>
 
 ### [Selected Work]({% link _pages/portfolio.md %})
-<style>.feature__wrapper .archive__item-title { font-size: 1em; }</style>
+<style>.feature__wrapper .archive__item-title { font-size: 0.75em; }</style>
 {% include feature_row %}
