@@ -11,14 +11,14 @@ feature_row:
     btn_label: "Watch"
     btn_class: "btn--inverse"
   - title: "PhD Research"
-    excerpt: "Guidelines navigating hardware-software trade-offs for next-gen edge devices."
+    excerpt: "Guidelines navigating hardware-software trade-offs for next-gen edge devices; 2014--2021."
     url: "/files/overview-website.pdf"
     btn_label: "Overview"
     btn_class: "btn--inverse"
   - title: "Undergrad Research Demos"
     excerpt: "Working closely with 40+ talented undergraduates, resulting in several publications and interactive demos."
     url: "https://sites.gatech.edu/hparch/undergraduate-research/"
-    btn_label: "Demo"
+    btn_label: "Demos"
     btn_class: "btn--inverse"
 ---
 ### [About Me]({% link _pages/about.md %})
