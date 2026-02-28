@@ -30,11 +30,12 @@ Currently, at [d-Matrix](https://www.d-matrix.ai/), I am part of the architectur
 
 ### [Last Entries]({% link _pages/entries.md %})
 <ul id="recent-posts" style="list-style-type: none; padding-left: 0">
-{% assign entries = site.pages | where_exp: "item", "item.path contains 'entries'" | where_exp: "item", "item.name != 'entries.md'" | sort: 'date' | reverse %}
+{% assign entries = site.pages | where_exp: "item", "item.path contains 'entries' and item.name != 'entries.md'" | sort: 'date' | reverse %}
 {% for entry in entries limit:3 %}
   <li><span style="color: gray;">{{ entry.date | date: "%m.%Y" }}</span> - <a href="{{ entry.url | relative_url }}">{{ entry.title }} </a></li>
 {% endfor %}
 </ul>
 
 ### [Selected Work]({% link _pages/portfolio.md %})
+<style>.feature__wrapper .archive__item-title { font-size: 1em; }</style>
 {% include feature_row %}
