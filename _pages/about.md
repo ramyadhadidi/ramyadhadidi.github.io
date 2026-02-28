@@ -30,9 +30,15 @@ Currently, at [d-Matrix](https://www.d-matrix.ai/), I am part of the architectur
 
 ### [Last Entries]({% link _pages/entries.md %})
 <ul id="recent-posts" style="list-style-type: none; padding-left: 0">
-{% assign entries = site.pages | where_exp: "item", "item.path contains 'entries' and item.name != 'entries.md'" | sort: 'date' | reverse %}
-{% for entry in entries limit:3 %}
-  <li><span style="color: gray;">{{ entry.date | date: "%m.%Y" }}</span> - <a href="{{ entry.url | relative_url }}">{{ entry.title }} </a></li>
+{% assign sorted_pages = site.pages | sort: 'date' | reverse %}
+{% assign entry_count = 0 %}
+{% for entry in sorted_pages %}
+  {% if entry.path contains 'entries' and entry.name != 'entries.md' %}
+    {% if entry_count < 3 %}
+      <li><span style="color: gray;">{{ entry.date | date: "%m.%Y" }}</span> - <a href="{{ entry.url | relative_url }}">{{ entry.title }} </a></li>
+      {% assign entry_count = entry_count | plus: 1 %}
+    {% endif %}
+  {% endif %}
 {% endfor %}
 </ul>
 
