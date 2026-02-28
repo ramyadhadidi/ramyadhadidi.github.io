@@ -111,16 +111,17 @@ I enjoyed working closely with **more then 40** of our talented undergraduate st
 - [MICRO 2024](https://microarch.org/micro57/), Session GPU Synchronization/Concurrency
 
 ### Program Committees
+- [MICRO 2026](https://microarch.org/micro59/), Program Committee
 - [ISCA 2026](https://iscaconf.org/isca2026/), Program Committee
 - [HPCA 2026](https://hpca-conf.org/2026/), Program Committee
 - [MICRO 2025](https://microarch.org/micro58/), Program Committee
 - [ISCA 2025](https://iscaconf.org/isca2025/), Industry Track Program Committee
 - [HPCA 2025](https://hpca-conf.org/2025/), Program Committee
-- [ICCD 2024](https://www.iccd-conf.com/Home.html), Program Committee
+- [ICCD 2024](https://iccd-conf.com/2024/Home.html), Program Committee
 - [MICRO 2024](https://microarch.org/micro57/), External Review Committee
 - [ISCA 2024](https://iscaconf.org/isca2024/), Industry Track Program Committee
 - [DAC 2024](https://www.dac.com/Conference/2024-Call-for-Contributions), Program Committee
-- [HPCA 2024](https://hpca-conf.org/2024/), Program Committee
+- [HPCA 2024](https://www.hpca-conf.org/2024/committees/pc.php), Program Committee
 - [DeLTA 2024](https://delta.scitevents.org/), Program Committee
 - [ISCA 2023](https://iscaconf.org/isca2023/), Program Committee
 - [MICRO 2022](https://microarch.org/micro55/index.php), Artifact Evaluation
@@ -129,6 +130,7 @@ I enjoyed working closely with **more then 40** of our talented undergraduate st
 - Georgia Tech ArchiTECH 2016, Organization Committee
 
 ### Journal Reviewer
+- [IEEE Transactions on Cloud Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6245519)
 - [IEEE Transactions on Parallel and Distributed Systems](https://dl.acm.org/journal/tpds)
 - [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)
 - [IEEE Internet of Things Journal](https://ieee-iotj.org/)

@@ -10,7 +10,7 @@ My single-page CV
   * __Senior Staff, ML Computer Architect__, Performance Architecture  
     [d-Matrix](https://www.d-matrix.ai/) |  Apr. 25 – Present
 
-  * __Senior Research Scientist__, Architecture  
+  * __Senior Scientist__, Architecture  
     [Rain AI](https://rain.ai/) |  Apr. 24 – Apr. 25
 
   * __Applied ML Researcher__, Product & Applied Research  
@@ -52,8 +52,8 @@ My single-page CV
   Major GPA: 4.00/4.00  
 
 ## Publications & Patents
-  * 45+ Publications at top tier architecture, systems, and robotic venues, see [/publications](https://ramyadhadidi.github.io/publications/)
-  * Author of 9 Provisional patents at Rain AI
+  * 48+ Publications (h-index 22) at top tier architecture, systems, and robotic venues, see [/publications](https://ramyadhadidi.github.io/publications/)
+  * Author of 9 patents on AI hardware accelerators
 
 ## Honors
   * Best Paper Nominee, IISWC’21 (Nov. 21)
