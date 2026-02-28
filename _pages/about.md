@@ -6,12 +6,12 @@ redirect_from:
 
 feature_row:
   - title: "Invited Talk"
-    excerpt: "On-Device Computing: Rain AI's Mission for Energy-Efficient AI Hardware — UCI IAP Workshop, 2024."
+    excerpt: "On-Device Computing: Rain AI's Mission for Energy-Efficient AI Hardware; UCI IAP Workshop, 2024."
     url: "https://vimeo.com/showcase/10699125?video=943465496"
     btn_label: "Watch"
     btn_class: "btn--inverse"
   - title: "PhD Research"
-    excerpt: "Managing data in edge systems — guidelines navigating hardware-software trade-offs for next-gen edge."
+    excerpt: "Guidelines navigating hardware-software trade-offs for next-gen edge devices."
     url: "/files/overview-website.pdf"
     btn_label: "Overview"
     btn_class: "btn--inverse"
