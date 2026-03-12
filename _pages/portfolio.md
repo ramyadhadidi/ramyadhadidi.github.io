@@ -123,7 +123,6 @@ I enjoyed working closely with **more then 40** of our talented undergraduate st
 - [ISCA 2024](https://iscaconf.org/isca2024/), Industry Track Program Committee
 - [DAC 2024](https://www.dac.com/Conference/2024-Call-for-Contributions), Program Committee
 - [HPCA 2024](https://www.hpca-conf.org/2024/committees/pc.php), Program Committee
-- [DeLTA 2024](https://delta.scitevents.org/), Program Committee
 - [ISCA 2023](https://iscaconf.org/isca2023/), Program Committee
 - [MICRO 2022](https://microarch.org/micro55/index.php), Artifact Evaluation
 - [ISCA 2022](https://iscaconf.org/isca2022/), External Review Committee
