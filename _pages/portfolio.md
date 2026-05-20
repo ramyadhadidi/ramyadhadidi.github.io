@@ -57,46 +57,37 @@ redirect_from:
 
 ### Granted / Published (US)
 
-- **G3.** “Time Multiplexing and Weight Duplication in Efficient In-Memory Computing.”  
-  US Patent App. 19/033,296; published Oct. 16, 2025.  
+- [Time Multiplexing and Weight Duplication in Efficient In-Memory Computing](https://patents.google.com/patent/US20250321684A1/en).  
   <small>Oct. 2025</small>
 
-- **G2.** “High-Speed In-Memory Computing Using Dynamical Memory.”  
-  US Patent App. 19/032,785; published Jul. 24, 2025.  
+- [High-Speed In-Memory Computing Using Dynamical Memory](https://patents.google.com/patent/US20250238482A1/en).  
   <small>Jul. 2025</small>
 
-- **G1.** “System and Method of Transposed Matrix-Vector Multiplication.”  
-  US Patent 12,608,439.  
+- [System and Method of Transposed Matrix-Vector Multiplication](https://patents.google.com/patent/US12608439B2/en).  
   <small>Mar. 2025</small>
 
 ### Provisional / Pending
 
-- **6.** “Workload Mapping to Matrix Multiplication Engines.”  
-  US Patent App. 19/540,513; filed Feb. 13, 2026.  
+- Workload Mapping to Matrix Multiplication Engines.  
   <small>Feb. 2026</small>
 
-- **5.** “Compute Architecture for Weight-Stationary Matrix Multiply Operations.”  
-  US Patent App. 19/529,294; filed Feb. 4, 2026.  
+- Compute Architecture for Weight-Stationary Matrix Multiply Operations.  
   <small>Feb. 2026</small>
 
-- **4.** “Computing Devices and Apparatuses for Memory Access.”  
-  US Patent App. 19/393,039; filed Nov. 18, 2025.  
+- Computing Devices and Apparatuses for Memory Access.  
   <small>Nov. 2025</small>
 
-- **3.** “Design Optimization for AI Accelerators.”  
-  US Patent App. 19/333,084; filed Sep. 18, 2025.  
+- Design Optimization for AI Accelerators.  
   <small>Sep. 2025</small>
 
-- **2.** “System and Method to Optimize Softmax in Attention-Based Intelligence.”  
-  Patent Application.  
+- System and Method to Optimize Softmax in Attention-Based Intelligence.  
   <small>May 2024</small>
 
-- **1.** “System and Method for Fast and Sparse Dot-Product Computations.”  
-  Patent Application.  
+- System and Method for Fast and Sparse Dot-Product Computations.  
   <small>May 2024</small>
 
 <small>
-All originated at Rain AI; now assigned to OpenAI.
+All originated at Rain AI; now assigned to OpenAI.  
 Inventor names omitted for brevity; inventor order on patent filings should not be interpreted as indicating relative contribution.
 </small>
 
