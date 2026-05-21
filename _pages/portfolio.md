@@ -70,10 +70,6 @@ redirect_from:
 - System and Method to Optimize Softmax in Attention-Based Intelligence. <small>May 2024</small>
 - System and Method for Fast and Sparse Dot-Product Computations. <small>May 2024</small>
 
-<small>
-All originated at Rain AI; now assigned to OpenAI.  
-Inventor names omitted for brevity; inventor order on patent filings should not be interpreted as indicating relative contribution.
-</small>
 
 <!-- --------------------------------------- -->
 <!-- --------------------------------------- -->
@@ -87,7 +83,7 @@ Inventor names omitted for brevity; inventor order on patent filings should not 
 - [Spice'25@MICRO](https://spice.cs.umd.edu/), Co-Chair
 
 ### Session Chair
-- [ISCA 2026](https://www.iscaconf.org/isca2026/), Session LLMs 1
+<!-- - [ISCA 2026](https://www.iscaconf.org/isca2026/), Session LLMs 1 -->
 - [MICRO 2025](https://microarch.org/micro58/), Session Systems for AI (LLMs)
 - [MICRO 2024](https://microarch.org/micro57/), Session GPU Synchronization/Concurrency
 
