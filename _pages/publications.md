@@ -10,11 +10,11 @@ title: "Publications"
   * __Early Silicon of Raptor: The First 3D-DRAM Accelerator for Generative Inference__  
       Prashant J. Nair, _Ramyad Hadidi_, Subramani Ganesh, Sangamesh Kodge, Shubhankit Rathore, Neil Thanawala, Nikitha Reddy, Gyanesh Saharia, Vinayak Patankar, Arun Tiruvur, Nithesh Kurella, and Sudeep Bhoja  
       [ISCA'26](https://www.iscaconf.org/isca2026/)  
-      <!-- <sup> -->
-      <!-- [__[Paper]__]() -->
+      <sup>
+      [__[Paper]__](https://ramyadhadidi.github.io/files/dMatrix-Raptor-ISCA.pdf)
       <!-- [__[Slides]__]() -->
       <!-- [__[Talk]__]() -->
-      <!-- </sup>   -->
+      </sup>  
 
 ##  2025
   * __Mustafar: Promoting Unstructured Sparsity for KV Cache Pruning in LLM Inference__  
