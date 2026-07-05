@@ -11,7 +11,10 @@ redirect_from:
 <!-- --------------------------------------- -->
 <!-- --------------------------------------- -->
 
-# Invited Talks {#invited-talks}
+# Invited Talks / Panels {#invited-talks}
+
+* [__YArch'26__](https://yarch2026.epfl.ch/), 8th Young Architect Workshop in conjunction with ISCA 2026,  
+  _Panel_, Demystifying Grad School, Raleigh, NC, June 2026.
 
 * [__ReLAMP @ MICRO'25__](https://freddygabbay.github.io/ReLAMP-MICRO/), Efficient Microarchitectures for Resilient Large Model Processing Workshop in conjunction with MICRO 2025,  
   “From KV Caches to Tensor Cores: Practical Unstructured Sparsity for LLM Inference.” Seoul, South Korea, October 2025.
@@ -27,6 +30,9 @@ redirect_from:
 
 * [__DARPA ERI 2.0 Summit__](https://eri-summit.darpa.mil/), Novel Architectures for Neuro-Symbolic Computation Workshop,  
   “Towards Intelligent Edge Devices.” Seattle, WA, August 2023.
+
+* [__DARPA ERI 2.0 Summit__](https://eri-summit.darpa.mil/), Novel Architectures for Neuro-Symbolic Computation Workshop,  
+  _Panel_, Seattle, WA, August 2023.
 
 * [__University of Illinois Urbana-Champaign__](https://cs.illinois.edu/), Department of Computer Science,  
   “Harnessing the Power of Edge Systems in a Data-Driven World.” Urbana, IL, May 2023.
