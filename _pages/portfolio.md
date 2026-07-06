@@ -61,20 +61,22 @@ redirect_from:
 
 # Patents {#patents}
 
+<small>_All patents listed below are assigned to __OpenAI__. Listed here for informational purposes only._</small>
+
 ### Granted / Published (US)
 
-- [Time Multiplexing and Weight Duplication in Efficient In-Memory Computing](https://patents.google.com/patent/US20250321684A1/en). <small>Oct. 2025</small>
-- [High-Speed In-Memory Computing Using Dynamical Memory](https://patents.google.com/patent/US20250238482A1/en). <small>Jul. 2025</small>
-- [System and Method of Transposed Matrix-Vector Multiplication](https://patents.google.com/patent/US12608439B2/en). <small>Mar. 2025</small>
+1. [Time Multiplexing and Weight Duplication in Efficient In-Memory Computing](https://patents.google.com/patent/US20250321684A1/en). <small>Oct. 2025</small>
+2. [High-Speed In-Memory Computing Using Dynamical Memory](https://patents.google.com/patent/US20250238482A1/en). <small>Jul. 2025</small>
+3. [System and Method of Transposed Matrix-Vector Multiplication](https://patents.google.com/patent/US12608439B2/en). <small>Mar. 2025</small>
 
 ### Provisional / Pending
 
-- Workload Mapping to Matrix Multiplication Engines. <small>Feb. 2026</small>
-- Compute Architecture for Weight-Stationary Matrix Multiply Operations. <small>Feb. 2026</small>
-- Computing Devices and Apparatuses for Memory Access. <small>Nov. 2025</small>
-- Design Optimization for AI Accelerators. <small>Sep. 2025</small>
-- System and Method to Optimize Softmax in Attention-Based Intelligence. <small>May 2024</small>
-- System and Method for Fast and Sparse Dot-Product Computations. <small>May 2024</small>
+1. Workload Mapping to Matrix Multiplication Engines. <small>Feb. 2026</small>
+2. Compute Architecture for Weight-Stationary Matrix Multiply Operations. <small>Feb. 2026</small>
+3. Computing Devices and Apparatuses for Memory Access. <small>Nov. 2025</small>
+4. Design Optimization for AI Accelerators. <small>Sep. 2025</small>
+5. System and Method to Optimize Softmax in Attention-Based Intelligence. <small>May 2024</small>
+6. System and Method for Fast and Sparse Dot-Product Computations. <small>May 2024</small>
 
 
 <!-- --------------------------------------- -->
@@ -89,7 +91,7 @@ redirect_from:
 - [Spice'25@MICRO](https://spice.cs.umd.edu/), Co-Chair
 
 ### Session Chair
-<!-- - [ISCA 2026](https://www.iscaconf.org/isca2026/), Session LLMs 1 -->
+- [ISCA 2026](https://www.iscaconf.org/isca2026/), Session LLMs 1
 - [MICRO 2025](https://microarch.org/micro58/), Session Systems for AI (LLMs)
 - [MICRO 2024](https://microarch.org/micro57/), Session GPU Synchronization/Concurrency
 
