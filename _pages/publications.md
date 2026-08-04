@@ -12,7 +12,7 @@ title: "Publications"
       [ISCA'26](https://www.iscaconf.org/isca2026/)  
       <sup>
       [__[Paper]__](https://ramyadhadidi.github.io/files/dMatrix-Raptor-ISCA.pdf)
-      <!-- [__[Slides]__]() -->
+      [__[Slides]__](https://ramyadhadidi.github.io/files/dMatrix-Raptor-ISCA-Slides.pdf)
       <!-- [__[Talk]__]() -->
       </sup>  
 
