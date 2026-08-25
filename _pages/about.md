@@ -25,7 +25,7 @@ feature_row:
 
 I am passionate about unraveling and mastering the complexities of diverse domains. My approach is holistic, integrating various disciplines to craft innovative and comprehensive solutions.  
 
-Currently, at [d-Matrix](https://www.d-matrix.ai/), I am part of the architecture team, advancing the future of ultra-low-latency, sustainable, and commercially viable LLM inference in data centers through the world’s first efficient memory-compute integration. Learn more about me [[here.]]({% link _pages/more_about_me.md %})  
+Currently, I am a Principal LLM Performance Architect at [Volantis Semiconductor](https://volantissemi.ai/), where I work at the intersection of LLM performance, systems, and next-generation hardware to build ambitious new infrastructure for frontier AI. Previously, I was part of the architecture team at [d-Matrix](https://www.d-matrix.ai/), focusing on distributed LLM inference and memory-centric accelerator design. Learn more about me [[here.]]({% link _pages/more_about_me.md %})
 
 
 ### [Last Entries]({% link _pages/entries.md %})

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ramyad Hadidi"
 title_separator          : "-"
 name                     : &name "Ramyad Hadidi"
-description              : &description "Computer architect and researcher focused on efficient AI accelerators, compute-in-memory, and hardware/software co-design; CS PhD from Georgia Tech."
+description              : &description "Computer architect focused on LLM performance, AI infrastructure, and hardware/software co-design; CS PhD from Georgia Tech."
 url                      : https://ramyadhadidi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ramyadhadidi/ramyadhadidi.github.io"
@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "Ramyad Hadidi"
   avatar           : "profile2.jpg"
-  bio              : "Senior Staff @ d-Matrix <br>CS PhD, Georgia Tech"
+  bio              : "Principal LLM Performance Architect @ Volantis<br>CS PhD, Georgia Tech"
   location         : 
   employer         :
   googlescholar    : https://scholar.google.com/citations?user=yLjz-JEAAAAJ&hl=en

@@ -7,8 +7,11 @@ redirect_from:
 My single-page CV
 
 ## Experience
+  * __Principal LLM Performance Architect__<br>
+    [Volantis Semiconductor](https://volantissemi.ai/) |  Aug. 26 – Present
+
   * __Senior Staff, ML Computer Architect__, Performance Architecture  
-    [d-Matrix](https://www.d-matrix.ai/) |  Apr. 25 – Present
+    [d-Matrix](https://www.d-matrix.ai/) |  Apr. 25 – Aug. 26
 
   * __Senior Scientist__, Architecture  
     [Rain AI](https://rain.ai/) |  Apr. 24 – Apr. 25
@@ -105,4 +108,3 @@ My single-page CV
 - **Tools / Platforms:** Vivado, ModelSim, Docker, Git , Linux, Windows, ROS
 - **Data / Visualization:** Pandas, NumPy/SciPy, Matplotlib/Seaborn, Plotly, OpenGL
 - **Edge AI & IoT:** NVIDIA Jetsons, Raspberry Pi, Arduino, ARM, Qualcomm
-
