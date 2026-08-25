@@ -11,7 +11,10 @@ redirect_from:
 <!-- --------------------------------------- -->
 <!-- --------------------------------------- -->
 
-# Invited Talks {#invited-talks}
+# Invited Talks / Panels {#invited-talks}
+
+* [__YArch'26__](https://yarch2026.epfl.ch/), 8th Young Architect Workshop in conjunction with ISCA 2026,  
+  _Panel_, Demystifying Grad School, Raleigh, NC, June 2026.
 
 * [__ReLAMP @ MICRO'25__](https://freddygabbay.github.io/ReLAMP-MICRO/), Efficient Microarchitectures for Resilient Large Model Processing Workshop in conjunction with MICRO 2025,  
   “From KV Caches to Tensor Cores: Practical Unstructured Sparsity for LLM Inference.” Seoul, South Korea, October 2025.
@@ -27,6 +30,9 @@ redirect_from:
 
 * [__DARPA ERI 2.0 Summit__](https://eri-summit.darpa.mil/), Novel Architectures for Neuro-Symbolic Computation Workshop,  
   “Towards Intelligent Edge Devices.” Seattle, WA, August 2023.
+
+* [__DARPA ERI 2.0 Summit__](https://eri-summit.darpa.mil/), Novel Architectures for Neuro-Symbolic Computation Workshop,  
+  _Panel_, Seattle, WA, August 2023.
 
 * [__University of Illinois Urbana-Champaign__](https://cs.illinois.edu/), Department of Computer Science,  
   “Harnessing the Power of Edge Systems in a Data-Driven World.” Urbana, IL, May 2023.
@@ -45,6 +51,102 @@ redirect_from:
 
 * [__Georgia Institute of Technology__](https://www.cc.gatech.edu/), Department of Computer Science,  
   “How to Deal with Heavy Computations in the Edge?” Atlanta, GA, February 2021.
+
+
+<!-- --------------------------------------- -->
+<!-- --------------------------------------- -->
+<!-- --------------------------------------- -->
+
+<hr>
+
+# Patents {#patents}
+
+<small>_All patents listed below are assigned to __OpenAI__. Listed here for informational purposes only._</small>
+
+### Granted / Published (US)
+
+1. [Time Multiplexing and Weight Duplication in Efficient In-Memory Computing](https://patents.google.com/patent/US20250321684A1/en). <small>Oct. 2025</small>
+2. [High-Speed In-Memory Computing Using Dynamical Memory](https://patents.google.com/patent/US20250238482A1/en). <small>Jul. 2025</small>
+3. [System and Method of Transposed Matrix-Vector Multiplication](https://patents.google.com/patent/US12608439B2/en). <small>Mar. 2025</small>
+
+### Provisional / Pending
+
+1. Workload Mapping to Matrix Multiplication Engines. <small>Feb. 2026</small>
+2. Compute Architecture for Weight-Stationary Matrix Multiply Operations. <small>Feb. 2026</small>
+3. Computing Devices and Apparatuses for Memory Access. <small>Nov. 2025</small>
+4. Design Optimization for AI Accelerators. <small>Sep. 2025</small>
+5. System and Method to Optimize Softmax in Attention-Based Intelligence. <small>May 2024</small>
+6. System and Method for Fast and Sparse Dot-Product Computations. <small>May 2024</small>
+
+
+<!-- --------------------------------------- -->
+<!-- --------------------------------------- -->
+<!-- --------------------------------------- -->
+
+<hr>
+
+# Service {#service}
+
+### Organization Committee
+- [Spice'25@MICRO](https://spice.cs.umd.edu/), Co-Chair
+
+### Session Chair
+- [ISCA 2026](https://www.iscaconf.org/isca2026/), Session LLMs 1
+- [MICRO 2025](https://microarch.org/micro58/), Session Systems for AI (LLMs)
+- [MICRO 2024](https://microarch.org/micro57/), Session GPU Synchronization/Concurrency
+
+### Program Committees
+- [HPCA 2027](https://hpca-conf.org/2027/), Program Committee
+- [ASPLOS 2027](https://www.asplos-conference.org/asplos2026/call-for-papers-asplos27/), External Review Committee
+- [ICCD 2026](https://www.iccd-conf.com/2026/home.html), Program Committee
+- [MICRO 2026](https://microarch.org/micro59/), Program Committee
+- [ISCA 2026](https://iscaconf.org/isca2026/), Program Committee
+- [HPCA 2026](https://hpca-conf.org/2026/), Program Committee
+- [MICRO 2025](https://microarch.org/micro58/), Program Committee
+- [ISCA 2025](https://iscaconf.org/isca2025/), Industry Track Program Committee
+- [HPCA 2025](https://hpca-conf.org/2025/), Program Committee
+- [ICCD 2024](https://iccd-conf.com/2024/Home.html), Program Committee
+- [MICRO 2024](https://microarch.org/micro57/), External Review Committee
+- [ISCA 2024](https://iscaconf.org/isca2024/), Industry Track Program Committee
+- [DAC 2024](https://www.dac.com/Conference/2024-Call-for-Contributions), Program Committee
+- [HPCA 2024](https://www.hpca-conf.org/2024/committees/pc.php), Program Committee
+- [ISCA 2023](https://iscaconf.org/isca2023/), Program Committee
+- [MICRO 2022](https://microarch.org/micro55/index.php), Artifact Evaluation
+- [ISCA 2022](https://iscaconf.org/isca2022/), External Review Committee
+- [ASPLOS 2022](https://asplos-conference.org/asplos2022/index.html), External Review Committee
+- Georgia Tech ArchiTECH 2016, Organization Committee
+
+### Journal Reviewer
+- [ACM Transactions on Architecture and Code Optimization](https://dl.acm.org/journal/taco)
+- [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)
+- [IEEE Access](https://ieeeaccess.ieee.org/)
+- [IEEE Computer Architecture Letters](https://www.computer.org/csdl/journal/ca)
+- [IEEE Internet of Things Journal](https://ieee-iotj.org/)
+- [IEEE Journal on Emerging and Selected Topics in Circuits and Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5503868)
+- [IEEE Micro](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=40)
+- [IEEE Networking Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7589046)
+- [IEEE Transactions on Artificial Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9078688)
+- [IEEE Transactions on Cloud Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6245519)
+- [IEEE Transactions on Cognitive Communications and Networking](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687307)
+- [IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43)
+- [IEEE Transactions on Computers](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12)
+- [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)
+- [IEEE Transactions on Neural Networks and Learning Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385)
+- [IEEE Transactions on Parallel and Distributed Systems](https://dl.acm.org/journal/tpds)
+- [IEEE Transactions on Services Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4629386)
+- [IEEE Transactions on Vehicular Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=25)
+- [IEEE/ACM Transactions on Networking](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=90)
+- [Springer Journal of Supercomputing](https://www.springer.com/journal/11227)
+
+### Submission Co-Chair
+- [MICRO Top Picks 2020](https://ieeexplore.ieee.org/document/9441012)
+- [MICRO 2018](https://microarch.org/micro51/)
+
+### Community
+- Mentor, Portfolio Project, [AI4ALL](https://ai-4-all.org/), 2024
+- Student Volunteer, PACT’20 (IEEE/ACM), 2020
+- Student Chaperone, PhD Visit Days (Georgia Tech), 2015
+
 
 <!-- --------------------------------------- -->
 <!-- --------------------------------------- -->
@@ -93,64 +195,3 @@ I enjoyed working closely with **more then 40** of our talented undergraduate st
 [[Summer'19]](https://photos.google.com/share/AF1QipPNdPhg9Qt0h07SJiktzPoYjvCSOcMX14fIt4m8AwveYUKsK2nHhYzdHQCWOf_WcA?key=M3JVWHJmUEVuajE2UWFqa0pVVDl1UDlsYlhiZ2ln)
 [[Spring'20-1]](https://www.youtube.com/watch?v=-_pJuwXOrnw)
 [[Spring'20-2]](https://www.youtube.com/watch?v=sBywdcMniW4&t=1s)
-
-
-<!-- --------------------------------------- -->
-<!-- --------------------------------------- -->
-<!-- --------------------------------------- -->
-
-<hr>
-
-# Service {#service}
-
-### Organization Committee
-- [Spice'25@MICRO](https://spice.cs.umd.edu/), Co-Chair
-
-### Session Chair
-- [MICRO 2025](https://microarch.org/micro58/), Session Systems for AI (LLMs)
-- [MICRO 2024](https://microarch.org/micro57/), Session GPU Synchronization/Concurrency
-
-### Program Committees
-- [MICRO 2026](https://microarch.org/micro59/), Program Committee
-- [ISCA 2026](https://iscaconf.org/isca2026/), Program Committee
-- [HPCA 2026](https://hpca-conf.org/2026/), Program Committee
-- [MICRO 2025](https://microarch.org/micro58/), Program Committee
-- [ISCA 2025](https://iscaconf.org/isca2025/), Industry Track Program Committee
-- [HPCA 2025](https://hpca-conf.org/2025/), Program Committee
-- [ICCD 2024](https://iccd-conf.com/2024/Home.html), Program Committee
-- [MICRO 2024](https://microarch.org/micro57/), External Review Committee
-- [ISCA 2024](https://iscaconf.org/isca2024/), Industry Track Program Committee
-- [DAC 2024](https://www.dac.com/Conference/2024-Call-for-Contributions), Program Committee
-- [HPCA 2024](https://www.hpca-conf.org/2024/committees/pc.php), Program Committee
-- [DeLTA 2024](https://delta.scitevents.org/), Program Committee
-- [ISCA 2023](https://iscaconf.org/isca2023/), Program Committee
-- [MICRO 2022](https://microarch.org/micro55/index.php), Artifact Evaluation
-- [ISCA 2022](https://iscaconf.org/isca2022/), External Review Committee
-- [ASPLOS 2022](https://asplos-conference.org/asplos2022/index.html), External Review Committee
-- Georgia Tech ArchiTECH 2016, Organization Committee
-
-### Journal Reviewer
-- [IEEE Transactions on Cloud Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6245519)
-- [IEEE Transactions on Parallel and Distributed Systems](https://dl.acm.org/journal/tpds)
-- [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)
-- [IEEE Internet of Things Journal](https://ieee-iotj.org/)
-- [Springer Journal of Supercomputing](https://www.springer.com/journal/11227)
-- [IEEE Transactions on Services Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4629386)
-- [IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=43)
-- [ACM Transactions on Architecture and Code Optimization](https://dl.acm.org/journal/taco)
-- [IEEE/ACM Transactions on Networking](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=90)
-- [IEEE Transactions on Vehicular Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=25)
-- [IEEE Journal on Emerging and Selected Topics in Circuits and Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5503868)
-- [IEEE Access](https://ieeeaccess.ieee.org/)
-- [IEEE Micro](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=40)
-- [IEEE Transactions on Computers](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12)
-- [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)
-
-### Submission Co-Chair
-- [MICRO Top Picks 2020](https://ieeexplore.ieee.org/document/9441012)
-- [MICRO 2018](https://microarch.org/micro51/)
-
-### Community
-- Mentor, Portfolio Project, [AI4ALL](https://ai-4-all.org/), 2024
-- Student Volunteer, PACT’20 (IEEE/ACM), 2020
-- Student Chaperone, PhD Visit Days (Georgia Tech), 2015
