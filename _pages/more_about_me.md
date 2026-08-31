@@ -9,13 +9,13 @@ title: "More About Me"
 
 I’m now a Principal LLM Performance Architect at [Volantis Semiconductor](https://volantissemi.ai/). Volantis builds photonic interconnects inside AI accelerators to extend memory reach beyond electrical links, enabling much larger, high-bandwidth memory pools for low-latency inference of frontier-scale models.
 
-Previously, I was on the architecture team at [d-Matrix](https://d-matrix.ai/), working on distributed LLM inference across mixture-of-experts (MoE), performance modeling, 3D-stacked DRAM, collectives, and scale-up/scale-out networks. My work focused on end-to-end performance analysis and memory-centric system design for high-throughput, low-latency inference. I produced the performance estimates presented in our ISCA’26 paper, [*Early Silicon of Raptor: The First 3D-DRAM Accelerator for Generative Inference*](https://ramyadhadidi.github.io/files/dMatrix-Raptor-ISCA.pdf).
+Previously, I was on the architecture team at [d-Matrix](https://d-matrix.ai/), working on distributed LLM inference across mixture-of-experts (MoE), performance modeling, 3D-stacked DRAM, collectives, and scale-up/scale-out networks. My work focused on end-to-end performance analysis and memory-centric system design for high-throughput, low-latency inference. Feel free to check our ISCA’26 paper, [*Early Silicon of Raptor: The First 3D-DRAM Accelerator for Generative Inference*](https://ramyadhadidi.github.io/files/dMatrix-Raptor-ISCA.pdf), or read my entry here [*12 Years from the Hybrid Memory Cube to 3D-DRAM*](https://ramyadhadidi.github.io/entries/3DDRAM-1/)
 
 Previously, I was at [Rain AI](https://rain.ai/) for two years. As one of the initial technical hires, I embraced a role that was as varied as it was fulfilling. My day-to-day involved realizing our AI accelerator architecture—breaking the memory wall with compute-in-memory, driving radical hardware–software codesign across ML workloads (from LLM attention to CNN convolutions), and leading technical presentations and customer interactions. Patents from Rain’s compute-in-memory work were later acquired by OpenAI.
 
 Before [Rain AI](https://rain.ai/), I worked as a machine learning researcher at [SK hynix](http://www.skhynix.com/), focusing on the intersection of hardware, software, and CMOS image sensors (CIS) to enable efficient execution of cutting-edge computer vision workloads. Later, I co-designed compression accelerators (LZ4 and ZSTD) for computational SSDs and explored processing-in-memory (PIM) concepts on Hybrid Memory Cubes (HBMs).
 
-In 2018, I had the enriching experience of interning on Google’s Video Understanding Team, where I contributed to designing DNN models for YouTube video analysis—an opportunity that deepened my machine learning and video-analytics expertise in a high-impact setting.
+In 2018, I had the enriching experience of interning on Google’s Video Understanding Team, where I contributed to designing DNN models for YouTube video analysis and training them on TPUs; a rare opportunity that deepened my machine learning and video-analytics expertise in a high-impact setting.
 
 ### Academic Background
 
