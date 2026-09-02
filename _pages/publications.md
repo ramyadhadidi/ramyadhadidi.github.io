@@ -12,7 +12,11 @@ title: "Publications"
       [ISCA'26](https://www.iscaconf.org/isca2026/)  
       <sup>
       [__[Paper]__](https://ramyadhadidi.github.io/files/dMatrix-Raptor-ISCA.pdf)
+      [__[DOI]__](https://doi.org/10.1109/ISCA66397.2026.00183)
       [__[Slides]__](https://ramyadhadidi.github.io/files/dMatrix-Raptor-ISCA-Slides.pdf)
+      [__[Hot Chips '26]__](https://hc2026.hotchips.org/)
+      [__[Blog]__](https://ramyadhadidi.github.io/entries/3DDRAM-1/)
+      [__[Coverage]__](https://ramyadhadidi.github.io/entries/3DDRAM-1/#coverage-of-raptor)
       <!-- [__[Talk]__]() -->
       </sup>  
 
