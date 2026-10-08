@@ -16,6 +16,7 @@ title: "Publications"
       [__[Slides]__](https://ramyadhadidi.github.io/files/dMatrix-Raptor-ISCA-Slides.pdf)
       [__[Hot Chips '26]__](https://hc2026.hotchips.org/)
       [__[Blog]__](https://ramyadhadidi.github.io/entries/3DDRAM-1/)
+      [__[Visualizer]__](https://xignoe.github.io/3d-dram-explained/)
       [__[Coverage]__](https://ramyadhadidi.github.io/entries/3DDRAM-1/#coverage-of-raptor)
       <!-- [__[Talk]__]() -->
       </sup>  
