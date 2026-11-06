@@ -96,6 +96,7 @@ redirect_from:
 - [MICRO 2024](https://microarch.org/micro57/), Session GPU Synchronization/Concurrency
 
 ### Program Committees
+- [ISCA 2027](https://iscaconf.org/isca2027/), Program Committee
 - [HPCA 2027](https://hpca-conf.org/2027/), Program Committee
 - [ASPLOS 2027](https://www.asplos-conference.org/asplos2026/call-for-papers-asplos27/), External Review Committee
 - [ICCD 2026](https://www.iccd-conf.com/2026/home.html), Program Committee

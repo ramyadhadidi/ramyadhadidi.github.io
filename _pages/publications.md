@@ -7,6 +7,13 @@ title: "Publications"
 <!-- --------------------------------------- -->
 <!-- --------------------------------------- -->
 ##  2026
+  * __Should You Split Decode? Disaggregation Across Future Models and Accelerators__  
+      _Ramyad Hadidi_  
+      <sup>
+      [__[Paper]__](https://arxiv.org/abs/2611.08299)
+      [__[Blog]__](https://ramyadhadidi.github.io/entries/split-decode/)
+      </sup>  
+
   * __Early Silicon of Raptor: The First 3D-DRAM Accelerator for Generative Inference__  
       Prashant J. Nair, _Ramyad Hadidi_, Subramani Ganesh, Sangamesh Kodge, Shubhankit Rathore, Neil Thanawala, Nikitha Reddy, Gyanesh Saharia, Vinayak Patankar, Arun Tiruvur, Nithesh Kurella, and Sudeep Bhoja  
       [ISCA'26](https://www.iscaconf.org/isca2026/)  
